@@ -2,10 +2,10 @@
 items:
   - name: Home
     link: /
-  - name: About
+  - name: Sobre
     link: /about.html
   - name: Blog
     link: /blog.html
-  - name: Staff
+  - name: Equipe
     link: /staff.html
     
