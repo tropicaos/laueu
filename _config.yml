@@ -20,9 +20,7 @@
 
 title: Laureano.
 email: autor@laureano.eu
-description: >- # this means to ignore newlines until "baseurl:"
-Videomaker por profissão.
-Roteirista por masoquismo.
+description: Videomaker por profissão. <br> Roteirista por masoquismo. # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: law_reano
