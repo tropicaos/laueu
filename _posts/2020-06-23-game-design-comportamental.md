@@ -3,8 +3,6 @@ layout: post
 title: Game Design Comportamental
 date: 2014-10-06T17:09:19.754Z
 ---
-
-
 <!--StartFragment-->
 
 #### Como a psicologia behaviorista é utilizada em jogos eletrônicos.
@@ -19,11 +17,17 @@ date: 2014-10-06T17:09:19.754Z
 
 Todo jogo de computador é desenvolvido em torno do mesmo elemento central: o jogador. Enquanto *hardware* e *software* mudam, a psicologia fundamental de como os jogadores aprendem e reagem aos games é uma constante. O estudo da mente já teve várias descobertas que podem auxiliar o game designer, mas a maioria delas são publicadas em jornais científicos e outros formatos inacessíveis. Ironicamente, boa parte dessas descobertas usam simples jogos como ferramentas para explorar como as pessoas aprendem e agem sob condições diferentes.
 
+
+
 As técnicas que discutirei nesse artigo são as mais relevantes na Psicologia Comportamental. Mais conhecida pelas pesquisas com animais, ela foca em experiências e ações observadas. Uma marca dessa linha de pesquisa é que a maioria das descobertas são independentes de espécies e podem ser encontradas em vários seres vivos como pássaros, peixes e humanos. O que os psicólogos behavioristas procuram (e será o nosso foco aqui) são “regras” gerais de como as mentes aprendem e respondem ao ambiente. Devido a amplitude de espécies e contextos, essas regras são facilmente aplicáveis a novos domínios como a comunidade de desenvolvimento de jogos. Diferente da teoria dos jogos, que destaca como um jogador deve reagir a uma situação, esse artigo focará em como eles *realmente* reagem a certas condições gerais.
+
+
 
 O que será mostrado aqui não é um projeto para jogos perfeitos, mas a apresentação de algumas formas básicas das reações de pessoas à diferentes camadas de recompensas. Todo jogo está implicitamente fazendo o jogador reagir de determinadas formas. A psicologia pode nos mostrar um quadro e um vocabulário para entender o que estamos dizendo aos nossos jogadores.
 
-### **Contingências e Esquemas**
+
+
+#### **Contingências e Esquemas**
 
 A tradução concreta de “O que estamos dizendo aos nossos jogadores?” é “Quais são as contingências?” Contingência é uma ou várias regras que controlam quando as recompensas deverão ser entregues. A anedota sobre essa descoberta (passada a mim por um de seus estudantes) é que um dia B. F. Skinner ficou com pouca comida para alimentar os ratos que participavam de suas experiências e para evitar o risco de ter que parar de trabalhar no dia, ao invés de dar comida sempre que os ratos puxavam a alavanca, ele começou a fazê-lo só na décima vez. Testando vários regimes diferentes de recompensa, ele descobriu que havia produzido diferentes padrões de resposta. Disso nasceu uma nova área da psicologia , com inúmeras e fortes aplicações ao game design.
 
@@ -33,15 +37,15 @@ As contingências nos jogos são mais complexas, mas a analogia com os ratos é 
 
 *Alguns termos comuns na psicologia comportamental que se encaixam nas considerações de Game Design:*
 
-***Reforço**: um resultado ou consequência, geralmente usado pra se referir a recompensa. Exemplo: um ponto de XP, subir um nível, uma arma melhor.*
+**\*Reforço**: um resultado ou consequência, geralmente usado pra se referir a recompensa. Exemplo: um ponto de XP, subir um nível, uma arma melhor.*
 
-***Contingência**: Uma ou várias regras que controlam quando os reforços são dados. Também chamado de “Esquema de Reforço”. Exemplo: um nível a cada 1.000 XP, um nível bônus que só está disponível se você matar um certo inimigo.*
+**\*Contingência**: Uma ou várias regras que controlam quando os reforços são dados. Também chamado de “Esquema de Reforço”. Exemplo: um nível a cada 1.000 XP, um nível bônus que só está disponível se você matar um certo inimigo.*
 
-***Resposta**: Uma ação do jogador que pode completar a contingência. Pode ser matando um monstro, visitando uma área do jogo ou usando uma habilidade especial.*
+**\*Resposta**: Uma ação do jogador que pode completar a contingência. Pode ser matando um monstro, visitando uma área do jogo ou usando uma habilidade especial.*
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### **Razões e Intervalos**
+#### **Razões e Intervalos**
 
 Existem essencialmente duas contingências fundamentais: razões e intervalos. O esquema de razão fixa disponibiliza recompensas quando um certo número de ações é completado. Por exemplo, um jogador pode receber uma vida depois de matar 20 oponentes. Isso pode ser chamado de esquema de “razão fixa”, porque o mesmo número de kills é requerido toda vez. Outros tipos de relações serão discutidas posteriormente.
 
@@ -71,7 +75,7 @@ Existe também o esquema de intervalo variável, onde o período de tempo envolv
 
 Esses são blocos de construção básica, de forma alguma é uma lista exaustiva. Cada contingência é uma combinação de tempo, atividade e recompensa, e existe um número infinito de formas em que esses elementos podem ser combinados para produzir o padrão de atividade que você quer de seus jogadores.
 
-# **Casos Especiais**
+#### **Casos Especiais**
 
 Existem alguns casos especiais no estudo das contingências que merecem uma menção especial. Primeiramente existem os “esquemas em cadeia”, situações onde existem níveis múltiplos de contingência. Por exemplo, os jogadores devem matar 10 orcs antes de entrarem na caverna do dragão, mas o dragão aparecer cada vez em um ponto aleatório. Esses esquemas são facilmente achados em puzzles multiníveis e quests de RPG, e as pessoas normalmente respondem a eles de uma forma muito específica. No exemplo que usei, a maioria dos jogadores tratariam a primeira parte como um esquema de razão fixa, sendo o acesso à caverna a recompensa para o esquema de intervalo variável subsequente.
 
@@ -91,21 +95,21 @@ O melhor exemplo disso que conheço é em Ultima Online, onde os jogadores que t
 
 Contingências se tornaram a maior ferramenta da psicologia por mais de 50 anos, então há uma variedade abrangente de casos especiais e esquemas incomuns. Esses são só três exemplos de casos especiais que são particularmente aplicáveis para os desenvolvedores.
 
-# **Receitas**
+### **Receitas**
 
 Para ajudar a colocar em prática as ideias que discuti, eis aqui algumas fórmulas simples sobre qual contingência usar para conquistar um resultado específico. Elas não são a única forma de resolver os problemas, mas são simples, confiáveis e extremamente efetivas.
 
-## **Como fazer os jogadores jogarem muito.**
+#### **Como fazer os jogadores jogarem muito.**
 
 Traduzindo para a linguagem que venho usando, como fazer os jogadores manterem uma alta e consistente taxa de atividade? Olhando para os quatro esquemas básicos a resposta é o esquema de razão variável, que é onde cada resposta tem uma chance de produzir recompensa. O nível de atividade é a função breve em que o participante espera que a recompensa ocorrerá. Quanto mais certos eles estiverem de que algo bom ou interessante acontecerá logo, mais eles vão jogar. Quando o jogador sabe que a recompensa vai demorar, como quando ele acaba de chegar num nível e sabe que precisará de milhares de pontos pra alcançar um novo, a motivação é baixa assim como a atividade do jogador.
 
-## **Como fazer os jogadores jogarem para sempre.**
+#### **Como fazer os jogadores jogarem para sempre.**
 
 Uma resposta curta é garantir que sempre, sempre haja um motivo para o jogador continuar jogando. Os esquemas variáveis que falei antes produzem uma probabilidade constante de recompensa, o que dá ao jogador um motivo para fazer o próximo objetivo. O que um desenvolvedor quer de seus jogadores é uma “dinâmica comportamental”, uma tendência a continuar fazendo o que estão fazendo mesmo nas partes que não há uma recompensa imediata. Um esquema que produz muita dinâmica é o esquema de evitação, onde os jogadores trabalham para prevenir que coisas ruins aconteçam. Até quando não está ocorrendo nada o jogador pode conseguir algo positivo para adiar uma consequência negativa.
 
 ![](/images/uploads/1_keagpumsrtfsqefwoln9ya.jpeg "O nível de atividade é a função breve em que o participante espera que a recompensa ocorrerá. Quanto mais certos eles estiverem que algo bom ou interessante acontecerá logo, mais eles vão jogar.")
 
-## **Como fazer os jogadores pararem.**
+#### **Como fazer os jogadores pararem.**
 
 Em outras palavras, sob quais circunstâncias os jogadores param de jogar e como você pode evitar isso? Discuti duas principais condições onde os jogadores pararão de jogar. A primeira é pausar, onde a motivação para eles fazerem algo é baixa. Motivação é relativa: o desejo de jogar é sempre medido em relação a outras atividades. Enquanto possa haver uma alta motivação para jogar, durante a jogatina o jogador está sempre comparando sua vontade de jogar com sua vontade de fazer qualquer outra coisa que ele poderia estar fazendo. Se ele acabar de subir um nível e souber que ainda tem uma hora de jogatina antes que haja algo interessante, sua motivação será baixa em comparação a todas as outras atividades que ele poderia estar fazendo.
 
@@ -113,6 +117,6 @@ Uma forma de contornar esse problema é ter múltiplas atividades possíveis a q
 
 A outra situação que pode levar o jogador a parar de jogar é uma queda abrupta nos níveis de recompensa que citei no exemplo dos chimpanzés. Como a motivação, recompensas são relativas. O valor atual da recompensa é comparado ao valor das recompensas anteriores. Se a recompensa atual é 10 vezes o valor da última, isso causará um grande impacto no participante. Se a recompensa atual é mais fraca que a experiência o fez acreditar, o jogador sentirá frustração e raiva. A violação de expectativas é visto como um ato agressivo, uma decisão injusta dos desenvolvedores. Enquanto o jogo se torna mais difícil com o tempo, é melhor evitar mudanças bruscas nos níveis de recompensa. Isso é particularmente aplicável nos jogos puzzle, onde o jogador pode gastar horas no mesmo problema antes de ir para o próximo. Se o problema atual for muito mais difícil que os últimos puzzles, o jogador pode simplesmente largar o jogo.
 
-# **Conclusão**
+### **Conclusão**
 
 A aplicação das regras gerais para um caso específico é geralmente complicada, especialmente em situações onde há mais de uma contingência operando. A maioria dos experimentos em psicologia comportamental são desenvolvidos para iluminar um fenômeno em particular, como um raio x revelando os ossos de um braço. A pele, os músculos e outras coisas não são mostradas, então o quadro inteiro está incompleto. Mas mesmo só com os ossos, nós podemos ter uma noção de como o braço funciona, com suas limitações e flexibilidades. Os princípios behavioristas discutidos aqui devem ser entendidos como tendo benefícios e limitações semelhantes. Há várias outras coisas que influenciam os jogadores, mas os padrões básicos de consequências e recompensas formam um quadro que poderá servir para todo o resto. Entendendo os padrões fundamentais que subjazem como os jogadores respondem ao que pedimos deles podemos desenvolver jogos que trazem o tipo de jogador que queremos.
