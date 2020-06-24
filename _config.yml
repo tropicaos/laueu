@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  pages:
+    title: Pages
+    output: true
 email: autor@laureano.eu
 description: Videomaker por profissão. <br> Roteirista por masoquismo.
 baseurl: ''
