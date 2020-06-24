@@ -33,6 +33,7 @@ collections:
     editor:
     preview: false
     files:
+collections:
         - label: "Navigation"
     name: "navigation"
     file: "_data/navigation.yml"
