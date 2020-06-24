@@ -1,6 +1,7 @@
 ---
 title: About
 permalink: "/about/"
+description: Sobre o Autor e o Blog
 layout: page
 ---
 

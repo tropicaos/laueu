@@ -9,9 +9,25 @@ collections:
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+label: "Pages"
+name: "pages"
+create: true
+files:
+    label: "About"
+    name: "about"
+    file: "about.md"
+    fields:
+    label: "Title"
+    name: "title"
+    widget: "string"
+    label: "Description"
+    name: "description"
+    label: "Body"
+    name: "body"
+    widget: "markdown"
