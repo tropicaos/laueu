@@ -15,18 +15,15 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-label: "Pages"
-name: "pages"
-create: true
-    label: "About"
+  - label: "About page"
     name: "about"
     file: "about.md"
     fields:
-    label: "Title"
-    name: "title"
-    widget: "string"
-    label: "Description"
-    name: "description"
-    label: "Body"
-    name: "body"
-    widget: "markdown"
+        label: "Title"
+        name: "title"
+        widget: "string"
+        label: "Description"
+        name: "description"
+        label: "Body"
+        name: "body"
+        widget: "markdown"
