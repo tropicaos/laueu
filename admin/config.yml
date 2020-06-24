@@ -18,7 +18,6 @@ collections:
 label: "Pages"
 name: "pages"
 create: true
-files:
     label: "About"
     name: "about"
     file: "about.md"
