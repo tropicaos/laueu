@@ -46,7 +46,7 @@ Sendo uma das contingências mais comuns achada nos jogos, o esquema de razão f
 
 A pausa mostrada no esquema de razão fixa pode ser um problema sério para os game designers. Caso exista um período de tempo onde há pouco incentivo para o jogador, ele pode ser levado a abandonar o game. Além disso, o tamanho da pausa é relativo ao tamanho da razão (aquele número de ações), então quanto mais ações forem necessárias, maior será a pausa. Isso significa que a razão cresce com o tempo, como o número de XP necessário para subir de nível em *Dungeons & Dragons.* Eventualmente, a pausa se torna infinita e o jogador decide que aquilo simplesmente não vale a pena e larga o jogo.
 
-![Test](/images/uploads/1_9weajmanp_55co3xgray8q.jpeg "Como em toda contingência, ações da parte do participante sob circunstâncias específicas dão recompensas.")
+![](/images/uploads/1_9weajmanp_55co3xgray8q.jpeg "Como em toda contingência, ações da parte do participante sob circunstâncias específicas dão recompensas.")
 
 Pelo lado positivo, durante uma pausa e outra, atividades menos gratificantes geralmente vem à tona. Por exemplo, se os jogadores souberem que demorará muito para chegarem no próximo nível, poderão tentar uma nova tática ou testar outros aspectos do jogo.
 
