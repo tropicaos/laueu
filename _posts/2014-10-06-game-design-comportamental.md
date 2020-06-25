@@ -1,9 +1,9 @@
 ---
-title: Game Design Comportamental
-date: 2014-10-06 17:09:19 Z
 layout: post
+title: Game Design Comportamental
+tags: game-design
+date: 2014-10-06T17:09:19.000Z
 ---
-
 <!--StartFragment-->
 
 ##### Como a psicologia behaviorista é utilizada em jogos eletrônicos.
@@ -13,8 +13,6 @@ layout: post
 ![](/images/uploads/download.jpg)
 
 *John Hopson é o Chefe do Departamento de Pesquisa de Usuário da Bungie e foi o pesquisador chefe de jogos como Halo e Age of Empires. O artigo a seguir foi escrito por ele e postado no [Gamasutra.com](http://www.gamasutra.com/view/feature/3085/behavioral_game_design.php?page=1) em 21 de Abril de 2001, disponível agora em português numa tradução livre feita por mim sob a revisão de Larissa Brito. Este texto serve como conteúdo extra para o meu artigo “[Como Games Viciam Você](http://jogazera.com.br/como-os-games-viciam-voce/)”, postado no site [Jogazera](http://jogazera.com.br/).*
-
-
 
 Todo jogo de computador é desenvolvido em torno do mesmo elemento central: o jogador. Enquanto *hardware* e *software* mudam, a psicologia fundamental de como os jogadores aprendem e reagem aos games é uma constante. O estudo da mente já teve várias descobertas que podem auxiliar o game designer, mas a maioria delas são publicadas em jornais científicos e outros formatos inacessíveis. Ironicamente, boa parte dessas descobertas usam simples jogos como ferramentas para explorar como as pessoas aprendem e agem sob condições diferentes.
 
@@ -48,7 +46,7 @@ Sendo uma das contingências mais comuns achada nos jogos, o esquema de razão f
 
 A pausa mostrada no esquema de razão fixa pode ser um problema sério para os game designers. Caso exista um período de tempo onde há pouco incentivo para o jogador, ele pode ser levado a abandonar o game. Além disso, o tamanho da pausa é relativo ao tamanho da razão (aquele número de ações), então quanto mais ações forem necessárias, maior será a pausa. Isso significa que a razão cresce com o tempo, como o número de XP necessário para subir de nível em *Dungeons & Dragons.* Eventualmente, a pausa se torna infinita e o jogador decide que aquilo simplesmente não vale a pena e larga o jogo.
 
-![](/images/uploads/1_9weajmanp_55co3xgray8q.jpeg "Como em toda contingência, ações da parte do participante sob circunstâncias específicas dão recompensas.")
+![Test](/images/uploads/1_9weajmanp_55co3xgray8q.jpeg "Como em toda contingência, ações da parte do participante sob circunstâncias específicas dão recompensas.")
 
 Pelo lado positivo, durante uma pausa e outra, atividades menos gratificantes geralmente vem à tona. Por exemplo, se os jogadores souberem que demorará muito para chegarem no próximo nível, poderão tentar uma nova tática ou testar outros aspectos do jogo.
 
