@@ -6,7 +6,7 @@ layout: post
 
 <!--StartFragment-->
 
-#### Como a psicologia behaviorista é utilizada em jogos eletrônicos.
+##### Como a psicologia behaviorista é utilizada em jogos eletrônicos.
 
 <!--EndFragment-->
 
