@@ -1,15 +1,19 @@
 // Posts images
 const images = document.querySelectorAll('.post p > img')
 
-images.forEach(function(element) {
-  const parent = element.parentNode
-  const title = element.title
+images.forEach(function(image) {
+  const parent = image.parentNode
+  const title = image.title
+  const alignment = image.alt
 
   if (title) {
     const caption = document.createElement('span')
     caption.innerHTML = title
 
-    parent.classList.add('img')
     parent.appendChild(caption)
+    parent.classList.add('img')
+
+    if (alignment)
+      parent.classList.add(alignment)
   }
 })
