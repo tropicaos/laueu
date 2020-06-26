@@ -20,6 +20,16 @@ hide_credits: true
 plugins:
 - jekyll-feed
 - jekyll-paginate
+- jekyll-archives
 paginate: 20
 paginate_path: "/page/:num/"
-
+jekyll-archives:
+  enabled: all
+  layout:
+    category: archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
