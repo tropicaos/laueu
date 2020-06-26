@@ -26,17 +26,13 @@ A tradução concreta de “O que estamos dizendo aos nossos jogadores?” é �
 
 As contingências nos jogos são mais complexas, mas a analogia com os ratos é bem clara. Por exemplo, jogadores em um RPG ganham XP para subir níveis ou coletar itens bônus para ganhar vidas extras. Num jogo arcade, power-ups podem aparecer em intervalos aleatórios ou apenas quando certas condições forem encontradas. Como em toda contingência, existem ações por parte do participante que dão as recompensas sob circunstâncias específicas. Isso não é o mesmo que dizer que os jogadores são como ratos, mas que essas regras gerais se aplicam a ambos.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-*Alguns termos comuns na psicologia comportamental que se encaixam nas considerações de Game Design:*
-
-**\*Reforço**: um resultado ou consequência, geralmente usado pra se referir a recompensa. Exemplo: um ponto de XP, subir um nível, uma arma melhor.*
-
-**\*Contingência**: Uma ou várias regras que controlam quando os reforços são dados. Também chamado de “Esquema de Reforço”. Exemplo: um nível a cada 1.000 XP, um nível bônus que só está disponível se você matar um certo inimigo.*
-
-**\*Resposta**: Uma ação do jogador que pode completar a contingência. Pode ser matando um monstro, visitando uma área do jogo ou usando uma habilidade especial.*
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> *Alguns termos comuns na psicologia comportamental que se encaixam nas considerações de Game Design:*
+>
+> **\*Reforço**: um resultado ou consequência, geralmente usado pra se referir a recompensa. Exemplo: um ponto de XP, subir um nível, uma arma melhor.*
+>
+> **\*Contingência**: Uma ou várias regras que controlam quando os reforços são dados. Também chamado de “Esquema de Reforço”. Exemplo: um nível a cada 1.000 XP, um nível bônus que só está disponível se você matar um certo inimigo.*
+>
+> **\*Resposta**: Uma ação do jogador que pode completar a contingência. Pode ser matando um monstro, visitando uma área do jogo ou usando uma habilidade especial.*
 
 #### **Razões e Intervalos**
 
