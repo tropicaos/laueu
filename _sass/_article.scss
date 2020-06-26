@@ -56,8 +56,13 @@
   text-align: right;
 }
 
-.post img {
-  float: left;
+.post .img {
+  img { float: left; }
+  span {
+    font-size: .8em;
+    line-height: 1.2em;
+    float: left;
+  }
 }
 
 .back-link {
