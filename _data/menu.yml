@@ -1,17 +1,17 @@
 - title: Vídeos
-  url: /about.html
+  url: /category/vídeos
   
 - title: Fotos
-  url: /about.html
+  url: /category/fotos
 
 - title: Textos
-  url: /about.html
+  url: /category/textos
   
 - title: Mídias
-  url: /about.html
+  url: /category/mídias
   
 - title: Jogos
-  url: /about.html
+  url: /category/jogos
     
 - title: Sobre
   url: /about.html

@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<header class="site-masthead">
+  {% include menu.html %}
+</header>
+
+<main class="archive" id="main" role="main" aria-label="Content">
+  <h1 class="post-title">{{ page.title }}</h1>
+
+  <ul class="post-list">
+    {% for post in page.posts %}
+      {% include post-list-item.html %}
+    {% endfor %}
+  </ul>
+</main>

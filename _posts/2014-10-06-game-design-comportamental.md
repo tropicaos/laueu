@@ -4,11 +4,7 @@ title: Game Design Comportamental
 tags: game-design
 date: 2014-10-06T17:09:19.000Z
 ---
-<!--StartFragment-->
-
 ##### Como a psicologia behaviorista é utilizada em jogos eletrônicos.
-
-<!--EndFragment-->
 
 ![](/images/uploads/download.jpg)
 
