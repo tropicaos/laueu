@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Category Test
-tags: game-design
+title: Vídeos
+tags: vídeos
 category: Vídeos
 date: 2014-10-06T17:09:19.000Z
 ---
-##### Como a psicologia behaviorista é utilizada em jogos eletrônicos.
+
+##### Colocar aqui todos os posts de vídeos
 
 Amet quidem dolorum sit expedita nemo ipsa architecto. Nulla consequatur rem consequatur repellat animi exercitationem consectetur et? Ullam perspiciatis ut molestias ratione alias, ea Nobis consequuntur molestiae reiciendis voluptas dolore.
 

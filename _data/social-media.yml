@@ -1,0 +1,23 @@
+email:
+  id: 'autor@laureano.eu'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
+
+twitter:
+  id: 'law_reano'
+  href: 'https://www.twitter.com/law_reano'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+
+instagram:
+  id: 'law_reano'
+  href: 'https://instagram.com/law_reano'
+  title: 'Instagram'
+  fa-icon: 'fa-instagram-square'
+
+github:
+  id: 'your-github-name'
+  href: 'https://github.com/law_reano'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square'

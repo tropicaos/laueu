@@ -1,20 +1,20 @@
+- title: Trampos
+  url: /categories/trampos
+
 - title: Vídeos
-  url: /category/vídeos
-  
-- title: Fotos
-  url: /category/fotos
+  url: /categories/videos
 
 - title: Textos
-  url: /category/textos
-  
-- title: Mídias
-  url: /category/mídias
+  url: /categories/textos
+
+- title: Fotos
+  url: /categories/fotos
   
 - title: Jogos
-  url: /category/jogos
+  url: /categories/jogos
     
 - title: Sobre
-  url: /about.html
+  url: /sobre.html
   
 - title: Contato
-  url: /about.html
+  url: /contato.html

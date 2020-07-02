@@ -1,6 +1,7 @@
 ---
 title: Laureano.
 timezone: UTC
+lang: pt-br
 collections:
   posts:
     title: Posts
@@ -9,7 +10,7 @@ collections:
     title: Uploads
     output: true
 email: autor@laureano.eu
-description: Videomaker por profissão. <br> Roteirista por masoquismo.
+description: Videomaker por profissão.<p>Roteirista por masoquismo.
 baseurl: ''
 url: ''
 twitter_username: law_reano
@@ -17,10 +18,13 @@ github_username: law_reano
 theme: hitchens-theme
 show_excerpts: true
 hide_credits: true
+font-awesome:
+  assets: true
 plugins:
 - jekyll-feed
 - jekyll-paginate
 - jekyll-archives
+- jekyll-font-awesome-sass
 paginate: 20
 paginate_path: "/page/:num/"
 jekyll-archives:
