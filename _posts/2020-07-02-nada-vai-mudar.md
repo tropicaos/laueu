@@ -3,7 +3,7 @@ layout: post
 title: Nada Vai Mudar
 categories:
   - textos
-tags: contos, romance
+tags: contos, romances
 date: 2016-03-01T03:58:23.231Z
 ---
 ![](/images/uploads/1_yh1igexwrypk6og92ef9lq.png)
