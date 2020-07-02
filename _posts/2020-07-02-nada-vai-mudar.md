@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nada vai mudar
+title: Nada Vai Mudar
 categories:
   - textos
 tags: contos, romance
