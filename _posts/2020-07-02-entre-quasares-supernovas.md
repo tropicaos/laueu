@@ -3,7 +3,7 @@ layout: post
 title: Entre Quasares & Supernovas.
 categories:
   - textos
-tags: crônica, romance, scifi
+tags: crônicas, romances, scifi
 date: 2016-08-19T11:58:18.209Z
 ---
 ![](/images/uploads/0_v3ilytenwseeu3kp.jpg)
