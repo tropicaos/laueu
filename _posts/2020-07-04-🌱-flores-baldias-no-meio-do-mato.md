@@ -17,7 +17,7 @@ Banda de amigos de longa data, a Flores se destaca por sua mistura de ritmos nor
 
 ![](/images/uploads/1_bb_mmlru76tbetzujgkw_a.png)
 
-E pra fazer aquele trabalho completo, além do videoclipe que você pode ver **[clicando aqui](https://macalango.com/vento-vendaval-ao-vivo-flores-baldias-372cb9081940)**, entre um take e outro, cliquei os meninos no meio da densa **Mata do Buraquinho**, com direito a fotos numa ponte de bambu que rasga um tapete quase infinito de jacintos-de-água sobre o Rio Jaguaribe, o maior curso d’água urbano da capital.
+E pra fazer aquele trabalho completo, além do videoclipe que você pode ver **[clicando aqui](/videos/trampos/2018/02/20/vento-vendaval-ao-vivo-flores-baldias.html)**, entre um take e outro, cliquei os meninos no meio da densa **Mata do Buraquinho**, com direito a fotos numa ponte de bambu que rasga um tapete quase infinito de jacintos-de-água sobre o Rio Jaguaribe, o maior curso d’água urbano da capital.
 
 Flores, mato e água, nada que combine melhor com o verão pessoense!
 
