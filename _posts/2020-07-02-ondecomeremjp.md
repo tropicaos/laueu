@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OndeComerEmJP
+title: OndeComerEmJP 🍨
 categories:
   - trampos
 tags: gastronomia, mídias
