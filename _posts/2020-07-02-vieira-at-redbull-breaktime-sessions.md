@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VIEIRA AT REDBULL BREAKTIME SESSIONS
+title: VIEIRA | Red Bull Breaktime Sessions 🎸
 categories:
   - fotos
 tags: cobertura, show
