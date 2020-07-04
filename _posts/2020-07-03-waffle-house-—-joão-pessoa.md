@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Waffle House — João Pessoa
+title: Waffle House 🥝 — João Pessoa
 categories:
   - trampos
   - videos
