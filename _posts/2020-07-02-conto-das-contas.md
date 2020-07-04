@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conto das Contas
+title: Conto das Contas 🏧
 categories:
   - textos
 tags: crônicas, humor, devaneios
@@ -31,9 +31,11 @@ Por isso me sinto tão imbecil em caixas eletrônicos. São altamente arrogantes
 — Você acaba de perder R$50 por não ter dado o mortal para trás\
 — Eu tenho uma câmera bem na minha parte central, não adianta estirar dedo pra mim\
 — Não adianta me ameaçar, eu sou uma máquina e não tenho me-\
-— {LAUREANO BEZERRA RAMOS JUNIOR AG 50117 CC 2.885} COMO VOCÊ CONSEGUIU ENTRAR AQUI COM UM REVÓLVER ABAIXA ISSO\
+— {LAUREANO AG 50117 CC 2.885} COMO VOCÊ CONSEGUIU ENTRAR AQUI COM UM REVÓLVER ABAIXA ISSO\
 PROCESS523598(¨t$\[{/]/[…………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………\
 \
 — **Insira seu cartão**
----
+
+- - -
+
 #### 11/2013
