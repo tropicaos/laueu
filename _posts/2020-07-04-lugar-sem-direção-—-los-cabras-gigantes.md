@@ -19,24 +19,24 @@ date: 2018-02-09T17:52:08.094Z
 
 Disponível também no **[Youtube](https://www.youtube.com/watch?v=VYZuXpBoAP8)** e **[Facebook](https://www.facebook.com/Macalango/videos/1889599741104648/?notif_id=1518190202096202&notif_t=scheduled_post_published)**
 
-# Sinopse
+#### Sinopse
 
 > Passando por vários pontos da parte antiga de João Pessoa, o clipe conta a história de Aristides — um típico romântico brega fogoso — e Josefa, uma mulher que se engolfa de luxúria na noite. Acontece que quando o efeito bate e a lombra se transforma numa badtrip, Aristides se perde no que é real e no que não é
 
-# Classificação Indicativa
+#### Classificação Indicativa
 
 16 anos.
 
-# **Elenco**
+#### **Elenco**
 
 **Laís de Almeida** como Josefa\
 **Márcio de Paula** como Aristides
 
-## ***Participação especial***
+#### ***Participação especial***
 
 **Buda Lira**
 
-# Figuração
+#### Figuração
 
 Ana Júlia Varela\
 Damara Santos\
@@ -49,7 +49,7 @@ Perazzo Júnior\
 Thalles Formiga\
 Vanessa Tavares
 
-# Equipe
+#### Equipe
 
 Direção, Roteiro, Montagem, Edição e “Finalização” — **Laureano Macalango**\
 Ass. de Direção e Produtora-Chefe — **Luzia Costa**\
@@ -61,13 +61,13 @@ Figurino e Maquiagem — **Francisco Júnior**
 
 ![](/images/uploads/chrome_d3plurewp0.png)
 
-# Apoio
+#### Apoio
 
 General Store\
 LAP — Laboratório Audiovisual de Produção / CCTA UFPB\
 Centro Cultural Piollin
 
-# Agradecimentos
+#### Agradecimentos
 
 Thiago & Clécia Storti\
 Helio Costa\
@@ -81,17 +81,17 @@ Espaço Mundo
 
 & João Lira
 
-# Atribuições
+#### Atribuições
 
-## **Abertura**
+#### **Abertura**
 
 Baú do Tony Show\
 Hubble Footage — NASA\
 Trilha: Public Domain Ltd — Vaporwave Brazil
 
-## **Encerramento**
+#### **Encerramento**
 
 Sunrise Footage — bk-vids\
 Trilha: The New Plaza 새로운 몰 — TheMajesticRobot
 
-# **JPA — PB — BR — FEV — 2018**
+#### **JPA — PB — BR — FEV — 2018**
