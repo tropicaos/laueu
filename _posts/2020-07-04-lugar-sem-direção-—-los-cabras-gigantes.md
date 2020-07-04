@@ -7,9 +7,9 @@ categories:
 tags: videoclipe
 date: 2018-02-09T17:52:08.094Z
 ---
-## Saiba mais lendo o [PRÉIS RILIZE](/textos/2017/11/09/lugar-sem-direção-préis-rilize.html) (press release)
+#### Saiba mais lendo o [PRÉIS RILIZE](/textos/2017/11/09/lugar-sem-direção-préis-rilize.html) (press release)
 
-## Conheça a ideia original lendo o [ROTEIRO DO CLIPE](/textos/2017/11/13/lugar-sem-direção-roteiro-original.html)
+#### Conheça a ideia original lendo o [ROTEIRO DO CLIPE](/textos/2017/11/13/lugar-sem-direção-roteiro-original.html)
 
 - - -
 
