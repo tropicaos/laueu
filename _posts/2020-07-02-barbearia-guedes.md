@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Barbearia GUEDES
+title: Barbearia GUEDES ✂
 categories:
   - fotos
 tags: freela
