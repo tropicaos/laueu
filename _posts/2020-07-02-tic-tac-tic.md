@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tic. Tac. Tic.
+title: Tic. Tac. Tic. 🕘
 categories:
   - textos
 tags: contos, drama
