@@ -6,8 +6,6 @@ categories:
 tags: videoclipe, press release
 date: 2017-11-09T17:10:56.910Z
 ---
-
-
 ![](/images/uploads/1_s-chijhrh4io088o9kycjg.jpeg)
 
 Um bregão no toca discos, toneladas de aberração cromática lisérgica e um chamego no Centro Histórico. Pronto, tá montada a atmosfera de ***Lugar Sem Direção***, o primeiro clipe da já consagrada banda pessoense [Los Cabras Gigantes](https://soundcloud.com/loscabrasgigantes).
@@ -22,13 +20,9 @@ Isso não quer dizer que o clipe deixe de brilhar. Pelo contrário, Lugar Sem Di
 
 “A ideia desde a pré produção era misturar o cômico e o grotesco do Cafuçu com a estética Vaporwave”, salienta Laureano Macalango, diretor e roteirista da obra. “Primeiro a gente riu da combinação, mas notamos que basicamente tem tudo a ver. O Cafuçu é um bloco de carnaval que ri dos ‘bons costumes’ e da moda em meados anos 80/90. O *Vaporwave* aborda a mesma época. A própria música tem referências de ambos. Não foi uma mistura heterogênea”, conclui.
 
-> **Ouça agora Lugar Sem Direção, de Los Cabras Gigantes**
+> **[Ouça agora Lugar Sem Direção, de Los Cabras Gigantes](https://soundcloud.com/loscabrasgigantes/02-los-cabras-gigantes-lugar)**
 
-[Los Cabras Gigantes - Lugar Sem Direção by LosCabrasGigantes](https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Furl%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F113860852%26show_artwork%3Dtrue&url=https%3A%2F%2Fsoundcloud.com%2Floscabrasgigantes%2F02-los-cabras-gigantes-lugar&image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000066368226-xv8mti-t500x500.jpg&key=a19fcc184b9711e1b4764040d3dc5c07&type=text%2Fhtml&schema=soundcloud)
-
-O clipe tem sua estreia marcada na mostra “ClipsPB” no nono **CineCongo Festival Paraibano de Audiovisual**, que ocorre no cariri paraibano em novembro de 2017.
-
-
+[](https://soundcloud.com/loscabrasgigantes/02-los-cabras-gigantes-lugar)O clipe tem sua estreia marcada na mostra “ClipsPB” no nono **CineCongo Festival Paraibano de Audiovisual**, que ocorre no cariri paraibano em novembro de 2017.
 
 - - -
 
