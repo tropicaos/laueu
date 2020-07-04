@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UFPB Acontece
+title: UFPB Acontece 📺📰
 categories:
   - trampos
   - videos
