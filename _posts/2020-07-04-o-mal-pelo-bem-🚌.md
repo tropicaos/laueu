@@ -20,7 +20,7 @@ O primeiro problema é o canguru.
 
 Canguru é um sistema de câmeras internas de monitoramento que fica em cada extremidade do ônibus. Presas no teto, uma capta o ângulo do motorista para todo o corredor, a outra fica logo acima do cobrador, filmando bem a cara de quem entra. Os caras são espertos. Pra quem é bem burro e não sabe pesquisar meia hora sobre o sistema no Google.
 
-![](https://miro.medium.com/max/320/0*E9juo3q1xPl4jUME.jpg "Informações detalhadas sobre o sistema Canguru são facilmente encontradas na internet")
+![left](https://miro.medium.com/max/320/0*E9juo3q1xPl4jUME.jpg "Informações detalhadas sobre o sistema Canguru são facilmente encontradas na internet")
 
 Eu e Paulo fomos pela roleta atrás do ônibus, com máscaras carnavalescas escrotas compradas na internet, baratas e irrastreáveis. No que pareceu ser um gesto só de tão rápido ele pulou a traquitana de ferro e jogou o spray prateado no canguru do cobrador. Eu só me dei ao trabalho de colocar a pistola em cima do caixa do ônibus pro cobrador notar que era pra ficar caladinho e quieto, mas, claro, como todos esses funcionários de transporte são escravos treinados pelas empresas mafiosas imundas, ele instintivamente deslizou a mão abaixo do caixa, pra apertar um discreto botãozinho que chama a atenção do motorista.
 
@@ -48,7 +48,7 @@ Nós o sentamos no meio dos fundos do ônibus, onde só tem espaço pra uma file
 
 Nesse caso quem ganha o mérito pela informação foi um filme de roubo a banco que não me lembro no momento. Por mais que Hollywood seja uma merda, vez em quando vem com umas informações interessantes.
 
-![](https://miro.medium.com/max/400/0*pDwLbYd2YplXnXG4.jpg "Lacres de plástico são flexíveis mas ao mesmo tempo extremamente resistentes. Práticos, você consegue imobilizar dois pulsos em meio segundo com eles. Além de tudo são extremamente baratos.")
+![left](https://miro.medium.com/max/400/0*pDwLbYd2YplXnXG4.jpg "Lacres de plástico são flexíveis mas ao mesmo tempo extremamente resistentes. Práticos, você consegue imobilizar dois pulsos em meio segundo com eles. Além de tudo são extremamente baratos.")
 
 Assim que o cobrador foi imobilizado e devidamente amordaçado, coloquei um envelope de carta no bolso dele e eu e Paulo sacamos nossas mochilas em cima dos bancos. Puxamos sacolas de lixo negras e começamos o assalto.
 
@@ -94,7 +94,7 @@ Todo ônibus urbano, principalmente os com canguru, são rastreados por satélit
 
 Adentrando agora num matagal lamacento, paramos o ônibus, juntamos as sacolas de lixo e jogamos tudo nas mochilas de viagem, carregada nas costas de cada um. Desligamos o ônibus e por precaução arrancamos a “caixa preta” do canguru, que fica logo acima da divisória de vidro às costas do motorista.
 
-![](https://miro.medium.com/max/400/0*kr5AJjHboALiIIWG.jpg "Caixa Preta do Canguru. Se você quer eliminar qualquer registro de filmagem, remova-a.")
+![left](https://miro.medium.com/max/400/0*kr5AJjHboALiIIWG.jpg "Caixa Preta do Canguru. Se você quer eliminar qualquer registro de filmagem, remova-a.")
 
 Como deixado por nós anteriormente, bicicletas nos esperavam presas às árvores ali perto. Cada um desabotoou seus casacos/camisas e exibiram outras roupas por baixo. Paulo retirou sua máscara e exibiu um imponente nariz, Fernando retirou a sua e colocou seus óculos, Eduardo retirou a máscara, limpou o sangue recém estancado com sua camisa do Manassés, prendeu seu cabelo pra trás e exibiu belos olhos verdes, eu retirei a máscara que há muito estava me sufocando e mostrei minha deformada face e Alexandre não fez nada. E só tínhamos notado agora.
 
