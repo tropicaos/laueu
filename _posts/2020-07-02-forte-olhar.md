@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FORTE OLHAR
+title: FORTE OLHAR 🏰
 categories:
   - fotos
 tags: arquitetônico, turístico, histórico
