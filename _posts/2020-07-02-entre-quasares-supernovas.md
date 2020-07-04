@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Entre Quasares & Supernovas.
+title: Entre Quasares & Supernovas. 🌌
 categories:
   - textos
 tags: crônicas, romances, scifi, lírico
