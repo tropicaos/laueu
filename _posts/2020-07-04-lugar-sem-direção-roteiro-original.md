@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lugar Sem Direção [Roteiro Original]
+title: Lugar Sem Direção [Roteiro Original 📓]
 categories:
   - textos
 tags: roteiros, shooting script
