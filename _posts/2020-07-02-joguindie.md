@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JOGUINDIE
+title: "JOGUINDIE "
 categories:
   - trampos
   - jogos
