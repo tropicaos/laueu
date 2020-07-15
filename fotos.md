@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /categories/fotos
+permalink: /fotos
 title: Fotos
 ---
 

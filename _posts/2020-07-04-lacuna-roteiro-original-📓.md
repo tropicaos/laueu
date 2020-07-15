@@ -6,7 +6,7 @@ categories:
 tags: roteiros, shooting script, drama, conto
 date: 2019-09-25T18:51:37.696Z
 ---
-![](/images/uploads/1_qbkw4n4unbyzaquey75x4a.png "Júlio & Marina")
+![](/images/uploads/1_qbkw4n4unbyzaquey75x4a.png "Marina & Júlio")
 
 #### [Roteiro com a formatação adequada](https://docs.google.com/document/d/1VqMjMJ3CNxJuqhd8Z9xwVKqyQG5X_az8W-UjIZ7cTjs/edit?usp=sharing)
 

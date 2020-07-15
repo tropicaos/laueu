@@ -5,6 +5,7 @@ categories:
   - textos
 tags: contos, suspense
 date: 2016-10-18T12:18:09.446Z
+permalink: /AMadrugadaNaoEParaNoobs
 ---
 Maconha, medo e assassinato nas ruas de Jaguaribe.
 

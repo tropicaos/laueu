@@ -1,6 +1,7 @@
 ---
 layout: page
-permalink: /categories/trampos
+permalink: /trampos
+comments: false
 title: Trampos
 ---
 Eis aqui a quase totalidade de minhas experiências profissionais e experimentações. Registros de projetos universitários, empregos que tive, marcas que bolei e tudo que contribuiu pro profissional de audiovisual, arte e multimídia que sou hoje.

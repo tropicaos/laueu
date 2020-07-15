@@ -10,17 +10,15 @@
 
     {% if site.description %}<meta name="description" content="{{ site.description }}">{% endif %}  
 
-    <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}?{{ site.time | date: '%s%N' }}">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}?{{ site.time | date: "%-d %B, %Y" }}">
 
     <link rel="apple-touch-icon" href="{{ site.icon }}">
 
     {%- if jekyll.environment == 'production' and site.google_analytics -%}
       {%- include google-analytics.html -%}
     {%- endif -%}
-
   </head>
-  <body>
-      
+  <body> 
       <script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
 <script>addBackToTop({
   diameter: 56,
@@ -55,5 +53,6 @@
     {% endunless %}
 
     <script src="{{ '/assets/js/main.js' | absolute_url }}"></script>
+          <script id="dsq-count-scr" src="//laureano.disqus.com/count.js" async></script>
   </body>
 </html>

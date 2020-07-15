@@ -5,6 +5,7 @@ categories:
   - textos
 tags: videoclipe, press release
 date: 2017-11-09T17:10:56.910Z
+permalink: /LSDPR
 ---
 ![](/images/uploads/1_s-chijhrh4io088o9kycjg.jpeg)
 

@@ -1,7 +1,7 @@
 ---
 title: Laureano.
 timezone: UTC
-lang: pt-br
+lang: pt-BR
 collections:
   posts:
     title: Posts
@@ -20,12 +20,16 @@ show_excerpts: true
 hide_credits: true
 font-awesome:
   assets: true
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: laureano
 plugins:
 - jekyll-feed
 - jekyll-paginate
 - jekyll-archives
 - jekyll-font-awesome-sass
-paginate: 20
+paginate: 10
 paginate_path: "/page/:num/"
 jekyll-archives:
   enabled: all

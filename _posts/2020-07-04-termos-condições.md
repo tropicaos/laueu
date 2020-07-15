@@ -5,6 +5,7 @@ categories:
   - textos
 tags: argumento, contos
 date: 2019-01-01T18:34:28.857Z
+permalink: Termos&Condicoes
 ---
 ![](/images/uploads/1_n8fvykmiu1-fh5-ojgytia.png)
 
