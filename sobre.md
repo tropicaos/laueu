@@ -1,6 +1,6 @@
 ---
 title: Sobre
-layout: post
+layout: page
 ---
 <figure>
   <img alt="Laureano." src="images/AVATAR.png" />

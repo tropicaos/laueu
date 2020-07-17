@@ -1,6 +1,6 @@
 ---
 title: Contato
-layout: post
+layout: page
 ---
 <figure>
   <img alt="Laureano." src="images/CONTATO.png" />
