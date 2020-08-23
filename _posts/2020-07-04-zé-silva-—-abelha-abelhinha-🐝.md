@@ -18,7 +18,7 @@ Esse trabalho não foi diferente.
 
 [![](/images/uploads/chrome_lrgrkhcw4b.png)](https://vimeo.com/224962688)
 
-Eu já admirava Zé por sua militância pela assistência estudantil na UFPB e depois por ser um grande parceiro de luta na época do Ocupa MinC em 2016. Mas quando ele confabulou comigo que tinha músicas inéditas meu cérebro quase explodiu.
+Já admirava Zé por sua militância pela assistência estudantil na UFPB e depois por ser um grande parceiro de luta na época do Ocupa MinC em 2016. Mas quando ele confabulou comigo que tinha músicas inéditas meu cérebro quase explodiu.
 
 Não demorou muito e pude encher o peito bradando que fui o primeiro a gravar uma música dele e, além disso, gravar um vídeo dela ao vivo, numa maravilhosa casa de cultura no Castelo Branco, aqui em JPA.
 
