@@ -52,5 +52,3 @@ Isso não quer dizer que o clipe deixe de brilhar. Pelo contrário, Lugar Sem Di
 > **Sobre O DIRETOR**
 >
 > Laureano é um produtor audiovisual de João Pessoa, PB, graduando em Rádio, TV e WEB. Sua escola artística é o Teatro, mas já se considera íntimo do audiovisual, tendo produzido curtas universitários de ficção, propagandas, mini documentários e outros conteúdos. Lugar Sem Direção é seu segundo videoclipe.
->
-> **[Facebook](http://fb.com/Macalango) / [Site](http://macalango.com/)**
