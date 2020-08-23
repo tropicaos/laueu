@@ -9,11 +9,9 @@ permalink: Termos&Condicoes
 ---
 ![](/images/uploads/1_n8fvykmiu1-fh5-ojgytia.png)
 
-[![](https://miro.medium.com/max/1080/1*r5SCzwgdWFof2T65JluRZw.png)](https://open.spotify.com/user/8p7m6aps2kw1fius7edvoiu68/playlist/0MMS0CWIcIF02UCBmac4EU?si=KPwnPawXSG-wIMhGTS8tcw)
-
-> **\*[Antes de começar a ler o texto, dá uma sacada nessa playlist que fiz no Spotify](https://open.spotify.com/playlist/0MMS0CWIcIF02UCBmac4EU?si=fv_psp-KT8CpVsbSjfYoYw).** Usei para criar a vibe da história enquanto escrevia. É recheada, majoritariamente, de bandas instrumentais brasileiras, com sonoridades que combinam perfeitamente com a atmosfera que criei. Organizada para acompanhar o ritmo progressivo e o clímax de Termos & Condições, a duração da lista foi calculada para cobrir com folga o tempo de leitura do texto.*
+> **[ANTES DA LEITURA CONSIDERE OUVIR ESSA TRILHA SUGERIDA EM PARALELO](https://open.spotify.com/playlist/0MMS0CWIcIF02UCBmac4EU?si=fv_psp-KT8CpVsbSjfYoYw).** **Usei para criar o tom da história enquanto escrevia. É recheada majoritariamente de bandas instrumentais brasileiras com sonoridades que combinam perfeitamente com a atmosfera que criei. Organizada para acompanhar o ritmo progressivo e o clímax de Termos & Condições, a duração da lista foi calculada para cobrir com folga o tempo de leitura do texto.**
 >
-> ***[DALE O PLAY!](https://open.spotify.com/playlist/0MMS0CWIcIF02UCBmac4EU?si=fv_psp-KT8CpVsbSjfYoYw)***
+> ***[OUÇA AGORA!](https://open.spotify.com/playlist/0MMS0CWIcIF02UCBmac4EU?si=fv_psp-KT8CpVsbSjfYoYw)***
 
 - - -
 

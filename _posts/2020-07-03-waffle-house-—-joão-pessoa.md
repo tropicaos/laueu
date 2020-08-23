@@ -10,9 +10,9 @@ permalink: /wafflehousejpa
 ---
 ![](/images/uploads/1_ow0u1j3qfdjglctmdrj38g.png)
 
-Seja capturando [o show de uma banda cravada de amigos](https://macalango.com/vieira-at-redbull-breaktime-sessions-ad6437a06cc3), seja registrando [uma breve visita a uma amiga recém efetivada no trampo](https://macalango.com/barbearia-guedes-dd7101c9b298), tô sempre colando nos parceiros que merecem sucesso.
+Seja capturando [o show de uma banda cravada de amigos](/fotos/2017/08/10/vieira-at-redbull-breaktime-sessions.html), seja registrando [uma breve visita a uma amiga recém efetivada no trampo](/fotos/2017/08/10/barbearia-guedes.html), tô sempre colando nos parceiros que merecem sucesso.
 
-E quando Felipe, um brother do início da minha adolescência brotou como proprietário de uma casa de Waffles, fiquei agoniado pra aparecer por lá e experimentar aquelas delícias belgas.
+E quando Felipe, um colega do início da minha adolescência brotou como proprietário de uma casa de Waffles, fiquei agoniado pra aparecer por lá e experimentar aquelas delícias belgas.
 
 > Veja WAFFLE HOUSE:
 
@@ -22,5 +22,5 @@ Quando finalmente coloquei as mãos na minha câmera, o primeiro teste já estav
 
 Não tardou muito pra exatamente o que estava na minha cabeça se materializar (*principalmente* a parte de me empanturrar).
 
-O vídeo está no **[meu vimeo](https://vimeo.com/lawreano)** e pode ser visto acima.
+O vídeo está no **[meu vimeo](https://vimeo.com/lawreano)** e pode ser visto clicando acima.
 

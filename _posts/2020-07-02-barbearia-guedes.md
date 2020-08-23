@@ -20,6 +20,6 @@ Nunca tive um corte de cabelo regado com tanta elegância e estilo. Cheguei já 
 
 Mas ótimas fotos renderam dessa minha última visita à Barbearia Guedes. Agradeço o carinho e a competência da galera de lá. Acho pouco provável que exista alguma barbearia tão elegante e afinada como essa em João Pessoa.
 
-Para ver as outras fotos, dá **[um pulo lá no meu Flickr](https://flic.kr/s/aHskW51b8h)**.
+Para ver as outras fotos, dá **[um pulo lá no Flickr](https://flic.kr/s/aHskW51b8h)**.
 
 ![](/images/uploads/1_qohcoxiwksxhsge0_otofq.png "MAYARA DIVA! <3")

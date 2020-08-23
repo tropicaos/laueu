@@ -9,11 +9,7 @@ permalink: /RoleReligioso
 ---
 ![](/images/uploads/1_e-nqcsuvbvtlbfvfiramtq.jpeg)
 
-Quem é próximo de mim sabe que aquele ateismozinho adolescente já se diluiu há eras e hoje consigo degustar *com* *louvor* as belezas oriundas da religião. Porra, o Brasil é o maior pais católico do mundo, pelo menos algo bom deveria sair daí, sim?
-
-Não necessariamente, mas **não vamos começar com esse papo…**
-
-O fato é que desde que visitei o Mosteiro de São Francisco aqui em João Pessoa fiquei embasbacado em como a arquitetura barroca é majestosa e é impossível dissociar o fato de que o catolicismo séculos atrás levantou construções definitivamente espetaculares.
+Desde que visitei o Mosteiro de São Francisco aqui em João Pessoa fiquei embasbacado em como a arquitetura barroca é majestosa e é impossível dissociar o fato de que o catolicismo séculos atrás levantou construções definitivamente espetaculares.
 
 ### [Veja Rolê Religioso agora no Flickr](https://flic.kr/s/aHsm2FY3Q5)
 

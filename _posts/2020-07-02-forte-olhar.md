@@ -18,10 +18,8 @@ Eu era só um pirralho e tava com uma câmera compacta na mão. Era a primeira v
 
 ![left](/images/uploads/1_dmm4chakviis5v5u_5c6tw.jpeg)
 
-Mas o que mais me faz amar esse set é notar que mesmo quando novo eu já tinha interesse em não seguir o básico do básico com selfies e poses de plástico.
-
-Meu interesse desde o primeiro momento era captar naturalmente as coisas que eu tropeçava, ou fazer coisas idiotas mas com efeito interessante, como sair chutando areia e levantar poeira com meus amigos — ou juntar nossos pés podres de pó logo após isso.
-Como eu disse, éramos todos pirralhos…
+Meu interesse desde o primeiro momento era captar naturalmente as coisas que eu tropeçava ou fazer coisas idiotas mas com efeito interessante, como sair chutando areia e levantar poeira com meus amigos — ou juntar nossos pés podres de pó logo após isso.
+Como disse, éramos todos pirralhos…
 
 Veja **FORTE OLHAR** [clicando aqui](https://www.flickr.com/photos/macalango/albums/72157668475034852/with/27232226255/).
 

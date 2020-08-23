@@ -11,9 +11,9 @@ date: 2018-02-19T18:02:04.132Z
 
 Minha empreitada em prol das **[bandas](/trampos/videos/2018/02/09/lugar-sem-direção-los-cabras-gigantes.html) [independentes](/trampos/videos/2017/08/10/zé-silva-abelha-abelhinha.html)** de João Pessoa está longe de esfriar. Mas dessa vez o job teve um gostinho fraterno como nenhum outro!
 
-Depois de alguns meses de trabalho duro pra tudo ficar nos trinques, se prepare pra rolar aquela refrescada com Vento Vendaval, o primeiro clipe da banda **[Flores Baldias](https://www.facebook.com/FloresBaldias/)**.
+Depois de alguns meses de trabalho duro pra tudo ficar nos trinques, se prepare pra rolar aquela refrescada com Vento Vendaval, o primeiro clipe da banda Flores Baldias.
 
-Banda de amigos de longa data, a Flores se destaca por sua mistura de ritmos nordestinos com várias outras lombras deliciosas. Tá por fora? Então me diz onde cê viu um rock com música brasileira que una **zabumba com guitarra distorcida**! Fiquei revoltado comigo mesmo quando notei que eu não conhecia uma banda tão incrível, mesmo sacando os integrantes por volta de uma década. Mas quando descobri, não mosquei mais, já dei aquela colada master e somei pra que essas Flores desabrochem majestosamente!
+Banda de amigos de longa data, a Flores se destaca por sua mistura de ritmos nordestinos com várias outras lombras deliciosas. Tá por fora? Então me diz onde cê viu um rock com música brasileira que una **zabumba com guitarra distorcida**! Fiquei revoltado comigo mesmo quando notei que eu não conhecia uma banda tão incrível, mesmo sacando os integrantes por volta de uma década. Quando descobri, não mosquei mais, já dei aquela colada master e somei pra que essas Flores desabrochem majestosamente!
 
 ![](/images/uploads/1_bb_mmlru76tbetzujgkw_a.png)
 
