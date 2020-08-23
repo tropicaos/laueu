@@ -18,9 +18,7 @@ Esse show foi triplamente importante pra mim:
 
 ![](/images/uploads/1_htnoqhrzesxesyqzb6utow.png)
 
-Foi basicamente obrigatório eu sacar a câmera e metralhar fotos.
-
-Principalmente por eu não ter a prática e ter profundo interesse em registrar eventos (ó só, 4 motivos!) e precisar aprender como fazê-lo. O resultado é um registro que por mais que tenha algumas falhas (afinal, foi minha primeira vez) foi tão cheio de amor quanto o que eu sinto pela Vieira.
+Foi basicamente obrigatório sacar a câmera e metralhar fotos.
 
 A íntegra desse registro amoroso **[você pode ver sacando esse Flickr](https://flic.kr/s/aHskWFq2Lw)**.
 
