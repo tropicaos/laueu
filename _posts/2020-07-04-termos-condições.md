@@ -51,13 +51,13 @@ Lá, Talita pula os pedaços de vidro, pega a pá e uma vassoura, encostando-os 
 
 PARALELAMENTE, buscando alívio com água corrente na pia do banheiro, Morgana lava o rosto e tenta tocar a orelha, soltando um guincho de dor. Pelo reflexo do espelho nota na parede atrás de si um pequeno painel mecânico com várias teclas numéricas e, ao seu lado, oculto atrás da porta, um símbolo que deixava apenas suas pontas serifadas expostas. Querendo ver melhor, Morgana aproxima seu rosto do espelho, até que se assusta quando seu nariz se choca com o vidro. Dá um pulo para trás da porta e revela o que estava atrás dela. Suas feições ficam desfiguradas conforme o horror preenche seu cérebro. Ela grita o nome de Talita para ouvir seu nome gritado de volta, novamente. Ambas se encontram na sala e Morgana arrasta Talita pro banheiro, mostrando o sigma (Σ) gigante, desenhado em cor azul, atrás da porta do banheiro. Talita não demonstra entender do que o símbolo se trata. Morgana bufa em desaprovação, mas não consegue repreendê-la por completo, já que Talita lhe arrasta até a cozinha e mostra o que há atrás da geladeira. Morgana quase se desfigura de ódio, mas só consegue emitir uma palavra: “BADALHOCA!”. O primeiro pico de pavor é atingido e ambas tentam fugir do apartamento, voltando para a porta de entrada, esmurrando a fechadura elétrica e entrando em frustração extrema por falharem.
 
-# Atrás da geladeira, cercada de várias folhagens florestais, está uma imagem da campanha eleitoral de Jairo Badalhoca, Líder Supremo dos Estados Unidos do Brazil.
+## Atrás da geladeira, cercada de várias folhagens florestais, está uma imagem da campanha eleitoral de Jairo Badalhoca, Líder Supremo dos Estados Unidos do Brazil.
 
 Um revólver carregado no apartamento, o aspecto opressivo e rústico dos interiores, o hino nacional estrondando em todas as paredes, o símbolo integralista no banheiro… E um pôster gigantesco daquele na cozinha. Elas não precisavam de mais indícios de que estavam sob cárcere de um extremista político apologista ao *Badalhoquismo*, dono do apartamento.
 
 Num estalo eletrônico uma sirene de quartel começa a soar, seguida novamente pelo hino nacional estrondando em todas as paredes do apartamento.Mais uma vez Morgana é envolvida por um pânico estarrecedor até que a música pára após a introdução e uma voz rouca com sotaque sudestino rasga o silêncio pelos alto falantes embutidos nas paredes. Depois de gastar todo seu fôlego com xingamentos sobre o posicionamento político e o alinhamento sexual das inquilinas, ele, que não se apresenta mas Talita e Morgana notam ser ASTOLFO, o proprietário do apartamento, as ameaça com um jogo mortal que havia sido preparado no recinto
 
-# “cuja única forma de escapar é conhecer a gloriosa revolução militar braziliana e aceitar Jesus que dói menos”.
+## “cuja única forma de escapar é conhecer a gloriosa revolução militar braziliana e aceitar Jesus que dói menos”.
 
 Astolfo salienta que as janelas são seladas ao som — “não adianta nada gritar, meu”, e as trancas das portas são de titânio. Não há como sair dali de outra forma a não ser vencendo o jogo. Astolfo finaliza seu discurso prepotente, inflamado e toscamente misterioso, cuspindo informações desconexas sobre um X marcar o lugar, tesouros e baús. Os alto falantes se desligam. A primeira coisa que Morgana e Talita fazem é morrer de rir do jeito que Astolfo falava e como várias de suas frases se quebravam e não faziam sentido. Recuperando o fôlego, Morgana pega o revólver do balcão, verifica seu tambor e o prende atrás de sua calça. Talita tenta decifrar as informações recebidas, mas são tão confusas que ela não consegue identificar um ponto de partida. Tentando pensar em algo deixa seu olhar se perder como se procurasse pensamentos. Nesse devaneio olha exatamente para o buraco de bala que havia perfurado o mapa há momentos atrás. Ao lado do furo há um X vermelho, gigante, como em mapas de piratas em histórias infantis. Talita dá um soco no ombro de Morgana para que ela também perceba e logo as duas removem com cuidado o papel do teto, colocando-o no chão e analisando-o. Nada faz sentido. O mapa é tão genérico que parece ter sido comprado em lojas de departamento, com métricas estranhas e nem uma palavra escrita que ajudasse a identificá-lo. Talita ainda se emaranha em resquícios de raciocínio, sem muito êxito. Regurgita alguma das informações que Astolfo falou e trava em “tesouros e baús”. Lembra do quadrado na parede que possuía um display eletrônico com números e corre para o banheiro, desferindo algumas possibilidades aleatórias de quatro dígitos no painel do cofre, sem êxito. Frustra-se, até lembrar do trecho do discurso de Astolfo: **“gloriosa revolução militar braziliana”**. Ao digitar **1–9–6–4** no painel, a luz vermelha torna-se verde. A porta do cofre abre como forno de fogão, de cima para baixo, sofrendo um forte impacto quando pendurada pelas correntes em suas laterais. Com o solavanco, uma arma de fogo presa na lateral da porta dispara.
 
@@ -75,11 +75,11 @@ O que ambas veem é um dossiê extremamente denso de todas as informações que 
 
 A injeção de medo, dor e adrenalina nas veias de Morgana é tão intensa que ela literalmente se põe de pé num pulo e grita para sua namorada:
 
-# “VAMOS VASCULHAR ESSA MERDA TODA E ACHAR AS PISTAS O MAIS RÁPIDO POSSÍVEL QUE EU NÃO AGUENTO MAIS ESSA MIZERA DE LUGAR”.
+## “VAMOS VASCULHAR ESSA MERDA TODA E ACHAR AS PISTAS O MAIS RÁPIDO POSSÍVEL QUE EU NÃO AGUENTO MAIS ESSA MIZERA DE LUGAR”.
 
 Num ímpeto que virtualmente ignorou seu ferimento, Morgana marcha para o cofre e desprende a arma. Puxa uma alavanca que a faz cuspir uma cápsula vazia e levanta uma língua que faz o equipamento estalar. Pasma com a habilidade da namorada com o trambolho Talita pergunta onde ela aprendeu a usar fuzis. Morgana por sua vez a corrige:
 
-# “pelo tamanho do cano é uma carabina. Antes da Onda Badalhoca me preparei lendo o Minimanual do Guerrilheiro Urbano”, diz. “E jogando Counter-Strike”.
+## “pelo tamanho do cano é uma carabina. Antes da Onda Badalhoca me preparei lendo o Minimanual do Guerrilheiro Urbano”, diz. “E jogando Counter-Strike”.
 
 ![](https://miro.medium.com/max/1920/1*NgZe4cC3rBPB6xpXZQGJIQ.png)
 
@@ -123,7 +123,7 @@ Uma força inominável começa a borbulhar pelos dedões dos pés de Talita e Mo
 
 Uma sinfonia de destruição e morte é orquestrada pelas duas, fuzilando todos aqueles que não estavam desmaiados no tapete. Todas as menções dos letreiros e marca da TerrainT ganharam um adicional de design de decalques de bala realísticos. Todo o mar verde menta tornou-se vermelho. Faíscas explodem de tudo que é elétrico e as lâmpadas se apagam, fazendo os rostos de Morgana e Talita serem iluminados apenas pelo fogo bradado de suas armas. Há destroços e fumaça por todos os lados. Quando o último corpo cai, Morgana solta o gatilho da carabina. Talita continua gritando e atirando com o revólver que estava sem balas há muito tempo. Morgana dá-lhe um tapão na cara
 
-# “EEEEEEEEEEEEEEI! ALOU! VAMOS EMBORA!”
+## “EEEEEEEEEEEEEEI! ALOU! VAMOS EMBORA!”
 
 Talita cata o pacote das malas de um lado e, do outro, se encaixa embaixo do sovaco de Morgana, içando-a para saírem dali. Ela chuta a porta da frente do apartamento e logo estão descendo pelo corredor com as lâmpadas defeituosas que ainda piscam freneticamente.
 
@@ -137,8 +137,8 @@ Do lado de fora, o mesmo motorista do KRIEG espera tão ofegante que chega a se 
 
 - - -
 
-## Feito com a colaboração de [Mônica Barros](https://medium.com/@moguarygo), [Everton Agner](https://twitter.com/ertonnnn), [Amanda Azevedo Sousa](https://twitter.com/MandaAzevedo/) e [Ju Carneiro](http://twitter.com/exaustasambah)
+#### Feito com a colaboração de [Mônica Barros](https://medium.com/@moguarygo), [Everton Agner](https://twitter.com/ertonnnn), [Amanda Azevedo Sousa](https://twitter.com/MandaAzevedo/) e [Ju Carneiro](http://twitter.com/exaustasambah)
 
-## Consultoria: [Stephanie Luna](https://www.instagram.com/s.lunainteriores/)
+#### Consultoria: [Stephanie Luna](https://www.instagram.com/s.lunainteriores/)
 
-## Revisão Geral: [Larissa Brito](https://medium.com/@blariss)
+#### Revisão Geral: [Larissa Brito](https://medium.com/@blariss)
