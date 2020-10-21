@@ -10,6 +10,6 @@ Pra ser sincero tô bem estarrecido com como a Internet se transformou num lugar
 
 Enfim...
 
-Se você é próximo de mim, pode me acompanhar falando arisia no [piador](https://twitter.com/law_reano){:target="_blank"}, ou sacar minhas minintervenções visuais [naquela rede que dá sono](https://instagram.com/law_reano){:target="_blank"}. Você pode não ser próximo também, mas se seu perfil tiver as informações que importam pra mim, vou querer te manter por perto. Role os dados e solicite acesso.
+Se você é próximo de mim, pode me acompanhar falando arisia no [piador](https://twitter.com/laureano_eu){:target="_blank"}, ou sacar minhas minintervenções visuais [naquela rede que dá sono](https://instagram.com/laureano.eu){:target="_blank"}. Você pode não ser próximo também, mas se seu perfil tiver as informações que importam pra mim, vou te querer por perto. Role os dados e solicite acesso nessas redes.
 
-Caso você não seja próximo, mas só queira trocar uma ideia aleatória ou melhor, tenha um freela pra alguém com as [minhas habilidades](/sobre.html){:target="_blank"}, me escreve [um email bem bonito!](mailto:laugreenfer@gmail.com){:target="_blank"} O jeito mais imediato de chamar minha atenção é solicitando um orçamento (mesmo sem compromisso!) **;D**
+Caso você não seja próximo, mas só queira trocar uma ideia aleatória ou melhor, tenha um freela pra alguém com as [minhas habilidades](/sobre.html){:target="_blank"}, me escreve [um email bem bonito!](mailto:contato@laureano.eu){:target="_blank"} O jeito mais imediato de chamar minha atenção é solicitando um orçamento (mesmo sem compromisso!) **;D**
