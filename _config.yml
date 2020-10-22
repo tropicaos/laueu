@@ -10,12 +10,13 @@ collections:
     title: Uploads
     output: true
 email: contato@laureano.eu
-description: Videomaker por profissão. 
+description: Videomaker por profissão.
+
 Roteirista por masoquismo.
 baseurl: ''
 url: ''
-twitter_username: law_reano
-github_username: law_reano
+twitter_username: laureano_eu
+github_username: 
 theme: hitchens-theme
 show_excerpts: true
 hide_credits: true
