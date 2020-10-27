@@ -18,6 +18,7 @@ github_username:
 theme: hitchens-theme
 show_excerpts: true
 hide_credits: true
+hide_search: true
 font-awesome:
   assets: true
 disqus:
