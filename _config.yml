@@ -19,12 +19,13 @@ theme: hitchens-theme
 show_excerpts: true
 hide_credits: true
 hide_search: true
+feed_icon: /assets/images/icon-512.png
 font-awesome:
   assets: true
 disqus:
     shortname: laureano
 plugins:
-- jekyll-feed
+- jekyll-feed   ''
 - jekyll-paginate
 - jekyll-archives
 - jekyll-font-awesome-sass
