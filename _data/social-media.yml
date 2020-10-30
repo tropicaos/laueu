@@ -5,13 +5,13 @@ email:
   fa-icon: 'fa-envelope-square'
 
 twitter:
-  id: 'laureano_eu'
+  id: 'laureanoeu'
   href: 'https://www.twitter.com/law_reano'
   title: 'Twitter'
   fa-icon: 'fa-twitter-square'
 
 instagram:
-  id: 'laureano.eu'
+  id: 'laureanoeu'
   href: 'https://instagram.com/law_reano'
   title: 'Instagram'
   fa-icon: 'fa-instagram-square'

@@ -3,8 +3,8 @@ layout: post
 title: Game Design Comportamental
 tags: game design, jogos, behaviorismo, psicologia, games
 categories: [textos, jogos]
+permalink: /GameDesignComportamental
 date: 2014-10-06T17:09:19.000Z
-excerpt_separator: <!--more-->
 ---
 ##### Como a psicologia behaviorista é utilizada em jogos eletrônicos.
 <!--more-->

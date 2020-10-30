@@ -15,10 +15,15 @@ gem "hitchens-theme"
 # gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-feed"
   gem "jekyll-paginate"
   gem "jekyll-archives"
-  gem 'jekyll-font-awesome-sass'
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
+  gem "jemoji"
+  gem "jekyll-font-awesome-sass"
+  gem "kramdown-parser-gfm"
+  gem "jekyll-seo-tag"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
