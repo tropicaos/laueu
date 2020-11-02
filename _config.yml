@@ -1,7 +1,7 @@
 ---
 title: Laureano.
 timezone: UTC
-lang: pt
+languages: ["pt-BR", "en"]
 collections:
   posts:
     title: Posts
@@ -42,3 +42,4 @@ jekyll-archives:
   slug_mode: latin
   permalinks:
     category: '/category/:name/'
+    

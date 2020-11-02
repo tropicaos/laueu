@@ -5,14 +5,18 @@ categories:
   - textos
 tags: argumento, contos
 date: 2019-01-01T18:34:28.857Z
+spotifyplaylist: 0MMS0CWIcIF02UCBmac4EU
 permalink: Termos&Condicoes
 ---
 ![](/images/uploads/1_n8fvykmiu1-fh5-ojgytia.png)
+- - -
+> **[ANTES DA LEITURA CONSIDERE OUVIR ESSA TRILHA SUGERIDA EM PARALELO].** 
 
-> **[ANTES DA LEITURA CONSIDERE OUVIR ESSA TRILHA SUGERIDA EM PARALELO](https://open.spotify.com/playlist/0MMS0CWIcIF02UCBmac4EU?si=fv_psp-KT8CpVsbSjfYoYw).** **Usei para criar o tom da história enquanto escrevia. É recheada majoritariamente de bandas instrumentais brasileiras com sonoridades que combinam perfeitamente com a atmosfera que criei. Organizada para acompanhar o ritmo progressivo e o clímax de Termos & Condições, a duração da lista foi calculada para cobrir com folga o tempo de leitura do texto.**
->
-> ***[OUÇA AGORA!](https://open.spotify.com/playlist/0MMS0CWIcIF02UCBmac4EU?si=fv_psp-KT8CpVsbSjfYoYw)***
+>**Usei para criar o tom da história enquanto escrevia. É recheada majoritariamente de bandas instrumentais brasileiras com sonoridades que combinam perfeitamente com a atmosfera que criei. Organizada para acompanhar o ritmo progressivo e o clímax de Termos & Condições, a duração da lista foi calculada para cobrir com folga o tempo de leitura do texto.**
 
+> ***OUÇA AGORA!***
+
+{% include spotifyplaylist.html id=page.spotifyplaylist %}
 - - -
 
 A selva de pedra megalopolitana se estende para além da linha do horizonte crepuscular,serpenteada por largas avenidas asfaltadas. Um luxuoso carro preto diminui sua velocidade até estacionar na entrada de um arranha-céu. Carregando compactas malas, descem do carro TALITA — fartos quadris, negra, cabelos encaracolados que cascateiam até seus ombros, média estatura e vestido rodado estampado com girassóis, 28 anos — e MORGANA — punk clichê caucasiana, alta e magricela, jeans surrado e camisa de banda, cabelo sidecut pintado com cores fortes, 25 anos — agradecendo ao motorista do aplicativo _KRIEG_.
