@@ -1,5 +1,5 @@
 ---
-title: Contato
+title: Contato.
 layout: page
 ---
 <figure>

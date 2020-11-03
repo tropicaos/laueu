@@ -40,18 +40,17 @@ layout: default
 
       <div class="post-pagination">
         {% if paginator.next_page %}
-          <a href="{{ paginator.next_page_path | prepend: site.baseurl  }}" class="pagination-next btn">&lang;&nbsp;Antigos</a>
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl  }}" class="pagination-next btn">&bull; Antigos</a>
         {% else %}
           <span>&nbsp;</span>
         {% endif %}
-        <span class="pagination-number">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+        <span class="pagination-number">{{ paginator.page }} de {{ paginator.total_pages }}</span>
         {% if paginator.previous_page %}
-          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="pagination-previous btn">Recentes&nbsp;&rang;</a>
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="pagination-previous btn">Recentes &bull;</a>
         {% else %}
           <span>&nbsp;</span>
         {% endif %}
       </div>
-
     {% endif %}
   {% else %}
     <ul class="post-list">

@@ -9,7 +9,9 @@ layout: default
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
 
-  {% if page.title != "" %}
+  {% include breadcrumbs.html %}
+
+    {% if page.title != "" %}
     <h1 class="post-title divided p-name" itemprop="name headline">
       {{ page.title }}
     </h1>

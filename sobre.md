@@ -1,5 +1,5 @@
 ---
-title: Sobre
+title: Sobre.
 layout: page
 ---
 <figure>

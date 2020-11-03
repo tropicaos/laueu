@@ -4,6 +4,7 @@ title: Barbearia GUEDES ✂
 categories:
   - fotos
 tags: freela
+permalink: Fotos/BarbeariaGUEDES
 date: 2017-08-10T19:11:18.262Z
 ---
 ### Lâminas & Frank Sinatra

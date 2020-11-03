@@ -4,7 +4,7 @@ title: Conto das Contas 🏧
 categories:
   - textos
 tags: crônicas, humor, devaneios
-permalink: /ContodasContas
+permalink: Textos/ContodasContas
 date: 2016-03-02T11:49:59.703Z
 ---
 ![](/images/uploads/1_x1mi1kyeap1umb5ct7fwmg.jpeg)

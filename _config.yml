@@ -1,7 +1,5 @@
 ---
 title: Laureano.
-timezone: UTC
-languages: ["pt-BR", "en"]
 collections:
   posts:
     title: Posts
