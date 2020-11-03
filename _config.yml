@@ -42,4 +42,3 @@ jekyll-archives:
   slug_mode: latin
   permalinks:
     category: '/category/:name/'
-    

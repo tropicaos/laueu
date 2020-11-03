@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 {% if site.data.menu and site.paginate and site.paginate_path and paginator.page > 1 %}
   {% include menu.html %}
 {% elsif site.paginate and site.paginate_path and paginator.page > 1 %}
@@ -30,9 +29,7 @@ layout: default
       Conteúdos
     {% endif %}
   </h1>
-
   {% if site.paginate and site.paginate_path %}
-    
     <ul class="post-list">
       {% for post in paginator.posts %}
         {% include post-list-item.html %}
@@ -56,15 +53,12 @@ layout: default
       </div>
 
     {% endif %}
-
   {% else %}
-
     <ul class="post-list">
       {% for post in site.posts %}
         {% include post-list-item.html %}
       {% endfor %}
     </ul>
-  
   {% endif %}
     
 </main>

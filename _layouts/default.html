@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "pt"}}">
   <head>
-    
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -37,7 +36,6 @@
     {% endif %}
 
     {{ content }}
-
  
     <!--
     {% unless site.hide_search %}
@@ -45,27 +43,7 @@
     {% endunless %}
     -->
 
-    {% include menu.html %}
-
-      {% if page.comments %}
-      <div id="disqus_thread"></div>
-<script>
-var disqus_config = function () {
-this.page.url = laureano.eu/;
-this.page.identifier = laureano; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-*/
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://laureano.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-     {% endif %}                      
-      
-      
+    {% include menu.html %}                   
     {% unless site.hide_credits %}
       <aside class="site-credits">
         <p>
@@ -73,6 +51,5 @@ s.setAttribute('data-timestamp', +new Date());
         </p>
       </aside>
     {% endunless %}
-    <script id="dsq-count-scr" src="//laureano.disqus.com/count.js" async></script>
   </body>
 </html>
