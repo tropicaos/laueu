@@ -4,6 +4,7 @@ title: Aquele Cheiro👃
 categories:
   - textos
 tags: lírico, romances, contos
+permalink: Textos/AqueleCheiro
 date: 2017-08-16T16:55:39.805Z
 ---
 ![](/images/uploads/1_rgepztew-3z80o9wskj5rg.jpeg)

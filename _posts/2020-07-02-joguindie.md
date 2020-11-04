@@ -5,6 +5,7 @@ categories:
   - trampos
   - jogos
 tags: conteúdos, jogos, mídias
+permalink: Trampos/Jogos/JOGUINDIE
 date: 2017-08-10T19:22:03.492Z
 ---
 ### Transbordando amor por jogos independentes

@@ -5,8 +5,8 @@ categories:
   - trampos
   - videos
 tags: videoclipe
+permalink: Trampos/Videos/LugarSemDirecao-LosCabrasGigantes
 date: 2018-02-09T17:52:08.094Z
-permalink: /LSDLCG
 ---
 #### Saiba mais lendo o [PRÉIS RILIZE](/textos/2017/11/09/lugar-sem-direção-préis-rilize.html) (press release)
 

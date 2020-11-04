@@ -4,6 +4,7 @@ title: O Mal Pelo Bem 🚌
 categories:
   - textos
 tags: contos
+permalink: Textos/OMalPeloBem
 date: 2018-01-02T17:29:07.826Z
 ---
 ![](/images/uploads/1_pl3hxuuf0p9sn_gvxmgqsa.jpeg)

@@ -5,6 +5,7 @@ categories:
   - videos
   - trampos
 tags: videoclipe, natureza
+permalink: Trampos/Video/VentoVendaval-FloresBaldias
 date: 2018-02-20T18:10:08.584Z
 ---
 ![](/images/uploads/1_2sdi1av6rwqwcax4qriliw.png)

@@ -4,8 +4,8 @@ title: João Pessoa Sustentável no AR 📻
 categories:
   - trampos
 tags: rádio, podcasts, ufpb
+permalink: Trampos/JoaoPessoaSustentavelNoAr
 date: 2017-10-31T17:04:54.504Z
-permalink: /JoaoPessoaSustentavelNoAr
 ---
 Eu namorava com a Porto do Capim há muito, muito tempo antes de entrar em Rádio, TV e WEB na UFPB (que foi em 2015, inclusive). Não lembro como, mas me esbarrei com a webradio e me apaixonei pela sua seleção musical de extremo bom gosto e variedade, sempre com sons brasileiros, do forró à MPB, passando por frevo e até rock! Sério, se tá rolando música na rádio é coisa fina.
 

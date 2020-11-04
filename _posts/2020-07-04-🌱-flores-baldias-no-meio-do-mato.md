@@ -5,6 +5,7 @@ categories:
   - fotos
   - trampos
 tags: natureza
+permalink: Trampos/Fotos/FloresBaldiasNoMeioDoMato
 date: 2018-02-19T18:02:04.132Z
 ---
 ![](/images/uploads/1_4g9pprue7pf49fa-atchrq.png)

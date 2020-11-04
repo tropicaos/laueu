@@ -4,8 +4,8 @@ title: Rolê ✝️ Religioso
 categories:
   - fotos
 tags: registro de viagem, arquitetura, turístico, histórico
+permalink: Fotos/RoleReligioso
 date: 2017-08-13T15:58:47.174Z
-permalink: /RoleReligioso
 ---
 ![](/images/uploads/1_e-nqcsuvbvtlbfvfiramtq.jpeg)
 

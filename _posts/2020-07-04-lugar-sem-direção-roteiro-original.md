@@ -4,8 +4,8 @@ title: Lugar Sem Direção [Roteiro Original 📓]
 categories:
   - textos
 tags: roteiros, shooting script
+permalink: Textos/LugarSemDirecao-RoteiroOriginal
 date: 2017-11-13T17:17:35.373Z
-permalink: /LSDRoteiro
 ---
 Não deu pra rodar, mas a ideia era essa.
 

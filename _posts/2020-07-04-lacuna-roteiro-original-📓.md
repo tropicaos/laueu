@@ -4,6 +4,7 @@ title: LACUNA [Roteiro Original 📓]
 categories:
   - textos
 tags: roteiros, shooting script, drama, conto
+permalink: Textos/LACUNA-RoteiroOriginal
 date: 2019-09-25T18:51:37.696Z
 ---
 ![](/images/uploads/1_qbkw4n4unbyzaquey75x4a.png "Marina & Júlio")

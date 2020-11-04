@@ -4,8 +4,8 @@ title: A Madrugada não é para Noobs
 categories:
   - textos
 tags: contos, suspense
+permalink: Textos/AMadrugadaNaoEParaNoobs
 date: 2016-10-18T12:18:09.446Z
-permalink: /AMadrugadaNaoEParaNoobs
 ---
 Maconha, medo e assassinato nas ruas de Jaguaribe.
 

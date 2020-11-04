@@ -4,6 +4,7 @@ title: OndeComerEmJP 🍨
 categories:
   - trampos
 tags: gastronomia, mídias
+permalink: Trampos/OndeComerEmJP
 date: 2017-08-10T19:30:39.224Z
 ---
 ![](/images/uploads/1_o5inqodcfu-hmoawwdidbw.png)

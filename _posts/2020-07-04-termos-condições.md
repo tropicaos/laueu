@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "TERMOS & CONDIÇÕES "
+title: "TERMOS & CONDIÇÕES"
 categories:
   - textos
 tags: argumento, contos
-date: 2019-01-01T18:34:28.857Z
 spotifyplaylist: 0MMS0CWIcIF02UCBmac4EU
 permalink: Termos&Condicoes
+date: 2019-01-01T18:34:28.857Z
 ---
 ![](/images/uploads/1_n8fvykmiu1-fh5-ojgytia.png)
 - - -

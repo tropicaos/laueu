@@ -5,8 +5,8 @@ categories:
   - videos
   - trampos
 tags: lírico, poema/poesia, videopoema
+permalink: Trampos/Video/SISTOLEvideopoema
 date: 2018-03-20T18:30:39.054Z
-permalink: /SISTOLEvideopoema
 ---
 ![](/images/uploads/1_rtq6bxumfc3iq_excmxeha.jpeg)
 

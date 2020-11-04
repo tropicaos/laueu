@@ -5,8 +5,8 @@ categories:
   - trampos
   - videos
 tags: gastronomia, publicidade
-date: 2017-08-10T10:03:11.681Z
 permalink: /wafflehousejpa
+date: 2017-08-10T10:03:11.681Z
 ---
 ![](/images/uploads/1_ow0u1j3qfdjglctmdrj38g.png)
 
