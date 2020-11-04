@@ -4,7 +4,7 @@ title: Tic. Tac. Tic. 🕘
 categories:
   - textos
 tags: contos, drama
-permalink: Textos/TicTacTic
+permalink: /Textos/TicTacTic
 date: 2016-09-09T12:02:51.589Z
 ---
 ![](/images/uploads/1_agb-jabdd48vf37pegkniw.png)

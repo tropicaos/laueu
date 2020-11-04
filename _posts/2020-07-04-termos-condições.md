@@ -5,7 +5,7 @@ categories:
   - textos
 tags: argumento, contos
 spotifyplaylist: 0MMS0CWIcIF02UCBmac4EU
-permalink: Termos&Condicoes
+permalink: /Textos/Termos&Condicoes
 date: 2019-01-01T18:34:28.857Z
 ---
 ![](/images/uploads/1_n8fvykmiu1-fh5-ojgytia.png)

@@ -4,8 +4,9 @@ title: 🍃 Vento Vendaval ao vivo - Flores Baldias
 categories:
   - videos
   - trampos
+vimeoId: 256395382
 tags: videoclipe, natureza
-permalink: Trampos/Video/VentoVendaval-FloresBaldias
+permalink: /Trampos/VentoVendaval-FloresBaldias
 date: 2018-02-20T18:10:08.584Z
 ---
 ![](/images/uploads/1_2sdi1av6rwqwcax4qriliw.png)
@@ -20,8 +21,6 @@ Gravado majoritariamente em Jaguaribe, bairro em que vivo há mais de duas déca
 
 Pra saber (e ver!) mais dessa banda, veja a postagem sobre o set de fotos que fiz com eles **[clicando aqui](/fotos/trampos/2018/02/19/flores-baldias-no-meio-do-mato.html)**. Falei alguns outros detalhes de produção lá.
 
-#### Já o videoclipe você pode assistir clicando abaixo:
-
-[![](/images/uploads/chrome_rx8dmk5k7l.png)](https://vimeo.com/256395382)
-
+#### Já o videoclipe você pode assistir abaixo:
+{% include vimeoPlayer.html id=page.vimeoId %}
 Disponível também no **[Youtube](https://www.youtube.com/watch?v=sv-TwTw1WnE)**.

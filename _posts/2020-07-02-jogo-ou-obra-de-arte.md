@@ -5,7 +5,7 @@ categories:
   - textos
   - jogos
 tags: arte, jogos, devaneios
-permalink: Textos/Jogos/JogArte
+permalink: /Textos/JogArte
 date: 2014-10-23T03:10:03.231Z
 ---
 #### A diferença entre experiência artística e entretenimento supérfluo e trivial.

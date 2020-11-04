@@ -4,19 +4,20 @@ title: Lugar Sem Direção — Los Cabras Gigantes
 categories:
   - trampos
   - videos
+vimeoId: 254650419
 tags: videoclipe
-permalink: Trampos/Videos/LugarSemDirecao-LosCabrasGigantes
+permalink: /Trampos/LugarSemDirecao-LosCabrasGigantes
 date: 2018-02-09T17:52:08.094Z
 ---
-#### Saiba mais lendo o [PRÉIS RILIZE](/textos/2017/11/09/lugar-sem-direção-préis-rilize.html) (press release)
+#### Saiba mais lendo o [PRÉIS RILIZE](/Textos/LugarSemDirecao-PRESS-RELEASE)
 
-#### Conheça a ideia original lendo o [ROTEIRO DO CLIPE](/textos/2017/11/13/lugar-sem-direção-roteiro-original.html)
+#### Conheça a ideia original lendo o [ROTEIRO DO CLIPE](/Textos/LugarSemDirecao-RoteiroOriginal)
 
 - - -
 
 #### Assista clicando abaixo
 
-[![](/images/uploads/chrome_qboiawsrk3.png)](https://vimeo.com/254650419)
+{% include vimeoPlayer.html id=page.vimeoId %}
 
 Disponível também no **[Youtube](https://www.youtube.com/watch?v=VYZuXpBoAP8)** e **[Facebook](https://www.facebook.com/Macalango/videos/1889599741104648/?notif_id=1518190202096202&notif_t=scheduled_post_published)**
 
@@ -52,10 +53,10 @@ Vanessa Tavares
 
 #### Equipe
 
-Direção, Roteiro, Montagem, Edição e “Finalização” — **Laureano Macalango**\
+Direção, Roteiro, Montagem, Edição e “Finalização” — **Laureano.**\
 Ass. de Direção e Produtora-Chefe — **Luzia Costa**\
 Ass. de Produção — **Thássilla Formiga** / **Luanna Silva**\
-Cinegrafistas — **Isaque Azevedo** / **Renato Soares** / **Laureano Macalango**\
+Cinegrafistas — **Isaque Azevedo** / **Renato Soares** / **Laureano.**\
 Direção de Fotografia — **Isaque Azevedo**\
 Direção de Arte — **Renatto Mendonça**\
 Figurino e Maquiagem — **Francisco Júnior**
