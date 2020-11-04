@@ -5,7 +5,7 @@ comments: false
 title: Trampos.
 ---
 <figure>
-  <img alt="Laureano." src="images/TRAMPOS.png"/>
+  <img alt="Laureano." src="/images/TRAMPOS.png"/>
 </figure>
 Eis aqui a quase totalidade de minhas experiências profissionais e experimentações. Registros de projetos universitários, empregos que tive, marcas que bolei e tudo que contribuiu pro profissional de audiovisual, arte e multimídia que sou hoje.
 - - -

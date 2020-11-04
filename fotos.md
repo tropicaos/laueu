@@ -4,7 +4,7 @@ permalink: /fotos
 title: Fotos.
 ---
 <figure>
-  <img alt="Laureano." src="images/FOTOS.png"/>
+  <img alt="Laureano." src="/images/FOTOS.png"/>
 </figure>
 - - -
 {% for post in site.categories.fotos %}
