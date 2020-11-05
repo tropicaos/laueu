@@ -1,10 +1,10 @@
 .site-navigation {
-  margin-top: 2rem;
+  margin-top: 1rem;
   padding: 0 1rem;
   &:hover,
   &:focus-within {
     a {
-      opacity: .7;
+      opacity: .3;
     }
   }
 }
@@ -18,7 +18,7 @@
 
 .site-navigation li {
   list-style: none;
-  font-size: .875em;
+  font-size: 1.5em;
   font-variant: small-caps;
   margin: 0;
   &.active a {
