@@ -5,6 +5,7 @@ categories:
   - trampos
   - videos
 tags: gastronomia, publicidade
+vimeoId: 230738870
 permalink: /Trampos/wafflehousejpa
 date: 2017-08-10T10:03:11.681Z
 ---
@@ -16,7 +17,7 @@ E quando Felipe, um colega do início da minha adolescência brotou como proprie
 
 > Veja WAFFLE HOUSE:
 
-[![](/images/uploads/chrome_ie6soy0fet.png)](https://vimeo.com/230738870)
+{% include vimeoPlayer.html id=page.vimeoId %}
 
 Quando finalmente coloquei as mãos na minha câmera, o primeiro teste já estava pronto na minha cabeça: visitar Felipe e sua esposa, colher informações sobre seu empreendimento, capturar o processo de montagem da Waffle completa e, claro, me empanturrar com as delícias da casa.
 
