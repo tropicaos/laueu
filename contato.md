@@ -6,29 +6,29 @@ layout: page
   <img alt="Laureano." src="images/CONTATO.png" />
 </figure>
 
-Pra ser sincero tô bem estarrecido com como a Internet se transformou num lugar hostil e um terreno fértil para forças autoritárias perpetuarem seu poder das formas mais escusas, como a [***venda de dados sigilosos***](https://bit.ly/2NKtt0o){:target="_blank"} ou usando [***reconhecimento facial em massa***](https://www.youtube.com/watch?v=jZjmlJPJgug){:target="_blank"}. Por isso nos últimos anos fui me isolando cada vez mais na web, desintegrando perfis ociosos, envenenando rastros de dados e apagando meu rosto de todo lugar que eu conseguisse. Não vou dizer que você precisa fazer o mesmo que eu, porém é sabido que nossos tempos demandam que tenhamos uma [***cultura de segurança digital***](https://coletivoponte.noblogs.org/post/2018/11/01/um-manual-de-seguranca-digital-para-ativistas/){:target="_blank"} mais relevante. 
+Se você é próximo de mim, pode me acompanhar falando arisia no [***piador***](https://twitter.com/laureanoeu){:target="_blank"}, ou sacar minhas minintervenções visuais [***naquela rede que dá sono***](https://instagram.com/laureanoeu){:target="_blank"}. Você pode não ser próximo também, mas se seu perfil tiver as informações que importam pra mim, vou te querer por perto. Role os dados e solicite acesso nessas redes.
 
-Enfim...
+Caso você não seja próximo mas só queira trocar uma ideia aleatória ou melhor, tenha um freela pra alguém com as [***minhas habilidades***](/sobre.html){:target="_blank"}, me escreve [***um email bem bonito!***](mailto:contato@laureano.eu){:target="_blank"} O jeito mais imediato de chamar minha atenção é solicitando um orçamento (*mesmo sem compromisso!*) **;D**
 
-Se você é próximo de mim, pode me acompanhar falando arisia no [piador](https://twitter.com/laureano_eu){:target="_blank"}, ou sacar minhas minintervenções visuais [***naquela rede que dá sono***](https://instagram.com/laureano.eu){:target="_blank"}. Você pode não ser próximo também, mas se seu perfil tiver as informações que importam pra mim, vou te querer por perto. Role os dados e solicite acesso nessas redes.
+<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/laureanoeu" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/laureanoeu', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Coloque seu email para receber atualizações deste site.</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Inscreva-se!" /></form>
+        
 
-Caso você não seja próximo, mas só queira trocar uma ideia aleatória ou melhor, tenha um freela pra alguém com as [***minhas habilidades***](/sobre.html){:target="_blank"}, me escreve [***um email bem bonito!***](mailto:contato@laureano.eu){:target="_blank"} O jeito mais imediato de chamar minha atenção é solicitando um orçamento (*mesmo sem compromisso!*) **;D**
-
+Se você gosta mais de praticidade, também dá pra me mandar uma mensagem direta preenchendo as informações abaixo:
+<div align="center">
 <form
   action="https://formspree.io/f/xzbkgkea"
   method="POST"
 >
   <label>
-    Email para resposta:
+    <strong>Email para resposta:</strong>
     <input type="text" name="_replyto" required>
   </label>
   <br>
   <label>
-    Mande o papo reto:
-    <textarea maxlength="50" name="message">Digite aqui um texto bem bonitão!</textarea>
+    <strong>Mande o papo reto:</strong>
+    <textarea maxlength="10" name="message">Digite aqui um texto bem bonitão!</textarea>
   </label>
-
   <!-- your other form fields go here -->
-
   <button type="submit"><strong> DALE! </strong></button>
 </form>
+</div>
