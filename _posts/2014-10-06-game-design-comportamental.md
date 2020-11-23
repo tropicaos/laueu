@@ -10,7 +10,9 @@ date: 2014-10-06T17:09:19.000Z
 <!--more-->
 ![](/images/uploads/download.jpg)
 
-*John Hopson é o Chefe do Departamento de Pesquisa de Usuário da Bungie e foi o pesquisador chefe de jogos como Halo e Age of Empires. O artigo a seguir foi escrito por ele e postado no [Gamasutra.com](http://www.gamasutra.com/view/feature/3085/behavioral_game_design.php?page=1) em 21 de Abril de 2001, disponível agora em português numa tradução livre feita por mim sob a revisão de Larissa Brito. Este texto serve como conteúdo extra para o meu artigo “[Como Games Viciam Você](http://jogazera.com.br/como-os-games-viciam-voce/)”, postado no site [Jogazera](http://jogazera.com.br/).*
+> ##### *John Hopson é o Chefe do Departamento de Pesquisa de Usuário da Bungie e foi o pesquisador chefe de jogos como Halo e Age of Empires. O artigo a seguir foi escrito por ele e postado no >>[Gamasutra.com](http://www.gamasutra.com/view/feature/3085/behavioral_game_design.php?page=1) em 21 de Abril de 2001, disponível agora em português numa tradução livre feita por mim sob a revisão de Larissa Brito. Este texto serve como conteúdo extra para o meu artigo “[Como Games Viciam Você](http://jogazera.com.br/como-os-games-viciam-voce/)”, postado no site [Jogazera](http://jogazera.com.br/).*
+
+---
 
 Todo jogo de computador é desenvolvido em torno do mesmo elemento central: o jogador. Enquanto *hardware* e *software* mudam, a psicologia fundamental de como os jogadores aprendem e reagem aos games é uma constante. O estudo da mente já teve várias descobertas que podem auxiliar o game designer, mas a maioria delas são publicadas em jornais científicos e outros formatos inacessíveis. Ironicamente, boa parte dessas descobertas usam simples jogos como ferramentas para explorar como as pessoas aprendem e agem sob condições diferentes.
 
