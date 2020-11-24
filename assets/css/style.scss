@@ -4,29 +4,6 @@ $fa-font-path: "fonts/font-awesome/";
 @import 'font-awesome';
 
 // (Your custom CSS Here)
-.embed-container {
-  position: relative;
-  width: 100%;
-  height: 0;
-  padding-bottom: 56.25%;
-  overflow: hidden;
-}
 
-.embed-container iframe, .embed-container object, .embed-container embed {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-.contact-form { 
-position: relative;
-width: 100%;
-height: auto;
-padding-bottom: 56.25%;
-overflow: hidden;
-}
-
-
+/*--------------SPOTIFY EMBED--------------*/
 @import "spotify-embed";

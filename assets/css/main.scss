@@ -19,3 +19,45 @@ $asset_url: '{{ '/assets' | absolute_url }}';
   "footnotes",
   "search"
 ;
+
+input {
+    width: 100%; 
+	outline: none;
+	border: none;
+}
+
+textarea {
+  outline: none;
+  border: none;
+  resize: none;
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+textarea:focus, input:focus {
+  border-color: transparent !important;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #fff;
+    width: 100%;
+}
