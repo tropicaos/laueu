@@ -5,10 +5,11 @@ layout: page
 <figure>
   <img alt="Laureano." src="images/CONTATO.png" />
 </figure>
----
+
+<br/>
 
 
-### ⚫ **CONTATO IMEDIATO DE 4º GRAU (CI-4)**
+### ⚫ **SEJA MEU CONTATINHO 🤭**
 
 Existem diversas formas de me contatar na interwebs. Aproprie-se da que te apetecer mais.
 
