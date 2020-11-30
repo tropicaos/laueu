@@ -12,9 +12,9 @@ layout: page
 
 Este site (e todo o meu trabalho autoral) faz parte do **Movimento SLOW WEB** [(leia o manifesto do movimento aqui)](https://manualdousuario.net/a-slow-web/){:target="_blank"}. As obras  serão postadas aqui [quando estiverem realmente prontas](https://i.imgur.com/YsfZ2Tq.png){:target="_blank"}. Nada de desespero semanal para alimentar algoritmos que não pagam meus boletos. Isso garante que os conteúdos chegarão o mais orgânico e lapidado possível; Por outro lado não tem como saber quando um novo conteúdo sair. Pensando nisso criei **O Boletim Errante 💌🏃🏿‍♀️**, algo muito parecido com [as cartas que escrevia para meus seguidores](https://i.imgur.com/OG2RpNl.png){:target="_blank"} quando meu site ainda era no [Medium](http://medium.com/@laureanoeu){:target="_blank"} (2014-2019). 
 
-*O Boletim* é um conteúdo original por si só que aglutina as últimas postagens do site *y otras cositas más* como anedotas sobre meu processo criativo, bastidores de produção de obras mais robustas e anúncios extremamente prematuros de conteúdos em construção que nunca falo em canto algum, [nem pros mais próximos](https://twitter.com/laureanoeu){:target="_blank"}.
+**O Boletim** é um conteúdo original por si só que aglutina as últimas postagens do site *y otras cositas más* como anedotas sobre meu processo criativo, bastidores de produção de obras mais robustas e anúncios extremamente prematuros de conteúdos em construção que nunca falo em canto algum, [nem pros mais próximos](https://twitter.com/laureanoeu){:target="_blank"}.
 
-Tenho pra mim que o melhor tipo de newsletter é aquela que você *esquece que existe*. Minhas cartas no Medium tinham em média mais de um ano entre seus lançamentos, então se teu medo é spam, relaxa. Muito provavelmente detesto mais spam do que você. Sério, ódio mortal mesmo.
+Tenho pra mim que **o melhor tipo de newsletter é aquela que você esquece que existe**. Minhas cartas no Medium tinham em média mais de um ano entre seus lançamentos, então se teu medo é spam, relaxa. Muito provavelmente detesto mais spam do que você. Sério, ódio mortal mesmo.
 
 <center>Se faz teu tipo ter em mãos conteúdos exclusivíssimos,<br/> <strong>assine O Boletim Errante</strong> 💌🏃🏿‍♀️ colocando seu email abaixo:</center>
 
@@ -30,7 +30,7 @@ Tenho pra mim que o melhor tipo de newsletter é aquela que você *esquece que e
 
 ### ⚫ **SEJA MEU CONTATINHO 🤭**
 
-A forma mais imediata de entrar em contato comigo é usando esse formulário aqui, se joga 🏃🏿‍♀️:
+A forma mais imediata de entrar em contato comigo é usando esse formulário aqui, **se joga 🤸‍♀️🤾‍♂️:**
 
 <div>
     <form style="text-align:center;" action="https://formspree.io/f/xzbkgkea"
@@ -53,7 +53,7 @@ A forma mais imediata de entrar em contato comigo é usando esse formulário aqu
 
 ### ⚫ **REDES ANTISSOCIAIS 🕵️**
 
-Se imediatismo não é tanto tua vibe, há outras formas de me contatar também.  Use a que lhe apetecer mais.
+Se imediatismo não é tanto tua vibe há outras formas de me contatar também.
 
 - Se preferir, aqui está <a href="https://api.whatsapp.com/send?phone=+55-83991647494" target="_blank"><i class="fa fa-whatsapp"></i><strong>meu zip zop! 💬</strong></a>
 - Zap é informal demais? [**Me manda um email ✉**](mailto:contato@laureano.eu){:target="_blank"}
