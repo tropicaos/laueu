@@ -22,7 +22,7 @@ Ter ganhado um Master System Compact em 1997 mudou radicalmente minha vida e eu 
         <img class="pcmr" title="PCMR" src="https://i.imgur.com/LBlDVeN.gif"/>
     </div>
     <div>
-    Apesar de ser totalmente responsivo, <strong>esse site é melhor exibido no navegador do seu computador</strong>. A largura das páginas num monitor são bem mais próximas das d'um livro que numa tela de telefone celular. Em outras palavras: dê espaço pros meus textos!  Deixe meus textos respirarem, pô. Os bichim... 😑
+    Apesar de ser totalmente responsivo, <strong>esse site é melhor exibido no navegador do seu computador</strong>. A largura das páginas num monitor são bem mais próximas das d'um livro que numa tela de telefone celular. Em outras palavras: dê espaço pros meus textos!  Deixe os bichim respirar, pô!.. 😑
     </div>
 </div>
 
