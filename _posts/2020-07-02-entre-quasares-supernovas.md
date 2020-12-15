@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Entre Quasares & Supernovas. 🌌
+title: Entre Quasares & Supernovas. 🌌👩‍🚀
 categories:
   - textos
 tags: crônicas, romances, scifi, lírico
@@ -23,11 +23,11 @@ Aparentemente temos o poder de dobrar o tempo.
 
 Que parece que não existe. As horas mais segundais de nossas vidas. Os meses mais diários.
 
-Calendário não faz sentido para nosso espaço profundo.
+Calendário não faz sentido para nosso céu profundo.
 
 Já pra mim, veterano cosmonauta, aparentemente tudo, só agora, faz sentido.
 
-Só agora eu entendo como duas galáxias podem se chocar e suas forças gravitacionais a transformarem em apenas uma.
+Só agora entendo como duas galáxias podem se chocar e suas forças gravitacionais a transformarem em apenas uma.
 
 Estando eu, aqui, perdido nela, somos apenas um.
 
