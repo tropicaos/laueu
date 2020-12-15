@@ -6,7 +6,7 @@ categories: [textos, jogos]
 permalink: /Textos/GameDesignComportamental
 date: 2014-10-06T17:09:19.000Z
 ---
-<h4> <p style="text-align:center">Como a psicologia behaviorista é utilizada em jogos eletrônicos.</p></h4>
+<h4><p style="text-align:center">Como a psicologia behaviorista é utilizada em jogos eletrônicos.</p></h4>
 <!--more-->
 ![](/images/uploads/download.jpg)
 
