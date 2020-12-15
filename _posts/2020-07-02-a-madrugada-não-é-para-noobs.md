@@ -7,7 +7,7 @@ tags: contos, suspense
 permalink: /Textos/AMadrugadaNaoEParaNoobs
 date: 2016-10-18T12:18:09.446Z
 ---
-Maconha, medo e assassinato nas ruas de Jaguaribe.
+<h4><p style="text-align:center">Maconha, medo e assassinato nas ruas de Jaguaribe.</p></h4>
 
 ![](/images/uploads/1_ub25mpxkmmps1nz8onqf4w.jpeg)
 
