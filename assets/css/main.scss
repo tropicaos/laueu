@@ -110,7 +110,24 @@ img.pcmr {
   width: 15%;
   height: auto;
   float: right;
-  margin: 0px;
+}
+
+.image-wrapper {
+  display: table;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  margin-right: 1em;
+  float: left;
+    
+    figcaption {
+      padding: 0.5em;
+      padding-top: none;
+      color: black;
+      background-color: rgba(254,222,0, 0.3);
+      display: table-caption;
+      caption-side: bottom;
+    }
 }
 
 .clearfix::after {

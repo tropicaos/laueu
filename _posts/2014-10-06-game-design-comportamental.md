@@ -6,7 +6,7 @@ categories: [textos, jogos]
 permalink: /Textos/GameDesignComportamental
 date: 2014-10-06T17:09:19.000Z
 ---
-##### Como a psicologia behaviorista é utilizada em jogos eletrônicos.
+<h4> <p style="text-align:center">Como a psicologia behaviorista é utilizada em jogos eletrônicos.</p></h4>
 <!--more-->
 ![](/images/uploads/download.jpg)
 
@@ -27,14 +27,14 @@ A tradução concreta de “O que estamos dizendo aos nossos jogadores?” é �
 As contingências nos jogos são mais complexas, mas a analogia com os ratos é bem clara. Por exemplo, jogadores em um RPG ganham XP para subir níveis ou coletar itens bônus para ganhar vidas extras. Num jogo arcade, power-ups podem aparecer em intervalos aleatórios ou apenas quando certas condições forem encontradas. Como em toda contingência, existem ações por parte do participante que dão as recompensas sob circunstâncias específicas. Isso não é o mesmo que dizer que os jogadores são como ratos, mas que essas regras gerais se aplicam a ambos.
 
 ___
-
+>
 *Alguns termos comuns na psicologia comportamental que se encaixam nas considerações de Game Design:*
-
-**\*Reforço**: um resultado ou consequência, geralmente usado pra se referir a recompensa. Exemplo: um ponto de XP, subir um nível, uma arma melhor.*
-
-**\*Contingência**: Uma ou várias regras que controlam quando os reforços são dados. Também chamado de “Esquema de Reforço”. Exemplo: um nível a cada 1.000 XP, um nível bônus que só está disponível se você matar um certo inimigo.*
-
-**\*Resposta**: Uma ação do jogador que pode completar a contingência. Pode ser matando um monstro, visitando uma área do jogo ou usando uma habilidade especial.*
+>
+**Reforço**: um resultado ou consequência, geralmente usado pra se referir a recompensa. Exemplo: um ponto de XP, subir um nível, uma arma melhor.
+>
+**Contingência**: Uma ou várias regras que controlam quando os reforços são dados. Também chamado de “Esquema de Reforço”. Exemplo: um nível a cada 1.000 XP, um nível bônus que só está disponível se você matar um certo inimigo.
+>
+**Resposta**: Uma ação do jogador que pode completar a contingência. Pode ser matando um monstro, visitando uma área do jogo ou usando uma habilidade especial.
 
 ___
 
@@ -46,7 +46,11 @@ Sendo uma das contingências mais comuns achada nos jogos, o esquema de razão f
 
 A pausa mostrada no esquema de razão fixa pode ser um problema sério para os game designers. Caso exista um período de tempo onde há pouco incentivo para o jogador, ele pode ser levado a abandonar o game. Além disso, o tamanho da pausa é relativo ao tamanho da razão (aquele número de ações), então quanto mais ações forem necessárias, maior será a pausa. Isso significa que a razão cresce com o tempo, como o número de XP necessário para subir de nível em *Dungeons & Dragons.* Eventualmente, a pausa se torna infinita e o jogador decide que aquilo simplesmente não vale a pena e larga o jogo.
 
-![left](/images/uploads/1_9weajmanp_55co3xgray8q.jpeg "Como em toda contingência, ações da parte do participante sob circunstâncias específicas dão recompensas.")
+{% include image.html
+            img="/images/uploads/1_9weajmanp_55co3xgray8q.jpeg"
+            title="tatubola"
+            caption="Como em toda contingência, ações do participante sob circunstâncias específicas dão recompensas."
+%}
 
 Pelo lado positivo, durante uma pausa e outra, atividades menos gratificantes geralmente vem à tona. Por exemplo, se os jogadores souberem que demorará muito para chegarem no próximo nível, poderão tentar uma nova tática ou testar outros aspectos do jogo.
 
@@ -60,7 +64,11 @@ Do outro lado da moeda temos o esquema de intervalos. Ao invés de dar uma recom
 
 Jogadores normalmente respondem às contingências de intervalo fixo pausando um tempo após a recompensa e gradualmente respondendo cada vez mais rápido até outra recompensa ser dada. No nosso exemplo do power-up, o jogador se concentrará em outras partes do jogo e voltará pra lá depois para ver se aquele power-up apareceu. Caso não tenha aparecido, o jogador irá para outro lugar de novo. Gradualmente as checagens ao local do power-up se tornarão mais frequentes conforme o tempo se aproxime até o momento que o jogador sentará lá e esperará por ele.
 
-![right](/images/uploads/1_axmdfcfrnfe4k8d6gxhtpq.jpeg "Matar um oponente para ganhar experiência e subir de nível é um exemplo de contingência de razão.")
+{% include image.html
+            img="/images/uploads/1_axmdfcfrnfe4k8d6gxhtpq.jpeg"
+            title="cuidadocumdragoa"
+            caption="Matar um oponente para ganhar experiência e subir de nível é um exemplo de contingência de razão."
+%}
 
 Como na razão fixa, há uma pausa que pode causar problemas ao game designer. Diferente da anterior, não há um corte abrupto para a alta taxa de atividade. Ao invés disso, há um crescimento gradual conforme o tempo certo se aproxima. Mas a pausa continua, período cuja motivação é baixa.
 
@@ -82,7 +90,11 @@ A moral aqui é que reduzir o nível de reforço é uma coisa muito punitiva par
 
 O caso especial final que vale a pena mencionar é chamado de “evitação”, contingências onde os participantes trabalham para evitar que coisas aconteçam. Um exemplo simples de laboratório envolve um rato em uma gaiola com uma pequena alavanca. De vez em quando um pequeno choque é dado pelo chão de metal da gaiola. No entanto, se o rato puxar a alavanca, o choque não acontecerá em 30 segundos. O rato rapidamente aprende a puxar a alavanca em um ritmo lento e contínuo, que previne o choque.
 
-![left](/images/uploads/1_i9mbxkfjzbxxwcs_qqsaaa.jpeg "Esse simples experimento ilustra o princípio da evitação")
+{% include image.html
+            img="/images/uploads/1_i9mbxkfjzbxxwcs_qqsaaa.jpeg"
+            title="rati1"
+            caption="Esse simples experimento ilustra o princípio da evitação."
+%}
 
 O melhor exemplo disso que conheço é em Ultima Online, onde os jogadores que tem castelos ou casas precisam visitará-las regularmente ou elas começarão a decair. Como o exemplo do laboratório acima, você tem participantes que estão trabalhando para evitar que coisas aconteçam e manter o status quo. Isso é uma estratégia relativamente barata do ponto de vista dos desenvolvedores de games, já que eles não precisam disponibilizar novos brinquedos e recompensas para os jogadores.
 
@@ -100,7 +112,12 @@ Traduzindo para a linguagem que venho usando, como fazer os jogadores manterem u
 
 Uma resposta curta é garantir que sempre, sempre haja um motivo para o jogador continuar jogando. Os esquemas variáveis que falei antes produzem uma probabilidade constante de recompensa, o que dá ao jogador um motivo para fazer o próximo objetivo. O que um desenvolvedor quer de seus jogadores é uma “dinâmica comportamental”, uma tendência a continuar fazendo o que estão fazendo mesmo nas partes que não há uma recompensa imediata. Um esquema que produz muita dinâmica é o esquema de evitação, onde os jogadores trabalham para prevenir que coisas ruins aconteçam. Até quando não está ocorrendo nada o jogador pode conseguir algo positivo para adiar uma consequência negativa.
 
-![left](/images/uploads/1_keagpumsrtfsqefwoln9ya.jpeg "O nível de atividade é a função breve em que o participante espera que a recompensa ocorrerá. Quanto mais certos eles estiverem que algo bom ou interessante acontecerá logo, mais eles vão jogar.")
+{% include image.html
+            img="/images/uploads/1_keagpumsrtfsqefwoln9ya.jpeg"
+            title="rati1"
+            caption="O nível de atividade é a função breve em que o participante espera que a recompensa ocorrerá. Quanto mais certos eles estiverem que algo bom ou interessante acontecerá logo, mais eles vão jogar."
+%}
+
 
 #### **Como fazer os jogadores pararem.**
 
@@ -113,3 +130,5 @@ A outra situação que pode levar o jogador a parar de jogar é uma queda abrupt
 ### **Conclusão**
 
 A aplicação das regras gerais para um caso específico é geralmente complicada, especialmente em situações onde há mais de uma contingência operando. A maioria dos experimentos em psicologia comportamental são desenvolvidos para iluminar um fenômeno em particular, como um raio x revelando os ossos de um braço. A pele, os músculos e outras coisas não são mostradas, então o quadro inteiro está incompleto. Mas mesmo só com os ossos, nós podemos ter uma noção de como o braço funciona, com suas limitações e flexibilidades. Os princípios behavioristas discutidos aqui devem ser entendidos como tendo benefícios e limitações semelhantes. Há várias outras coisas que influenciam os jogadores, mas os padrões básicos de consequências e recompensas formam um quadro que poderá servir para todo o resto. Entendendo os padrões fundamentais que subjazem como os jogadores respondem ao que pedimos deles podemos desenvolver jogos que trazem o tipo de jogador que queremos.
+
+![](/images/uploads/download.jpg)
