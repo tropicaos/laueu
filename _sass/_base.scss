@@ -95,18 +95,21 @@ img {
   max-width: 100%;
   height: auto;
   margin: 2em auto;
+  margin-bottom: none;
+  margin-top: none;
 }
 
 figure img {
   margin: 2em auto 1em;
+  margin-bottom: none;
 }
 
 figcaption {
   font-size: .875em;
   font-style: italic;
   text-align: center;
-  margin-bottom: 2em;
-  opacity: .7;
+  margin: none;
+  margin-bottom: 0.1em;
 }
 
 .divided::after {
