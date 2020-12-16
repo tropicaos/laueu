@@ -7,15 +7,15 @@ tags: arquitetônico, turístico, histórico
 permalink: /Fotos/FORTEOLHAR
 date: 2017-08-09T12:26:17.492Z
 ---
-***A primeira brincada fotográfica a gente nunca esquece…***
+<h4><p style="text-align:center"><strong>A primeira brincada fotográfica a gente nunca esquece…</strong></p></h4>
 
 ![](/images/uploads/1_2_aaks11e2iluq9gvrsuyg.jpeg)
 
 Pode parecer suicídio profissional pra qualquer fotógrafo que se preze meter a cara e disponibilizar algo tão rude e amador. Mas a verdade é que eu sou totalmente apaixonado por esse set de fotos.
 
-### Veja [FORTE OLHAR AQUI](https://www.flickr.com/photos/macalango/albums/72157668475034852/with/27232226255/)
+### Veja [**FORTE OLHAR AQUI**](https://www.flickr.com/photos/macalango/albums/72157668475034852/with/27232226255/)
 
-Eu era só um pirralho e tava com uma câmera compacta na mão. Era a primeira vez que eu tinha ido pra Cabedelo (cidade que hoje aprendi a amar profundamente) e eu estava totalmente extasiado por conhecer um lugar novo, com praias tão naturais e diferentes das urbanas de João Pessoa. Explorar essas areias inda mais com os amigos que estudavam Teatro comigo só tornou tudo ainda mais adorável.
+Eu era só um pirralho com uma câmera compacta na mão. Era a primeira vez que eu tinha ido pra Cabedelo (cidade que hoje aprendi a amar profundamente) e eu estava totalmente extasiado por conhecer um lugar novo, com praias tão naturais e diferentes das urbanas de João Pessoa. Explorar essas areias inda mais com os amigos que estudavam Teatro comigo só tornou tudo ainda mais adorável.
 
 ![left](/images/uploads/1_dmm4chakviis5v5u_5c6tw.jpeg)
 
