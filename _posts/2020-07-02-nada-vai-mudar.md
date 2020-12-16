@@ -7,7 +7,12 @@ tags: contos, romances
 permalink: /Textos/AMaiorMentiraDeTodas
 date: 2016-03-01T03:58:23.231Z
 ---
-![](/images/uploads/1_yh1igexwrypk6og92ef9lq.png)
+
+{% include image.html
+            img="/images/uploads/1_yh1igexwrypk6og92ef9lq.png"
+            title="b1du"
+            caption="&#34;No ônibus ela sorri.&#34;"
+%}
 
 Engolfados de uma luxúria ébria contida há anos, os dois desabam na cama e veem seus reflexos no teto. Ela tonta. Ele com o maxilar travando por causa dos comprimidos, suando frio, se controlando pra não transparecer pr’ela.
 
@@ -64,7 +69,5 @@ Derruba a caneca de café. O líquido enxágua a mesa e vai se contornando em le
 Ele dá uma risada por entre os dentes ainda trincados:
 
 — Esses comprimidos são fodas…
-
-- - -
 
 ##### *09/2013*
