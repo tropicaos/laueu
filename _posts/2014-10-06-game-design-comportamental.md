@@ -8,7 +8,7 @@ date: 2014-10-06T17:09:19.000Z
 ---
 <h4><p style="text-align:center">Como a psicologia behaviorista é utilizada em jogos eletrônicos.</p></h4>
 <!--more-->
-![](/images/uploads/download.jpg)
+![](/images/uploads/comportamental.jpg)
 
 > ##### *John Hopson é o Chefe do Departamento de Pesquisa de Usuário da Bungie e foi o pesquisador chefe de jogos como Halo e Age of Empires. O artigo a seguir foi escrito por ele e postado no >>[Gamasutra.com](http://www.gamasutra.com/view/feature/3085/behavioral_game_design.php?page=1) em 21 de Abril de 2001, disponível agora em português numa tradução livre feita por mim sob a revisão de Larissa Brito. Este texto serve como conteúdo extra para o meu artigo “[Como Games Viciam Você](http://jogazera.com.br/como-os-games-viciam-voce/)”, postado no site [Jogazera](http://jogazera.com.br/).*
 
@@ -47,7 +47,7 @@ Sendo uma das contingências mais comuns achada nos jogos, o esquema de razão f
 A pausa mostrada no esquema de razão fixa pode ser um problema sério para os game designers. Caso exista um período de tempo onde há pouco incentivo para o jogador, ele pode ser levado a abandonar o game. Além disso, o tamanho da pausa é relativo ao tamanho da razão (aquele número de ações), então quanto mais ações forem necessárias, maior será a pausa. Isso significa que a razão cresce com o tempo, como o número de XP necessário para subir de nível em *Dungeons & Dragons.* Eventualmente, a pausa se torna infinita e o jogador decide que aquilo simplesmente não vale a pena e larga o jogo.
 
 {% include image.html
-            img="/images/uploads/1_9weajmanp_55co3xgray8q.jpeg"
+            img="/images/uploads/tatubola.jpeg"
             title="tatubola"
             caption="Como em toda contingência, ações do participante sob circunstâncias específicas dão recompensas."
 %}
@@ -65,7 +65,7 @@ Do outro lado da moeda temos o esquema de intervalos. Ao invés de dar uma recom
 Jogadores normalmente respondem às contingências de intervalo fixo pausando um tempo após a recompensa e gradualmente respondendo cada vez mais rápido até outra recompensa ser dada. No nosso exemplo do power-up, o jogador se concentrará em outras partes do jogo e voltará pra lá depois para ver se aquele power-up apareceu. Caso não tenha aparecido, o jogador irá para outro lugar de novo. Gradualmente as checagens ao local do power-up se tornarão mais frequentes conforme o tempo se aproxime até o momento que o jogador sentará lá e esperará por ele.
 
 {% include image.html
-            img="/images/uploads/1_axmdfcfrnfe4k8d6gxhtpq.jpeg"
+            img="/images/uploads/dragoa.jpeg"
             title="cuidadocumdragoa"
             caption="Matar um oponente para ganhar experiência e subir de nível é um exemplo de contingência de razão."
 %}
@@ -91,7 +91,7 @@ A moral aqui é que reduzir o nível de reforço é uma coisa muito punitiva par
 O caso especial final que vale a pena mencionar é chamado de “evitação”, contingências onde os participantes trabalham para evitar que coisas aconteçam. Um exemplo simples de laboratório envolve um rato em uma gaiola com uma pequena alavanca. De vez em quando um pequeno choque é dado pelo chão de metal da gaiola. No entanto, se o rato puxar a alavanca, o choque não acontecerá em 30 segundos. O rato rapidamente aprende a puxar a alavanca em um ritmo lento e contínuo, que previne o choque.
 
 {% include image.html
-            img="/images/uploads/1_i9mbxkfjzbxxwcs_qqsaaa.jpeg"
+            img="/images/uploads/carlosmassa.jpeg"
             title="rati1"
             caption="Esse simples experimento ilustra o princípio da evitação."
 %}
@@ -113,7 +113,7 @@ Traduzindo para a linguagem que venho usando, como fazer os jogadores manterem u
 Uma resposta curta é garantir que sempre, sempre haja um motivo para o jogador continuar jogando. Os esquemas variáveis que falei antes produzem uma probabilidade constante de recompensa, o que dá ao jogador um motivo para fazer o próximo objetivo. O que um desenvolvedor quer de seus jogadores é uma “dinâmica comportamental”, uma tendência a continuar fazendo o que estão fazendo mesmo nas partes que não há uma recompensa imediata. Um esquema que produz muita dinâmica é o esquema de evitação, onde os jogadores trabalham para prevenir que coisas ruins aconteçam. Até quando não está ocorrendo nada o jogador pode conseguir algo positivo para adiar uma consequência negativa.
 
 {% include image.html
-            img="/images/uploads/1_keagpumsrtfsqefwoln9ya.jpeg"
+            img="/images/uploads/tuntstunts.jpeg"
             title="rati1"
             caption="O nível de atividade é a função breve em que o participante espera que a recompensa ocorrerá. Quanto mais certos eles estiverem que algo bom ou interessante acontecerá logo, mais eles vão jogar."
 %}
@@ -131,4 +131,4 @@ A outra situação que pode levar o jogador a parar de jogar é uma queda abrupt
 
 A aplicação das regras gerais para um caso específico é geralmente complicada, especialmente em situações onde há mais de uma contingência operando. A maioria dos experimentos em psicologia comportamental são desenvolvidos para iluminar um fenômeno em particular, como um raio x revelando os ossos de um braço. A pele, os músculos e outras coisas não são mostradas, então o quadro inteiro está incompleto. Mas mesmo só com os ossos, nós podemos ter uma noção de como o braço funciona, com suas limitações e flexibilidades. Os princípios behavioristas discutidos aqui devem ser entendidos como tendo benefícios e limitações semelhantes. Há várias outras coisas que influenciam os jogadores, mas os padrões básicos de consequências e recompensas formam um quadro que poderá servir para todo o resto. Entendendo os padrões fundamentais que subjazem como os jogadores respondem ao que pedimos deles podemos desenvolver jogos que trazem o tipo de jogador que queremos.
 
-![](/images/uploads/download.jpg)
+![](/images/uploads/comportamental.jpg)

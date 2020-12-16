@@ -91,25 +91,32 @@ hr {
 }
 
 img {
-  display: flex;
+  display: table;
   max-width: 100%;
-  height: auto;
-  margin: 2em auto;
-  margin-bottom: none;
-  margin-top: none;
 }
 
 figure img {
-  margin: 2em auto 1em;
+  margin: auto;
   margin-bottom: none;
 }
 
 figcaption {
-  font-size: .875em;
-  font-style: italic;
   text-align: center;
+  font-weight: bold;
   margin: none;
-  margin-bottom: 0.1em;
+  font-size: 1.1em;
+  color: grey;
+  background-color: rgba(254, 222, 0, 0.3);
+}
+
+.image-wrapper {
+  display: table;
+  margin: 1em;
+  float: left; 
+  .image-wrapper figcaption {
+    display: table-caption;
+    caption-side: bottom; 
+ }
 }
 
 .divided::after {
