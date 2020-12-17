@@ -8,7 +8,7 @@ date: 2014-10-06T17:09:19.000Z
 ---
 <h4><p style="text-align:center">Como a psicologia behaviorista é utilizada em jogos eletrônicos.</p></h4>
 <!--more-->
-![](/images/uploads/comportamental.jpg)
+![imagem de capa - fundo sóbrio de um mar calmo em preto e branco](/images/uploads/comportamental.jpg)
 
 > ##### *John Hopson é o Chefe do Departamento de Pesquisa de Usuário da Bungie e foi o pesquisador chefe de jogos como Halo e Age of Empires. O artigo a seguir foi escrito por ele e postado no >>[Gamasutra.com](http://www.gamasutra.com/view/feature/3085/behavioral_game_design.php?page=1) em 21 de Abril de 2001, disponível agora em português numa tradução livre feita por mim sob a revisão de Larissa Brito. Este texto serve como conteúdo extra para o meu artigo “[Como Games Viciam Você](http://jogazera.com.br/como-os-games-viciam-voce/)”, postado no site [Jogazera](http://jogazera.com.br/).*
 
@@ -131,4 +131,4 @@ A outra situação que pode levar o jogador a parar de jogar é uma queda abrupt
 
 A aplicação das regras gerais para um caso específico é geralmente complicada, especialmente em situações onde há mais de uma contingência operando. A maioria dos experimentos em psicologia comportamental são desenvolvidos para iluminar um fenômeno em particular, como um raio x revelando os ossos de um braço. A pele, os músculos e outras coisas não são mostradas, então o quadro inteiro está incompleto. Mas mesmo só com os ossos, nós podemos ter uma noção de como o braço funciona, com suas limitações e flexibilidades. Os princípios behavioristas discutidos aqui devem ser entendidos como tendo benefícios e limitações semelhantes. Há várias outras coisas que influenciam os jogadores, mas os padrões básicos de consequências e recompensas formam um quadro que poderá servir para todo o resto. Entendendo os padrões fundamentais que subjazem como os jogadores respondem ao que pedimos deles podemos desenvolver jogos que trazem o tipo de jogador que queremos.
 
-![](/images/uploads/comportamental.jpg)
+![imagem de capa - fundo sóbrio de um mar calmo em preto e branco](/images/uploads/comportamental.jpg)

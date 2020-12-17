@@ -9,7 +9,7 @@ date: 2016-10-18T12:18:09.446Z
 ---
 <h4><p style="text-align:center">Maconha, medo e assassinato nas ruas de Jaguaribe.</p></h4>
 
-![](/images/uploads/1_ub25mpxkmmps1nz8onqf4w.jpeg)
+![capa - a madrugada não é para noobs foto em preto e branco da rua primeiro de maio, em jaguaribe](/images/uploads/madrugadanoobs01.jpeg)
 
 Fecho o portão atrás de mim. Olho para os dois lados. Penduro a coisa nos lábios e caminho pelas ruas escuras. Os problemas me invadem a mente mas entre um trago e outro se esvaem momentaneamente. A noite é fria do jeito que gosto.
 
@@ -87,7 +87,7 @@ Fumando o filtro, falei que eu poderia voltar com o outro. Explico rápido que n
 
 — Nunes.
 
-![](/images/uploads/1_lttplzohflhiodfvmiyyoq.jpeg)
+![foto em preto e branco da rotatória entre floriano peixoto e primeiro de maio, em jaguaribe](/images/uploads/madrugadanoobs02.jpeg)
 
 Aperto em tempo recorde. No caminho um carro sai lentamente de uma garagem. Passo em direção de volta para o mesmo lugar. Dessa vez a luz lateral da padaria está acesa.
 
@@ -207,7 +207,7 @@ Há diferença entre ser *jovem e retardado*?
 
 Não precisei divagar muito pra notar que já tava bom de vazar dali.
 
-![](/images/uploads/1_ydd_8bdod9gjpkcbvyon5w.jpeg)
+![foto em preto e branco numa parada de ônibus na rua que separa jaguaribe do centro de João Pessoa](/images/uploads/madrugadanoobs03.jpeg)
 
 Uma sinfonia de motores rasgou o silêncio da madrugada como trombetas dos quatro cavaleiros automotivos do apocalipse. Quatro motos cavalgavam pela pavimentação, puxando mais dois veículos lotados de homens com olhos vidrados. O estouro de boiada atravessou a rua congruente a nossa. Pelo barulho monstruoso era impossível não prestar atenção neles. E eles nos fitaram por um bom tempo também.
 
