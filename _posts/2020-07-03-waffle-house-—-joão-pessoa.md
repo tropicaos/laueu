@@ -9,9 +9,9 @@ vimeoId: 230738870
 permalink: /Trampos/wafflehousejpa
 date: 2017-08-10T10:03:11.681Z
 ---
-![](/images/uploads/1_ow0u1j3qfdjglctmdrj38g.png)
+![imagem da preparação da waffle, com kendi cortando kiwis, morangos, maçãs e bananas](/images/uploads/1_ow0u1j3qfdjglctmdrj38g.png)
 
-Seja capturando [o show de uma banda cravada de amigos](/Fotos/Vieira-RED-BULL), seja registrando [uma breve visita a uma amiga recém efetivada no trampo](/Fotos/BarbeariaGUEDES), tô sempre colando nos parceiros que merecem sucesso.
+Eu [**SEEEEMPRE**](/Trampos/LugarSemDirecao-LosCabrasGigantes) tô [**colando**](/Trampos/VentoVendaval-FloresBaldias) nos [**parceiros**](/Trampos/ZeSilvaAbelhaAbelhinha) que [**merecem sucesso**](/Fotos/Vieira-RED-BULL).
 
 E quando Felipe, um colega do início da minha adolescência brotou como proprietário de uma casa de Waffles, fiquei agoniado pra aparecer por lá e experimentar aquelas delícias belgas.
 
@@ -23,5 +23,4 @@ Quando finalmente coloquei as mãos na minha câmera, o primeiro teste já estav
 
 Não tardou muito pra exatamente o que estava na minha cabeça se materializar (*principalmente* a parte de me empanturrar).
 
-O vídeo está no **[meu vimeo](https://vimeo.com/laureanoeu)** e pode ser visto clicando acima.
-
+O vídeo está no [**meu vimeo**](https://vimeo.com/laureanoeu){:target="_blank"} e pode ser visto clicando acima.

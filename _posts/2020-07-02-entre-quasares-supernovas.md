@@ -7,7 +7,7 @@ tags: crônicas, romances, scifi, lírico
 permalink: /Textos/EntreQuasares&Supernovas
 date: 2016-08-19T11:58:18.209Z
 ---
-![](/images/uploads/0_v3ilytenwseeu3kp.jpg)
+![imagem de Larissa em formato cósmico](/images/uploads/0_v3ilytenwseeu3kp.jpg)
 
 Sou um cosmonauta, leve, solto, deslizando deliciosamente pelo espaço.
 

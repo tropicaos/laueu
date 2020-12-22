@@ -8,9 +8,9 @@ tags: natureza
 permalink: /Trampos/FloresBaldiasNoMeioDoMato
 date: 2018-02-19T18:02:04.132Z
 ---
-![](/images/uploads/1_4g9pprue7pf49fa-atchrq.png)
+![imagem da banda tocando, aparecem detalhes de um violão, uma zabumba e uma guitarra](/images/uploads/1_4g9pprue7pf49fa-atchrq.png)
 
-Minha empreitada em prol das **[bandas](/trampos/videos/2018/02/09/lugar-sem-direção-los-cabras-gigantes.html) [independentes](/trampos/videos/2017/08/10/zé-silva-abelha-abelhinha.html)** de João Pessoa está longe de esfriar. Mas dessa vez o job teve um gostinho fraterno como nenhum outro!
+Minha empreitada em prol das [**bandas**](/Trampos/LugarSemDirecao-LosCabrasGigantes) [**independentes**](/Trampos/LugarSemDirecao-LosCabrasGigantes) de João Pessoa está longe de esfriar. Mas dessa vez o job teve um gostinho fraterno como nenhum outro!
 
 Depois de alguns meses de trabalho duro pra tudo ficar nos trinques, se prepare pra rolar aquela refrescada com Vento Vendaval, o primeiro clipe da banda Flores Baldias.
 
