@@ -9,6 +9,10 @@ date: 2016-09-09T12:02:51.589Z
 ---
 ![relógio](/images/uploads/1_agb-jabdd48vf37pegkniw.png)
 
+###### Conheça o [**Roteiro Original**](/Textos/LACUNA-RoteiroOriginal){:target="_blank} baseado nesta obra.
+
+---
+
 Levou a grande caneca listrada à boca. Bebeu um, dois, três, quatro longos goles e, quando a tirou da frente da face, seu campo visual se encheu de uma Gabriela recém chegada. A porta ainda estava aberta.
 
 — Então cê ainda tá bebendo…
