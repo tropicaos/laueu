@@ -24,4 +24,4 @@ Quando finalmente coloquei as mãos na minha câmera o primeiro teste já estava
 
 Não tardou muito pra exatamente o que estava na minha cabeça se materializar (*principalmente* a parte de [me empanturrar](https://i.imgur.com/DuKXCZL.png){:target="_blank"}).
 
-O vídeo está no [**meu vimeo**](https://vimeo.com/laureanoeu){:target="_blank"} e pode swer visto acima.
+O vídeo está no [**meu vimeo**](https://vimeo.com/laureanoeu){:target="_blank"} e pode ser visto acima. Dale o PLAY ▶!
