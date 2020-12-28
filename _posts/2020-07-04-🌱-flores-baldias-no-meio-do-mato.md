@@ -24,4 +24,4 @@ Flores, mato e água, nada que combine melhor com o verão pessoense!
 
 > [**VEJA FLORES BALDIAS NO MEIO DO MATO NO FLICKR**](https://flic.kr/s/aHsksydHHg)
 
-![Guitarrista e vocalista atravessam uma ponte de bambu sobre o rio Jaguaribe. Guitarrista segura uma jaca.](/images/uploads/1_4rm8hbnf_0k27-y5mcctcw.png)
+![Guitarrista e vocalista atravessam uma ponte de bambu sobre o rio Jaguaribe. Guitarrista segura uma Jaca.](/images/uploads/1_4rm8hbnf_0k27-y5mcctcw.png)
