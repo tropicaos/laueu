@@ -18,7 +18,7 @@ A Flores se destaca por sua mistura de ritmos nordestinos com várias outras lom
 
 ![a banda posa no meio da Mata do Buraquinho, com o vocalista segurando uma Jaca](/images/uploads/1_bb_mmlru76tbetzujgkw_a.png)
 
-E pra fazer aquele trabalho completo, além do videoclipe que você pode ver [**clicando aqui**](/Trampos/VentoVendaval-FloresBaldias), entre um take e outro, cliquei os meninos no meio da densa **Mata do Buraquinho**, com direito a fotos numa ponte de bambu que rasga um tapete quase infinito de jacintos-de-água sobre o Rio Jaguaribe, o maior curso d’água urbano da capital.
+E pra fazer aquele trabalho completo, além do videoclipe que você pode ver [**clicando aqui**](/Trampos/FloresBaldiasVentoVendaval), entre um take e outro, cliquei os meninos no meio da densa **Mata do Buraquinho**, com direito a fotos numa ponte de bambu que rasga um tapete quase infinito de jacintos-de-água sobre o Rio Jaguaribe, o maior curso d’água urbano da capital.
 
 Flores, mato e água, nada que combine melhor com o verão pessoense!
 

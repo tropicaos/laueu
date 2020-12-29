@@ -7,7 +7,7 @@ tags: lírico, romances, contos
 permalink: /Textos/AqueleCheiro
 date: 2017-08-16T16:55:39.805Z
 ---
-![](/images/uploads/1_rgepztew-3z80o9wskj5rg.jpeg)
+![Mariana Adelino se aconchega com meu casaco](/images/uploads/1_rgepztew-3z80o9wskj5rg.jpeg)
 
 **11:43**
 
@@ -145,4 +145,4 @@ Nesse exato momento as peças caíram em seu devido lugar. Todos os astros se al
 
 Com aquele cheiro cada incerteza se achou, cada vontade se concretizou, cada palavra se ajustou, cada neurônio se alinhou e todo o caos encontrou harmonia.
 
-## Aquele cheiro trouxe **equilíbrio** pela primeira vez que se há memória.
+<h4><p style="text-align:center"><strong>Aquele cheiro trouxe equilíbrio pela primeira vez que se há memória.</strong></p></h4>
