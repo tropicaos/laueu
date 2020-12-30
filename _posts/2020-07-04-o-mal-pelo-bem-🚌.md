@@ -7,6 +7,10 @@ tags: contos
 permalink: /Textos/OMalPeloBem
 date: 2018-01-02T17:29:07.826Z
 ---
+
+<h4><p style="text-align:center"><strong>Vocês não tem moral pra reclamar de porra nenhuma.
+</strong></p></h4>
+
 ![](/images/uploads/1_pl3hxuuf0p9sn_gvxmgqsa.jpeg)
 
 O fato d’eu estar jogado no chão com esse enorme buraco no braço jorrando sangue só me fez me lembrar como isso tudo começou.
@@ -18,10 +22,13 @@ Bom, não exatamente como começou, mas a primeira vez que a gente saiu pra faze
 Escolhemos a primeira noite de trabalho depois do carnaval. Parada logo após a UFPB. Subimos no busão.
 
 O primeiro problema é o canguru.
-
+{% include image.html
+            img="/images/uploads/0_E9juo3q1xPl4jUME.jpg"
+            title="Informações detalhadas sobre o sistema Canguru são facilmente encontradas na internet"
+            caption="Informações detalhadas sobre o sistema Canguru são facilmente encontradas na internet"
+%}
 Canguru é um sistema de câmeras internas de monitoramento que fica em cada extremidade do ônibus. Presas no teto, uma capta o ângulo do motorista para todo o corredor, a outra fica logo acima do cobrador, filmando bem a cara de quem entra. Os caras são espertos. Pra quem é bem burro e não sabe pesquisar meia hora sobre o sistema no Google.
 
-![left](https://miro.medium.com/max/320/0*E9juo3q1xPl4jUME.jpg "Informações detalhadas sobre o sistema Canguru são facilmente encontradas na internet")
 
 Eu e Paulo fomos pela roleta atrás do ônibus, com máscaras carnavalescas escrotas compradas na internet, baratas e irrastreáveis. No que pareceu ser um gesto só de tão rápido ele pulou a traquitana de ferro e jogou o spray prateado no canguru do cobrador. Eu só me dei ao trabalho de colocar a pistola em cima do caixa do ônibus pro cobrador notar que era pra ficar caladinho e quieto, mas, claro, como todos esses funcionários de transporte são escravos treinados pelas empresas mafiosas imundas, ele instintivamente deslizou a mão abaixo do caixa, pra apertar um discreto botãozinho que chama a atenção do motorista.
 
@@ -48,9 +55,11 @@ Fernando olhou para trás e me viu com Paulo, levando o cobrador lá pra trás.
 Nós o sentamos no meio dos fundos do ônibus, onde só tem espaço pra uma fileira de cadeiras. Nada de janelas pra ele não sinalizar. O amarramos com lacres de plástico que são extremamente resistentes. Um saco com 300 lacres fortes não passa de R$5,00 no Centro de João Pessoa. É simplesmente a mais rápida e melhor forma de imobilizar uma pessoa.
 
 Nesse caso quem ganha o mérito pela informação foi um filme de roubo a banco que não me lembro no momento. Por mais que Hollywood seja uma merda, vez em quando vem com umas informações interessantes.
-
-![left](https://miro.medium.com/max/400/0*pDwLbYd2YplXnXG4.jpg "Lacres de plástico são flexíveis mas ao mesmo tempo extremamente resistentes. Práticos, você consegue imobilizar dois pulsos em meio segundo com eles. Além de tudo são extremamente baratos.")
-
+{% include image.html
+            img="/images/uploads/0_pDwLbYd2YplXnXG4.jpg"
+            title="Lacres de plástico são flexíveis mas ao mesmo tempo extremamente resistentes. Práticos, você consegue imobilizar dois pulsos em meio segundo com eles. Além de tudo são bem baratos."
+            caption="Lacres de plástico são flexíveis mas ao mesmo tempo extremamente resistentes. Práticos, você consegue imobilizar dois pulsos em meio segundo com eles. Além de tudo são bem baratos."
+%}
 Assim que o cobrador foi imobilizado e devidamente amordaçado, coloquei um envelope de carta no bolso dele e eu e Paulo sacamos nossas mochilas em cima dos bancos. Puxamos sacolas de lixo negras e começamos o assalto.
 
 Fernando continuava a guiar o motorista que levava o ônibus para ruas mais estreitas e menos movimentadas. Eduardo continuava com seu engodo teatral muito bem, já que as pessoas estavam achando estranho uma pessoa do Manassés ter uma grande capacidade verbal e um léxico tão bem elaborado.
@@ -65,7 +74,7 @@ Uma coisa que você tem que saber caso queira fazer esse tipo de provocação é
 
 Logo do lado do cara com o celular, levantou-se um cabeludo, que tinha uma máscara carnavalesca discretamente pendurada no seu pescoço sob uma negra camisa do Gojira. Ele se pendurou nos ferros no teto do ônibus e desferiu todo o peso de seus dois pés contra a face de quem tentou ligar pra polícia. Como se não bastasse, Alexandre, o tal cabeludo, segurou as duas alavancas de emergência da janela e se pendurou nas bordas inferiores, fazendo as alavancas cederem, soltando a janela que caiu ruidosamente no chão de barro batido. Com um empurrão suspendeu o homem que ainda tinha o celular na mão e num impulso o jogou pela janela, fazendo-o rodopiar no ar uma vez antes de se estatelar no chão e ter seu telefone destruído ao bater no chão que levantava uma densa poeira alaranjada.
 
-![](https://miro.medium.com/max/640/1*W260z5KLL7MgiYt2jTO5SA.jpeg)
+![](/images/uploads/1_W260z5KLL7MgiYt2jTO5SA.jpeg)
 
 Esse tipo de surpresa é um tanto quanto desnecessária. E incrivelmente útil. Todos os que falavam merda calaram-se e tornaram-se muito mais rápidos. Entregando carteiras, relógios e celulares dentro do bolso e alguns, até mesmo recebendo os envelopes na mão e colocando por si mesmos na testa.
 
@@ -95,8 +104,11 @@ Todo ônibus urbano, principalmente os com canguru, são rastreados por satélit
 
 Adentrando agora num matagal lamacento, paramos o ônibus, juntamos as sacolas de lixo e jogamos tudo nas mochilas de viagem, carregada nas costas de cada um. Desligamos o ônibus e por precaução arrancamos a “caixa preta” do canguru, que fica logo acima da divisória de vidro às costas do motorista.
 
-![left](https://miro.medium.com/max/400/0*kr5AJjHboALiIIWG.jpg "Caixa Preta do Canguru. Se você quer eliminar qualquer registro de filmagem, remova-a.")
-
+{% include image.html
+            img="/images/uploads/0_kr5AJjHboALiIIWG.jpg"
+            title="Caixa Preta do Canguru. Se você quer eliminar qualquer registro de filmagem, remova-a."
+            caption="Caixa Preta do Canguru. Se você quer eliminar qualquer registro de filmagem, remova-a."
+%}
 Como deixado por nós anteriormente, bicicletas nos esperavam presas às árvores ali perto. Cada um desabotoou seus casacos/camisas e exibiram outras roupas por baixo. Paulo retirou sua máscara e exibiu um imponente nariz, Fernando retirou a sua e colocou seus óculos, Eduardo retirou a máscara, limpou o sangue recém estancado com sua camisa do Manassés, prendeu seu cabelo pra trás e exibiu belos olhos verdes, eu retirei a máscara que há muito estava me sufocando e mostrei minha deformada face e Alexandre não fez nada. E só tínhamos notado agora.
 
 — Velho, porque caralho você não colocou a máscara?

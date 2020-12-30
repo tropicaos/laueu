@@ -9,36 +9,37 @@ tags: videoclipe
 permalink: /Trampos/LugarSemDirecao-LosCabrasGigantes
 date: 2018-02-09T17:52:08.094Z
 ---
-#### Saiba mais lendo o [PRÉIS RILIZE](/Textos/LugarSemDirecao-PRESS-RELEASE)
+---
 
-#### Conheça a ideia original lendo o [ROTEIRO DO CLIPE](/Textos/LugarSemDirecao-RoteiroOriginal)
+> SAIBA MAIS LENDO O [**PRÉIS RILIZE**](/Textos/LugarSemDirecao-PRESS-RELEASE)
 
-- - -
+> CONHEÇA A IDEIA ORIGINAL NO [**ROTEIRO DO CLIPE**](/Textos/LugarSemDirecao-RoteiroOriginal)
 
-#### Assista clicando abaixo
+---
+> ASSISTA ABAIXO:
 
 {% include vimeoPlayer.html id=page.vimeoId %}
 
-Disponível também no **[Youtube](https://www.youtube.com/watch?v=VYZuXpBoAP8)** e **[Facebook](https://www.facebook.com/Macalango/videos/1889599741104648/?notif_id=1518190202096202&notif_t=scheduled_post_published)**
+Disponível também no [**Youtube**](https://www.youtube.com/watch?v=VYZuXpBoAP8){:target="_blank"} e [**Facebook**](https://www.facebook.com/Macalango/videos/1889599741104648/?notif_id=1518190202096202&notif_t=scheduled_post_published){:target="_blank"}
 
-#### Sinopse
+#### SINOPSE
 
 > Passando por vários pontos da parte antiga de João Pessoa, o clipe conta a história de Aristides — um típico romântico brega fogoso — e Josefa, uma mulher que se engolfa de luxúria na noite. Acontece que quando o efeito bate e a lombra se transforma numa badtrip, Aristides se perde no que é real e no que não é
 
-#### Classificação Indicativa
+#### CLASSIFICAÇÃO INDICATIVA
 
 16 anos.
 
-#### **Elenco**
+#### ELENCO
 
 **Laís de Almeida** como Josefa\
 **Márcio de Paula** como Aristides
 
-#### ***Participação especial***
+#### PARTICIPAÇÃO ESPECIALÍSSIMA
 
 **Buda Lira**
 
-#### Figuração
+#### FIGURAÇÃO
 
 Ana Júlia Varela\
 Damara Santos\
@@ -51,7 +52,7 @@ Perazzo Júnior\
 Thalles Formiga\
 Vanessa Tavares
 
-#### Equipe
+#### EQUIPE
 
 Direção, Roteiro, Montagem, Edição e “Finalização” — **Laureano.**\
 Ass. de Direção e Produtora-Chefe — **Luzia Costa**\
@@ -63,13 +64,13 @@ Figurino e Maquiagem — **Francisco Júnior**
 
 ![](/images/uploads/chrome_d3plurewp0.png)
 
-#### Apoio
+#### APOIO
 
 General Store\
 LAP — Laboratório Audiovisual de Produção / CCTA UFPB\
 Centro Cultural Piollin
 
-#### Agradecimentos
+#### AGRADECIMENTOS
 
 Thiago & Clécia Storti\
 Helio Costa\
@@ -83,7 +84,7 @@ Espaço Mundo
 
 & João Lira
 
-#### Atribuições
+#### ATRIBUIÇÕES:
 
 #### **Abertura**
 

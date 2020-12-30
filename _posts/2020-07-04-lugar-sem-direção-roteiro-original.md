@@ -7,13 +7,22 @@ tags: roteiros, shooting script
 permalink: /Textos/LugarSemDirecao-RoteiroOriginal
 date: 2017-11-13T17:17:35.373Z
 ---
-Não deu pra rodar, mas a ideia era essa.
 
-- - -
+---
 
-Roteiro com a formatação adequada [neste link](https://docs.google.com/document/d/1yHS_ySrIoWa0DOyaxBzGRmylrcQ-q7xUnUQgaBMXcLw/edit?usp=sharing).
+> ASSISTA [**LUGAR SEM DIREÇÃO ⬅**](/Trampos/LugarSemDirecao-LosCabrasGigantes)<br/>
+> SAIBA MAIS LENDO O [**PRÉIS RILIZE ⬅**](/Textos/LugarSemDirecao-PRESS-RELEASE)<br/>
+> ROTEIRO COM A FORMATAÇÃO ADEQUADA [**NESTE LINK ⬅**](https://docs.google.com/document/d/1yHS_ySrIoWa0DOyaxBzGRmylrcQ-q7xUnUQgaBMXcLw/edit?usp=sharing){:target="_blank"}
+
+---
+
+<h4><p style="text-align:center"><strong>Não deu pra rodar, mas a ideia era essa.</strong></p></h4>
+
+---
 
 ![](/images/uploads/1_exbdfctiyrbvcfvr791wkg.jpeg)
+
+---
 
 Tela preta. Efeito Sonoro — VHS ENTRANDO NO CASSETE.
 

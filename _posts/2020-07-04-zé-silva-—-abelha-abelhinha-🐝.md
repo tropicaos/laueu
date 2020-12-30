@@ -15,11 +15,12 @@ Comentei aqui que sempre tô colando nos amigos que merecem todo o sucesso do mu
 
 Esse trabalho não foi diferente.
 
-#### Assista Abelha, abelhinha abaixo:
+> **ASSISTA ABELHA, ABELHINHA ABAIXO**:
 {% include vimeoPlayer.html id=page.vimeoId %}
+<br/>
 
-Já admirava Zé por sua militância pela assistência estudantil na UFPB e depois por ser um grande parceiro de luta na época do Ocupa MinC em 2016. Mas quando ele confabulou comigo que tinha músicas inéditas meu cérebro quase explodiu.
+Já admirava Zé por sua militância pela assistência estudantil na UFPB e depois por ser um grande parceiro de luta quando rolou o Ocupa MinC em 2016. Mas quando ele confabulou comigo que tinha músicas inéditas meu cérebro quase explodiu.
 
-Não demorou muito e pude encher o peito bradando que fui o primeiro a gravar uma música dele e, além disso, gravar um vídeo dela ao vivo, numa maravilhosa casa de cultura no Castelo Branco, aqui em JPA.
+Não demorou muito e pude encher o peito bradando que fui o primeiro a gravar uma música dele e, além disso, gravar um vídeo dela ao vivo, numa maravilhosa casa de cultura no Castelo Branco, aqui na Parahyba.
 
 ![](/images/uploads/1_1e_a_3a9ssdu_9ygwuk-fq.png)

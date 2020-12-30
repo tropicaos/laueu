@@ -9,11 +9,16 @@ vimeoId: 251818155
 permalink: /Trampos/SISTOLEvideopoema
 date: 2018-03-20T18:30:39.054Z
 ---
-![](/images/uploads/1_rtq6bxumfc3iq_excmxeha.jpeg)
 
-Leia o poema original [clicando aqui](/textos/2018/03/18/sístole.html)
+---
+
+>[**CONHEÇA A OBRA ORIGINAL**](/Textos/SISTOLE)
+
+---
+
+![](/images/uploads/1_rtq6bxumfc3iq_excmxeha.jpeg)
 
 Selecionado no ***VIII CINECONGO Festival Audiovisual*** e no ***Festival Curta Taquari 2016***
 
-Assista clicando abaixo:
+>ASSISTA ABAIXO:
 {% include vimeoPlayer.html id=page.vimeoId %}
