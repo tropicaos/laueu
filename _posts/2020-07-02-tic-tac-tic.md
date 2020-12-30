@@ -9,7 +9,7 @@ date: 2016-09-09T12:02:51.589Z
 ---
 ![relógio](/images/uploads/1_agb-jabdd48vf37pegkniw.png)
 
-> CONHEÇA O [**ROTEIRO ORIGINAL**](/Textos/LACUNA-RoteiroOriginal) baseado nesta obra.
+> CONHEÇA O [**ROTEIRO ORIGINAL**](/Textos/LACUNA-RoteiroOriginal) BASEADO NESTA OBRA.
 
 ---
 

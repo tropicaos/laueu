@@ -9,9 +9,9 @@ date: 2019-09-25T18:51:37.696Z
 ---
 ![imagem de Marina e Júlio deitados no chão, imagens de estrelas e luz de velas sobrepostas](/images/uploads/1_qbkw4n4unbyzaquey75x4a.png "Marina & Júlio")
 
->[Roteiro com a formatação adequada](https://docs.google.com/document/d/1VqMjMJ3CNxJuqhd8Z9xwVKqyQG5X_az8W-UjIZ7cTjs/edit?usp=sharing)
+>[Roteiro com a formatação adequada](https://docs.google.com/document/d/1VqMjMJ3CNxJuqhd8Z9xwVKqyQG5X_az8W-UjIZ7cTjs/edit?usp=sharing){:target="_blank"}
 
->[Baseado no conto Tic. Tac. Tic. 🕘](/textos/2016/09/09/tic-tac-tic.html)
+>[Baseado no conto Tic. Tac. Tic. 🕘](/Textos/TicTacTic)
 
 ---
 
