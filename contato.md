@@ -14,7 +14,7 @@ Este site (e todo o meu trabalho autoral) faz parte do **Movimento SLOW WEB** [(
 
 **O Boletim** é um conteúdo original por si só que aglutina as últimas postagens do site *y otras cositas más* como anedotas sobre meu processo criativo, bastidores de produção de obras mais robustas e anúncios extremamente prematuros de conteúdos em construção que nunca falo em canto algum, [nem pros mais próximos](https://twitter.com/laureanoeu){:target="_blank"}.
 
-Tenho pra mim que **o melhor tipo de newsletter é aquela que você esquece que existe**. Minhas cartas no Medium tinham em média mais de um ano entre seus lançamentos, então se teu medo é spam, relaxa. Muito provavelmente detesto mais spam do que você. Sério, ódio mortal mesmo.
+Tenho pra mim que **a melhor newsletter é aquela que você esquece que existe**. Minhas cartas no Medium tinham em média mais de um ano entre seus lançamentos, então se teu medo é spam, relaxa. Muito provavelmente detesto mais spam do que você. Sério, ódio mortal mesmo.
 
 <center>Se faz teu tipo ter em mãos conteúdos exclusivíssimos,<br/> <strong>assine O Boletim Errante</strong> 💌🏃🏿‍♀️ colocando seu email abaixo:</center>
 
