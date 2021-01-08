@@ -13,7 +13,7 @@ layout: page
 ### **⚫ SOBRE MEU TRAMPO 🔨:**
 *OLAR!* Meu nome é **Laureano.** 
 
-Dentre um balái de coisas sou principalmente **produtor audiovisual da Parahyba**, no Nordeste brasileiro - porém confesso que na minha ótica *é o Brasil que está ao sudeste do Nordeste* 😜. **Produzo conteúdo em vídeo de ponta a ponta**, isto é: desde a conceituação da ideia, passando pela construção do roteiro, captação de imagens e áudio, edição, finalização e distribuição online de produtos audiovisuais. Além disso também sou comunicólogo, então **estou apto a trabalhar com os vários aspectos da assessoria de comunicação**, como assessoria de imprensa, gestão de mídias e marcas, endomarketing, construção de conteúdos de treinamento, programação para TV Corporativa... 
+Dentre um balái de coisas sou principalmente **produtor audiovisual da Parahyba**, no Nordeste brasileiro. **Produzo conteúdo em vídeo de ponta a ponta**, isto é: desde a conceituação da ideia, passando pela construção do roteiro, captação de imagens e áudio, edição, finalização e distribuição online de produtos audiovisuais. Além disso também sou comunicólogo, então **estou apto a trabalhar com os vários aspectos da assessoria de comunicação**, como assessoria de imprensa, gestão de mídias e marcas, endomarketing, construção de conteúdos de treinamento, programação para TV Corporativa... 
 
 Pra resumir, sou um **cineasta / produtor audiovisual e um técnico em comunicação estratégica.**
 
