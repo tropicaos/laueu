@@ -35,19 +35,8 @@ comments: true
   {% endif %}
 </div>
     <hr>
-      <div id="disqus_thread"></div>
-  <script>
-    var disqus_config = function () {
-      this.page.url = '{{page.url | absolute_url}}';
-      this.page.identifier = '{{page.url | absolute_url}}';
-    };
-    (function() {
-      var d = document, s = d.createElement('script');
-      s.src = 'https://laureano.disqus.com/embed.js';
-      s.setAttribute('data-timestamp', +new Date());
-      (d.head || d.body).appendChild(s);
-    })();
-  </script>
-  <noscript>Plis, ative o JavaScript para comentar!</noscript>
+{% if site.disqus.shortname %}
+  {% include disqus_comments.html %}
+{% endif %}    
     <hr>
 </article>
