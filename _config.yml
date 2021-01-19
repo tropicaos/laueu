@@ -21,8 +21,6 @@ hide_search: true
 feed_icon: /favicon.ico
 font-awesome:
   assets: true
-disqus:
-    shortname: laureano
 google_analytics: G-00YCQBLT2C
 plugins:
 - jekyll-feed
