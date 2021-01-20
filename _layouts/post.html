@@ -34,6 +34,14 @@ comments: true
     <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
   {% endif %}
 </div>
-    <hr>
- <!-- COMENTÁRIOS AQUI -->  
+<hr>
+<form netlify name="comments-queue" method="POST" action="/thanks">
+  <center><strong><h5>🟡 Deixe seu comentário 🟡 </h5></strong>
+    <input name="path" type="hidden" value="{{ page.url }}">
+    <input type="text" name="name" id="name" placeholder="Sua alcunha" required>
+    <input type="email" name="email" id="email" placeholder="Seu endereço eletrônico" required>
+    <input class="button" type="text" id="comment" name="Caixa de Texto" placeholder="Comente e me faça feliz 💛 (dependendo do comentário)" required>
+    <br/><input type="submit" value="Publique seu comentário">
+</form>
+<hr>
 </article>
