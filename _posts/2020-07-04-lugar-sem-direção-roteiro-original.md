@@ -219,7 +219,3 @@ EXT. PRAIA DA PENHA — DIA
 Aristides continua ajoelhado na areia até que é acometido por um estalo. Lembra-se de algo e enfia a mão no bolso. A presilha de Josefa aparece com destaque na sua mão.
 
 Tela preta. Efeito Sonoro — VHS SAINDO DO CASSETE.
-
-- - -
-
-Leia o Préis Rilize do clipe também! **[É só clicar aqui](/textos/2017/11/09/lugar-sem-direção-préis-rilize.html)**.
