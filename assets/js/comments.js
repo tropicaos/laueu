@@ -20,13 +20,13 @@ const onSubmitComment = (event) => {
   const form = event.target
   const inputs = form.querySelectorAll('input')
   const submit = form.querySelector('button')
-  const submitText = submit.value
+  const submitText = submit.innerHTML
   const data = Object.fromEntries(new FormData(form))
   const comment = { ...data, permalink, time: new Date(), approved: false }
 
   inputs.forEach(input => input.disabled = true)
   submit.disabled = true
-  submit.value = 'Enviando...'
+  submit.innerHTML = 'Enviando...'
 
   firestore()
     .collection(`comments`)
@@ -42,7 +42,7 @@ const onSubmitComment = (event) => {
     .finally(() => {
       inputs.forEach(input => input.disabled = false)
       submit.disabled = false
-      submit.value = submitText
+      submit.innerHTML = submitText
     })
 
   event.preventDefault()
