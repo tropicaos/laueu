@@ -11,7 +11,7 @@ vimeoId: 230738870
 {% include vimeoPlayer.html id=page.vimeoId %}
 
 subtítulo
-<h4><p style="text-align:center"><strong></strong></p></h4>
+<h4><p style="text-align:center"><strong>SUBTÍTULO</strong></p></h4>
 
 {% include image.html
             img="/images/uploads/1_r64sonsjfxzxtsgfcxfdla.jpeg"
