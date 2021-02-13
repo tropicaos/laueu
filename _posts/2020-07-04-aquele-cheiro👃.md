@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aquele Cheiro👃
+title: Aquele Cheiro 👃
 categories:
   - textos
 tags: lírico, romances, contos
