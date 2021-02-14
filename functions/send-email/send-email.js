@@ -26,8 +26,8 @@ exports.handler = async (event, context) => {
       <br />
       ${message}<br />
       <br />
-      <a href="https://laureano.eu/verify-comment?token=${APP_TOKEN}&commentId=${commentId}&action=approve">Aprovar comentário</a><br />
-      <a href="https://laureano.eu/verify-comment?token=${APP_TOKEN}&commentId=${commentId}&action=reject">Recusar comentário</a>
+      <a href="https://laureano.eu/.netlify/functions/verify-comment?token=${APP_TOKEN}&commentId=${commentId}&action=approve">Aprovar comentário</a><br />
+      <a href="https://laureano.eu/.netlify/functions/verify-comment?token=${APP_TOKEN}&commentId=${commentId}&action=reject">Recusar comentário</a>
     `,
   }
 

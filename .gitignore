@@ -3,6 +3,9 @@ _site
 .jekyll-cache
 .jekyll-metadata
 .env
-/functions/firebase-cert.json
-/node_modules
+/functions/verify-comment/firebase-cert.json
+**/node_modules
 vendor
+
+# Local Netlify folder
+.netlify

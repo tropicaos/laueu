@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "netlify-lambda serve functions -c webpack.functions.js",
-    "build": "netlify-lambda build functions -c webpack.functions.js && cd functions-build && yarn install"
+    "build": "npm-run-all build:* && bundle exec jekyll build",
+    "build:send-email": "yarn --cwd functions/send-email install",
+    "build:verify-comment": "yarn --cwd functions/verify-comment install"
   },
   "repository": {
     "type": "git",
@@ -19,12 +20,12 @@
   },
   "homepage": "https://laureano.eu",
   "dependencies": {
-    "@sendgrid/mail": "^7.4.2",
-    "firebase-admin": "^9.5.0",
     "netlify-lambda": "^2.0.3"
   },
   "devDependencies": {
     "dotenv": "^8.2.0",
+    "generate-json-webpack-plugin": "0.3.1",
+    "npm-run-all": "^4.1.5",
     "webpack-node-externals": "^2.5.2"
   }
 }
