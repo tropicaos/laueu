@@ -31,9 +31,20 @@ const onSubmitComment = (event) => {
   firestore()
     .collection(`comments`)
     .add(comment)
-    .then(() => {
+    .then(({ id }) => {
       form.classList.add('-is-submitted')
       inputs.forEach(input => input.value = '')
+
+      fetch('/send-mail', {
+        method: 'POST',
+        body: JSON.stringify({
+          name: comment.name,
+          email: comment.email,
+          permalink: comment.permalink,
+          message: comment.message,
+          commentId: id
+        })
+      })
     })
     .catch(err => {
       console.error('Error adding comment: ', err)

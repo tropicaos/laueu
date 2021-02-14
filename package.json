@@ -1,0 +1,30 @@
+{
+  "name": "laueu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "netlify-lambda serve functions -c webpack.functions.js",
+    "build": "netlify-lambda build functions -c webpack.functions.js && cd functions-build && yarn install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tropicaos/laueu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tropicaos/laueu/issues"
+  },
+  "homepage": "https://laureano.eu",
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.2",
+    "firebase-admin": "^9.5.0",
+    "netlify-lambda": "^2.0.3"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "webpack-node-externals": "^2.5.2"
+  }
+}
