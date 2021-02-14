@@ -3,7 +3,6 @@ _site
 .jekyll-cache
 .jekyll-metadata
 .env
-/functions/verify-comment/firebase-cert.json
 **/node_modules
 vendor
 
