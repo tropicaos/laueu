@@ -35,7 +35,7 @@ const onSubmitComment = (event) => {
       form.classList.add('-is-submitted')
       inputs.forEach(input => input.value = '')
 
-      fetch('/send-mail', {
+      fetch('/.netlify/functions/send-mail', {
         method: 'POST',
         body: JSON.stringify({
           name: comment.name,
