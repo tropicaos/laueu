@@ -1,0 +1,7 @@
+[build]
+  functions = "functions"
+  command = "yarn build && jekyll build"
+  publish = "_site"
+
+[[plugins]]
+package = "@netlify/plugin-functions-install-core"
