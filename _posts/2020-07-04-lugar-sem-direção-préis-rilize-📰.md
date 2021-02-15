@@ -16,7 +16,7 @@ date: 2017-11-09T17:10:56.910Z
 
 
 {% include image.html
-            img="/images/uploads/1_s-chijhrh4io088o9kycjg.jpeg"
+            img="/images/uploads/lugarsemdirecaolsd03.jpeg"
             title="Márcio de Paula como Aristides"
             caption="Márcio de Paula como Aristides"
 %}
@@ -29,7 +29,7 @@ Rodado na capital Parahyba, Lugar Sem Direção — ou apenas *LSD* para os ínt
 
 Isso não quer dizer que o clipe deixe de brilhar. Pelo contrário, Lugar Sem Direção conta com a protagonização de Lais Lacerda, atriz de curtas paraibanos premiados como *Atrito* e *Stanley* e a participação especial de Buda Lira, peça importantíssima para o cenário cultural paraibano, ator do clássico moderninho Aquarius, da ogiva nuclear em formato de filme BACURAU e inúmeros espetáculos teatrais.
 
-![](/images/uploads/chrome_rind11ynms.png "*Frames de uma versão **não finalizada***")
+![](/images/uploads/lsdframes.png "*Frames de uma versão **não finalizada***")
 
 “A ideia desde a pré produção era misturar o cômico e o grotesco do Cafuçu com a estética Vaporwave”, salienta Laureano, diretor e roteirista da obra. “Primeiro a gente riu da combinação, mas notamos que basicamente tem tudo a ver. O Cafuçu é um bloco de carnaval que ri dos ‘bons costumes’ e da moda em meados anos 80/90. O *Vaporwave* aborda a mesma época. A própria música tem referências de ambos. Não foi uma mistura heterogênea”, conclui.
 

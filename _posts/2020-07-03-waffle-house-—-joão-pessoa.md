@@ -9,7 +9,7 @@ vimeoId: 230738870
 permalink: /Trampos/wafflehousejpa
 date: 2017-08-10T10:03:11.681Z
 ---
-![imagem da preparação da waffle, com kendi cortando kiwis, morangos, maçãs e bananas](/images/uploads/1_ow0u1j3qfdjglctmdrj38g.png)
+![imagem da preparação da waffle, com kendi cortando kiwis, morangos, maçãs e bananas](/images/uploads/waffle01.png)
 
 Eu [**SEEEEMPRE**](/Trampos/LugarSemDirecao-LosCabrasGigantes) tô [**colando**](/Trampos/FloresBaldiasVentoVendaval) nos [**parceiros**](/Trampos/ZeSilvaAbelhaAbelhinha) que [**merecem sucesso**](/Fotos/Vieira-RED-BULL).
 

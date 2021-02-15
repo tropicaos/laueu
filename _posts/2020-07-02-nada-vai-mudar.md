@@ -10,7 +10,7 @@ date: 2016-03-01T03:58:23.231Z
 ---
 
 {% include image.html
-            img="/images/uploads/1_yh1igexwrypk6og92ef9lq.png"
+            img="/images/uploads/mentimosparanosmesmos.png"
             title="b1du"
             caption="&#34;No ônibus ela sorri.&#34;"
 %}

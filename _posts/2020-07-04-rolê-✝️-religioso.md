@@ -7,13 +7,13 @@ tags: registro de viagem, arquitetura, turístico, histórico
 permalink: /Fotos/RoleReligioso
 date: 2017-08-13T15:58:47.174Z
 ---
-![](/images/uploads/1_e-nqcsuvbvtlbfvfiramtq.jpeg)
+![](/images/uploads/rolereligioso01.jpeg)
 
 Desde que visitei o Mosteiro de São Francisco aqui na Parahyba fiquei embasbacado em como a arquitetura barroca é majestosa e é impossível dissociar o fato de que o catolicismo séculos atrás levantou construções definitivamente espetaculares.
 
 >[**VEJA ROLÊ ✝️ RELIGIOSO AGORA NO FLICKR**](https://flic.kr/s/aHsm2FY3Q5){:target="_blank"}
 
-![](/images/uploads/chrome_s8egeovehf.png)
+![](/images/uploads/rolereligioso03.png)
 
 O mais legal de Olinda é que há um ‘Mosteiro de São Francisco’ em cada esquina. É como se houvesse uma cidade **100% Centro Histórico da Parahyba**, com monumentos ‘policentenários’ só esperando para encher os olhos mais sensíveis.
 
@@ -21,4 +21,4 @@ O mais legal de Olinda é que há um ‘Mosteiro de São Francisco’ em cada es
 
 O resultado dessa delícia de viagem você pode ver no Flickr, [**clicando aqui**](https://flic.kr/s/aHsm2FY3Q5){:target="_blank"}.
 
-![](/images/uploads/35736179533_adfcf9b878_k.jpg)
+![](/images/uploads/rolereligioso02.jpg)

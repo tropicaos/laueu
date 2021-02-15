@@ -9,7 +9,7 @@ vimeoId: 224962688
 permalink: /Trampos/ZeSilvaAbelhaAbelhinha
 date: 2017-08-10T15:43:14.107Z
 ---
-![](/images/uploads/1_epb9204klnsp8gmebjxeqq.png)
+![](/images/uploads/abelhaabelhinha02.png)
 
 Comentei aqui que sempre tô colando nos amigos que merecem todo o sucesso do mundo.
 
@@ -23,4 +23,4 @@ Já admirava Zé por sua militância pela assistência estudantil na UFPB e depo
 
 Não demorou muito e pude encher o peito bradando que fui o primeiro a gravar uma música dele e, além disso, gravar um vídeo dela ao vivo, numa maravilhosa casa de cultura no Castelo Branco, aqui na Parahyba.
 
-![](/images/uploads/1_1e_a_3a9ssdu_9ygwuk-fq.png)
+![](/images/uploads/abelhaabelhinha01.png)

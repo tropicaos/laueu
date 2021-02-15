@@ -7,7 +7,7 @@ tags: crônicas, humor, devaneios
 permalink: /Textos/ContodasContas
 date: 2016-03-02T11:49:59.703Z
 ---
-![imagem de um caixa eletrônico depois de um disparo de arma de fogo](/images/uploads/1_x1mi1kyeap1umb5ct7fwmg.jpeg)
+![imagem de um caixa eletrônico depois de um disparo de arma de fogo](/images/uploads/contodascontas.jpeg)
 
 Detesto ser controlado.\
 \

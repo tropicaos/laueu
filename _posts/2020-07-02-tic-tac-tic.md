@@ -7,7 +7,7 @@ tags: contos, drama
 permalink: /Textos/TicTacTic
 date: 2016-09-09T12:02:51.589Z
 ---
-![relógio](/images/uploads/1_agb-jabdd48vf37pegkniw.png)
+![relógio](/images/uploads/tictictaaaa.png)
 
 > CONHEÇA O [**ROTEIRO ORIGINAL**](/Textos/LACUNA-RoteiroOriginal) BASEADO NESTA OBRA.
 

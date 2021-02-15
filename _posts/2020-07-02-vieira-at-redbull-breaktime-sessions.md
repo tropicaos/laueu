@@ -7,7 +7,7 @@ tags: cobertura, show
 permalink: /Fotos/Vieira-RED-BULL
 date: 2017-08-10T19:17:05.764Z
 ---
-![foto multicolorida de pés do guitarrista, pedaleiras de guitarra e vários cabos](/images/uploads/1_w7n6yu6d4wjmyil492ocpw.png)
+![foto multicolorida de pés do guitarrista, pedaleiras de guitarra e vários cabos](/images/uploads/vieira03.png)
 
 Esse show foi triplamente importante pra mim:
 
@@ -17,10 +17,10 @@ Esse show foi triplamente importante pra mim:
 
 > **VEJA O SET COMPLETO [CLICANDO AQUI](https://flic.kr/s/aHskWFq2Lw){:target="_blank"}**
 
-![foto multicoloria de vieira, guitarrista e baixista](/images/uploads/1_htnoqhrzesxesyqzb6utow.png)
+![foto multicoloria de vieira, guitarrista e baixista](/images/uploads/vieira02.png)
 
 Foi basicamente obrigatório sacar a câmera e metralhar fotos.
 
 A íntegra desse registro amoroso [**você pode ver sacando meu Flickr**](https://flic.kr/s/aHskWFq2Lw){:target="_blank"}.
 
-![foto do baterista, guitarrista e percussionista com banner do evento escrito RED BULL BREAKTIME SESSIONS](/images/uploads/1_dzeat480gdllats-lkgu_g.png)
+![foto do baterista, guitarrista e percussionista com banner do evento escrito RED BULL BREAKTIME SESSIONS](/images/uploads/vieira01.png)

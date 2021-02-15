@@ -11,7 +11,7 @@ date: 2018-01-02T17:29:07.826Z
 <h4><p style="text-align:center"><strong>Vocês não tem moral pra reclamar de porra nenhuma.
 </strong></p></h4>
 
-![](/images/uploads/1_pl3hxuuf0p9sn_gvxmgqsa.jpeg)
+![](/images/uploads/omalpelobem01.jpeg)
 
 O fato d’eu estar jogado no chão com esse enorme buraco no braço jorrando sangue só me fez me lembrar como isso tudo começou.
 
@@ -23,7 +23,7 @@ Escolhemos a primeira noite de trabalho depois do carnaval. Parada logo após a 
 
 O primeiro problema é o canguru.
 {% include image.html
-            img="/images/uploads/0_E9juo3q1xPl4jUME.jpg"
+            img="/images/uploads/canguru.jpg"
             title="Informações detalhadas sobre o sistema Canguru são facilmente encontradas na internet"
             caption="Informações detalhadas sobre o sistema Canguru são facilmente encontradas na internet"
 %}
@@ -56,7 +56,7 @@ Nós o sentamos no meio dos fundos do ônibus, onde só tem espaço pra uma file
 
 Nesse caso quem ganha o mérito pela informação foi um filme de roubo a banco que não me lembro no momento. Por mais que Hollywood seja uma merda, vez em quando vem com umas informações interessantes.
 {% include image.html
-            img="/images/uploads/0_pDwLbYd2YplXnXG4.jpg"
+            img="/images/uploads/lacrouviada.jpg"
             title="Lacres de plástico são flexíveis mas ao mesmo tempo extremamente resistentes. Práticos, você consegue imobilizar dois pulsos em meio segundo com eles. Além de tudo são bem baratos."
             caption="Lacres de plástico são flexíveis mas ao mesmo tempo extremamente resistentes. Práticos, você consegue imobilizar dois pulsos em meio segundo com eles. Além de tudo são bem baratos."
 %}
@@ -74,7 +74,7 @@ Uma coisa que você tem que saber caso queira fazer esse tipo de provocação é
 
 Logo do lado do cara com o celular, levantou-se um cabeludo, que tinha uma máscara carnavalesca discretamente pendurada no seu pescoço sob uma negra camisa do Gojira. Ele se pendurou nos ferros no teto do ônibus e desferiu todo o peso de seus dois pés contra a face de quem tentou ligar pra polícia. Como se não bastasse, Alexandre, o tal cabeludo, segurou as duas alavancas de emergência da janela e se pendurou nas bordas inferiores, fazendo as alavancas cederem, soltando a janela que caiu ruidosamente no chão de barro batido. Com um empurrão suspendeu o homem que ainda tinha o celular na mão e num impulso o jogou pela janela, fazendo-o rodopiar no ar uma vez antes de se estatelar no chão e ter seu telefone destruído ao bater no chão que levantava uma densa poeira alaranjada.
 
-![](/images/uploads/1_W260z5KLL7MgiYt2jTO5SA.jpeg)
+![](/images/uploads/1_W260z5KLL7MgiYt2jTO5SA)
 
 Esse tipo de surpresa é um tanto quanto desnecessária. E incrivelmente útil. Todos os que falavam merda calaram-se e tornaram-se muito mais rápidos. Entregando carteiras, relógios e celulares dentro do bolso e alguns, até mesmo recebendo os envelopes na mão e colocando por si mesmos na testa.
 
@@ -105,7 +105,7 @@ Todo ônibus urbano, principalmente os com canguru, são rastreados por satélit
 Adentrando agora num matagal lamacento, paramos o ônibus, juntamos as sacolas de lixo e jogamos tudo nas mochilas de viagem, carregada nas costas de cada um. Desligamos o ônibus e por precaução arrancamos a “caixa preta” do canguru, que fica logo acima da divisória de vidro às costas do motorista.
 
 {% include image.html
-            img="/images/uploads/0_kr5AJjHboALiIIWG.jpg"
+            img="/images/uploads/canguru-caixa-preta.jpg"
             title="Caixa Preta do Canguru. Se você quer eliminar qualquer registro de filmagem, remova-a."
             caption="Caixa Preta do Canguru. Se você quer eliminar qualquer registro de filmagem, remova-a."
 %}

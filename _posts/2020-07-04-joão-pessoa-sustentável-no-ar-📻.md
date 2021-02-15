@@ -11,7 +11,7 @@ Eu namorava com a Porto do Capim há muito, muito tempo antes de entrar em Rádi
 
 Nem preciso dizer que foi extremamente satisfatório entrar pra equipe de produtores radiofônicos da Porto. Com a proposta de construir um conteúdo que girasse em torno de três eixos — ciência, sustentabilidade e meio ambiente — nasceu o **João Pessoa Sustentável no Ar**, um podcast com gostinho de programa ao vivo produzido por alunos de radialismo e coordenado por duas professoras veteranas na comunicação, Sheila Accioly e Olga Tavares.
 
-![imagem de Sheila Accioly e Olga Tavares](/images/uploads/chrome_wym0xc1prb.png "Sheila Accioly e Olga Tavares, respectivamente")
+![imagem de Sheila Accioly e Olga Tavares](/images/uploads/joaopessoasustentavelnoar02.png "Sheila Accioly e Olga Tavares, respectivamente")
 
 A ideia do programa era simples: juntar uma pá de gente preocupada com o desenvolvimento urbano ordenado e a proteção do meio ambiente da capital, reunir tudo em um conteúdo com entrevistas, notícias e bate papos sobre vários assuntos que tangem esses temas e a Rede de Monitoramento Cidadão e lançar semanalmente na rádio.
 
@@ -21,4 +21,4 @@ Meu papel era editar o programa, — utilizando o *Adobe Audition* — mas cê s
 
 Foi bem divertido aplicar essa postura híbrida que mistura transições ágeis e conteúdo entrelaçado a música — largamente aplicado em podcasts, como fiz no [**Jogacast**](/Jogos/JOGACAST){:target="_blank"} — com narrações de menor cadência e conversas cheias de pausas como no rádio, para não metralhar o ouvinte de informação e cansá-lo. Esse dinamismo de conceitos entrelaçados é algo bem complexo pra mim que não tinha muita experiência com áudio; Por isso foi bem divertido 😄!
 
-![imagem dentro de um carro, mostrando o tráfego numa BR](/images/uploads/1_syog3fx4ab17pfejue82jw.jpeg)
+![imagem dentro de um carro, mostrando o tráfego numa BR](/images/uploads/joaopessoasustentavelnoar.jpeg)

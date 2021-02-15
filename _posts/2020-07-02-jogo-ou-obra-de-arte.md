@@ -11,7 +11,7 @@ date: 2014-10-23T03:10:03.231Z
 
 <h4><p style="text-align:center"> A diferença entre experiência artística e entretenimento supérfluo e trivial.</p></h4>
 
-![imagem de um bonequinho da série portal perseguindo um pedaço de bolo entre o portal laranja e o portal azul](/images/uploads/download-1-.jpg)
+![imagem de um bonequinho da série portal perseguindo um pedaço de bolo entre o portal laranja e o portal azul](/images/uploads/jogoouobradearte.jpg)
 
 Há décadas existe uma grande discussão sobre a inclusão de games como a mais nova expressão de arte, *logo após o cinema.* Segundo o Aurélio (4ªEd), jogo é uma “*atividade física ou mental fundada em sistema de regras que definem a perda ou o ganho”.* Já sua concepção para arte, mais precisamente para artes plásticas, diz que: “Artes que se manifestam por meio de elementos visuais e táteis, tais como o desenho, a pintura, a escultura. Etc”. Obviamente não estou aqui para discutir o vocabulário da língua portuguesa, mas faço uso destes dois termos para ilustrar a própria natureza dos jogos eletrônicos, que nada mais são que uma atividade fundada em um sistema de regras que define a experiência da perda ou ganho, utilizando por meio das artes plásticas (entre outras), tanto visuais como táteis, para atingir certo objetivo.
 

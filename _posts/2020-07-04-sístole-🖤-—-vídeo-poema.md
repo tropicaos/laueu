@@ -16,7 +16,7 @@ date: 2018-03-20T18:30:39.054Z
 
 ---
 
-![](/images/uploads/1_rtq6bxumfc3iq_excmxeha.jpeg)
+![](/images/uploads/SISTOLEVIDEOPOEMA.jpeg)
 
 Selecionado no ***VIII CINECONGO Festival Audiovisual*** e no ***Festival Curta Taquari 2016***
 

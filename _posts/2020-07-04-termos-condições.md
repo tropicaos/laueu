@@ -8,9 +8,9 @@ spotifyplaylist: 0MMS0CWIcIF02UCBmac4EU
 permalink: /Textos/Termos&Condicoes
 date: 2019-01-01T18:34:28.857Z
 ---
-![](/images/uploads/1_n8fvykmiu1-fh5-ojgytia.png)
+![](/images/uploads/termosecondicoescapa.png)
 - - -
->**CONSIDERE OUVIR ESSA TRILHA SUGERIDA EM PARALELO** 
+>**CONSIDERE OUVIR ESSA TRILHA SUGERIDA EM PARALELO**
 
 >**Usei para criar o tom da história enquanto escrevia. É recheada majoritariamente de bandas instrumentais brasileiras com sonoridades que combinam perfeitamente com a atmosfera que criei. Organizada para acompanhar o ritmo progressivo e o clímax de Termos & Condições, a duração da lista foi calculada para cobrir com folga o tempo de leitura do texto.**
 
@@ -25,7 +25,7 @@ Afastando-se da fachada do prédio, o motorista comenta rapidamente: “pacote e
 
 No portão, Talita e Morgana comentam brevemente sobre os ares luxuosos que a entrada do prédio tem e passam por um corredor com algumas lâmpadas defeituosas. Talita nota o semblante estranho de Morgana e tenta extrair qual é o problema, sem sucesso. Um longo silêncio se estende até o fim do corredor e continua, na porta do elevador, até Talita tentar novamente descobrir qual é o problema que se passa com sua companheira. Enquanto o elevador sobe
 
-![](https://miro.medium.com/max/588/1*QMYx9sjG42Eyhy6MREIC-Q.png "trecho do roteiro")
+![trecho do roteiro](/images/uploads/termosecondicoes01.png)
 
 Imediatamente Morgana nota que sua argumentação enfática pesou a atmosfera de uma viagem que nada tinha a ver com sociopolítica e sim com diversão. Remenda argumentando que vai tentar deixar todos esses problemas de lado enquanto estiverem curtindo o apartamento alugado. Talita salienta que elas só têm três dias naquele apê e que deveriam aproveitar do jeito mais distante possível da política possível, com sexo, drogas e açaí.
 
