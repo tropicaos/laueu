@@ -10,7 +10,7 @@ title: Trampos.
   <img alt="Laureano." src="/images/TRAMPOS.png"/>
 </figure>
 <p></p>
-##### Eis aqui a quase totalidade de minhas experiências profissionais e experimentações. Registros de projetos universitários, empregos que tive, marcas que bolei e tudo que contribuiu pro profissional de audiovisual, arte e multimídia que sou hoje.
+<div class="pgdesc"> Eis aqui a (quase) totalidade de minhas experiências profissionais e experimentações independentes. Registros de projetos universitários, empregos que tive, marcas que bolei e tudo que contribuiu pro profissional de audiovisual, arte e multimídia que sou hoje. </div>
 - - -
 {% for post in site.categories.trampos %}
  <li><a href="{{ post.url }}">{{ post.title }}</a>
