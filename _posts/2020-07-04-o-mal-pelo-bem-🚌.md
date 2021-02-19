@@ -74,7 +74,7 @@ Uma coisa que você tem que saber caso queira fazer esse tipo de provocação é
 
 Logo do lado do cara com o celular, levantou-se um cabeludo, que tinha uma máscara carnavalesca discretamente pendurada no seu pescoço sob uma negra camisa do Gojira. Ele se pendurou nos ferros no teto do ônibus e desferiu todo o peso de seus dois pés contra a face de quem tentou ligar pra polícia. Como se não bastasse, Alexandre, o tal cabeludo, segurou as duas alavancas de emergência da janela e se pendurou nas bordas inferiores, fazendo as alavancas cederem, soltando a janela que caiu ruidosamente no chão de barro batido. Com um empurrão suspendeu o homem que ainda tinha o celular na mão e num impulso o jogou pela janela, fazendo-o rodopiar no ar uma vez antes de se estatelar no chão e ter seu telefone destruído ao bater no chão que levantava uma densa poeira alaranjada.
 
-![](/images/uploads/1_W260z5KLL7MgiYt2jTO5SA)
+![](/images/uploads/omalpelobem02.jpeg)
 
 Esse tipo de surpresa é um tanto quanto desnecessária. E incrivelmente útil. Todos os que falavam merda calaram-se e tornaram-se muito mais rápidos. Entregando carteiras, relógios e celulares dentro do bolso e alguns, até mesmo recebendo os envelopes na mão e colocando por si mesmos na testa.
 

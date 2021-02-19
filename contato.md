@@ -26,7 +26,7 @@ Tenho pra mim que **a melhor newsletter é aquela que você esquece que existe**
     </form>
 </div>
 
----
+<h1 itemprop="name headline" class="post-title divided p-name" text-align="center"></h1>
 
 ### ⚫ **SEJA MEU CONTATINHO 🤭**
 
@@ -49,7 +49,7 @@ A forma mais imediata de entrar em contato comigo é usando esse formulário aqu
     </form>
 </div>
 
----
+<h1 itemprop="name headline" class="post-title divided p-name" text-align="center"></h1>
 
 ### ⚫ **REDES ANTISSOCIAIS 🕵️**
 
@@ -57,7 +57,6 @@ Se imediatismo não é tanto tua vibe há outras formas de me contatar também.
 
 - Se preferir, aqui está <a href="https://api.whatsapp.com/send?phone=+55-83991647494" target="_blank"><i class="fa fa-whatsapp"></i><strong>meu zip zop! 💬</strong></a>
 - Zap é informal demais? [**Me manda um email ✉**](mailto:contato@laureano.eu){:target="_blank"}
-- Fala arisia no piador que nem eu? [**Segue lá!🐦**](https://twitter.com/laureanoeu){:target="_blank"}. 
 - Tô tentando mais uma vez utilizar [**aquela rede que dá sono 😴**](https://instagram.com/laureanoeu){:target="_blank"}.
 - Também tô na [**rede super séria 🧐**](https://linkedin.com/in/laureanoeu
 ).

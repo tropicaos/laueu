@@ -106,7 +106,7 @@ figure img {
 figcaption {
   text-align: center;
   font-weight: bold;
-  margin: none;
+  margin: auto;
   font-size: 1.1em;
   color: grey;
   background-color: rgba(254, 222, 0, 0.3);
@@ -116,6 +116,17 @@ figcaption {
   display: table;
   margin: 1em;
   float: left; 
+  .image-wrapper figcaption {
+    display: table-caption;
+    caption-side: bottom; 
+ }
+}
+
+.catimg {
+  display: table;
+  margin: 1em;
+  margin-left:auto; 
+  margin-right:auto;
   .image-wrapper figcaption {
     display: table-caption;
     caption-side: bottom; 
