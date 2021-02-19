@@ -24,7 +24,7 @@ title: Jogos.
         <img class="pcmr" title="PCMR" src="/images/pcmr.gif"/>
     </div>
     <div>
-    Apesar de ser totalmente responsivo, <strong>esse site é melhor exibido no navegador do seu computador</strong>. A largura da página num monitor é bem mais próxima da d'um livro que a da tela de telefone celular. Em outras palavras: dê espaço pros meus textos!  Deixe os bichim respirar, pô!.. Aff 😑
+    Apesar de ser totalmente responsivo, <strong>esse site é melhor exibido no navegador do seu computador</strong>. A largura da página num monitor é bem mais próxima da d'um livro que a da tela de telefone celular. Em outras palavras: dê espaço pros meus textos! Deixe os bichim respirar, pô!.. Aff 😑
     </div>
 </div>
 
