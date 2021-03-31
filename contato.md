@@ -35,10 +35,10 @@ A forma mais imediata de entrar em contato comigo é usando esse formulário aqu
 <div>
     <form style="text-align:center;" action="https://formspree.io/f/xzbkgkea"
     method="POST">
-        <input type="text" name="Remetente" placeholder="Remetente" required>
-        <input type="text" name="Email" required placeholder="Email para resposta"><strong>
+        <input type="text" name="Remetente" placeholder="Seu nome" required>
+        <input type="text" name="Email" required placeholder="Seu email"><strong>
         <select id="assunto" name="assunto" required>
-            <option value="" disabled selected >Selecione o assunto</option>
+            <option value="" disabled selected >Assunto</option>
             <option value="orçamento"><strong>Orçamento 💲</strong></option>
             <option value="feedback"><strong>Feedback 📢</strong></option>
             <option value="42"><strong>O significado da Vida, o Universo e Tudo Mais 👩🏿‍🚀🪐</strong></option>
@@ -51,13 +51,11 @@ A forma mais imediata de entrar em contato comigo é usando esse formulário aqu
 
 <h1 itemprop="name headline" class="post-title divided p-name" text-align="center"></h1>
 
-### ⚫ **REDES ANTISSOCIAIS 🕵️**
+### ⚫ **REDES "SOCIAIS" 🕵️**
 
 Se imediatismo não é tanto tua vibe há outras formas de me contatar também.
 
 - Se preferir, aqui está <a href="https://api.whatsapp.com/send?phone=+55-83991647494" target="_blank"><i class="fa fa-whatsapp"></i><strong>meu zip zop! 💬</strong></a>
 - Zap é informal demais? [**Me manda um email ✉**](mailto:contato@laureano.eu){:target="_blank"}
-- Tô tentando mais uma vez utilizar [**aquela rede que dá sono 😴**](https://instagram.com/laureanoeu){:target="_blank"}.
-- Também tô na [**rede super séria 🧐**](https://linkedin.com/in/laureanoeu
-).
+- Também tô na [**rede super séria 🧐**](https://linkedin.com/in/laureanoeu).
 - Já deve ter dado pra notar que amo [montar playlists](https://open.spotify.com/playlist/5sHfoKeDuKWXFZOxIOYrzy){:target="_blank"} para [minhas histórias](/Textos/Termos&Condicoes){:target="_blank"}. [**Dá uma colada também lá no Spotify**](https://open.spotify.com/user/8p7m6aps2kw1fius7edvoiu68){:target="_blank"}, caso queira 🎶.
