@@ -4,7 +4,7 @@ layout: page
 permalink: /fluxo
 ---
 <figure>
-  <img alt="Laureano." src="images/FLUXO.png" />
+<a href="https://www.youtube.com/watch?v=DcHKOC64KnE&ab_channel=QueensStoneAgeVEVO" target="_blank"><img alt="Laureano." src="images/FLUXO.png" /></a>
 </figure>
 
 <br/>
