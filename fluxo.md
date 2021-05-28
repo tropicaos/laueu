@@ -25,6 +25,6 @@ permalink: /fluxo
 
 <a href="http://twitch.tv/tropicaos" target="_blank" class="button" type="button"><strong>t̷r̸o̶p̵i̸c̶a̶o̶s̴ ̶s̷t̸r̷e̵a̷m̸i̸n̴g̷ 🎮</strong><br />.canal no twitch</a>
 
-<a href="https://www.instagram.com/laureatorio/" target="_blank" class="buttonrestrito" type="button"><strong>Instagram 📸</strong><br />.RESTRITO</a>
+<a href="https://www.instagram.com/laureatorio/" target="_blank" class="buttonrestrito" type="button"><strong>Instagram 📸</strong><br />.restrito</a>
 
-<a href="https://www.twitter.com/laureatorio/" target="_blank" class="buttonrestrito" type="button"><strong>Twitter 🐦</strong><br />.RESTRITO</a>
+<a href="https://www.twitter.com/laureatorio/" target="_blank" class="buttonrestrito" type="button"><strong>Twitter 🐦</strong><br />.restrito</a>
