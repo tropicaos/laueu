@@ -66,55 +66,6 @@ input[type=button], input[type=submit] {
   font-weight: bold;
 }
 
-.button[type=button], span {
-  display: block;
-  word-break: keep-all;
-  text-align: center;
-  background-color: #000;
-  border: 2px solid #000;
-  color: white;
-  padding: 16px 32px;
-  text-decoration: solid;
-  cursor: pointer;
-  border-radius: 4px;
-  transition-duration: 0.4s;
-  font-weight: bold;
-}
-
-.button[type=button]:hover {
-  background-color: #fede00;
-  border: 2px solid #000;
-  text-emphasis-color: #000;
-  color: #000;
-}
-
-.buttonrestrito[type=button], span {
-  display: block;
-  word-break: keep-all;
-  text-align: center;
-  background-color: #000;
-  border: 2px solid #000;
-  color: white;
-  padding: 16px 32px;
-  text-decoration: solid;
-  cursor: pointer;
-  border-radius: 4px;
-  transition-duration: 0.4s;
-  font-weight: bold;
-}
-
-.buttonrestrito[type=button]:hover {
-  background-color: #fe0000;
-  border: 2px solid #000;
-  text-emphasis-color: #FFF;
-  color: #FFF;
-}
-
-.textofluxo {
-  display: block;
-  margin-top: 1em;
-}
-
 input[type=submit], span {
   cursor: pointer;
   display: inline-block;
