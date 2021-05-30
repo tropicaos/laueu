@@ -19,7 +19,7 @@ permalink: /fluxo
 
 <h1 itemprop="name headline" class="post-title divided p-name" text-align="center"></h1>
 
-<a href="https://www.youtube.com/channel/UCLxikqFye9D-UFPlS4bLVcQ/featured" target="_blank" class="button" type="button"><strong>TV 📺</strong><br />.canal no youtube</a>
+<a href="https://www.youtube.com/channel/UCLxikqFye9D-UFPlS4bLVcQ/featured" target="_blank" class="button" type="submit"><strong>TV 📺</strong><br />.canal no youtube</a>
 
 <a href="https://vimeo.com/laureanoeu" target="_blank" class="button" type="button"><strong>Filmografia 🎥</strong><br />.canal no vimeo</a>
 
