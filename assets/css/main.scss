@@ -17,17 +17,60 @@ $asset_url: '{{ '/assets' | absolute_url }}';
   "post-list",
   "article",
   "footnotes",
-  "search"
-;
+  "search";
 
-input {
-    width: 100%; 
+.button {
+  outline: inherit;
+  display: inline-block;
+  width: 100%;
+  margin: 0,5px 0;
+  font-family: Garamond;
+  color: #fff;
+  background-color: #000;
+  border: 2px solid #000;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.button[type="button"]:hover {
+  background-color: #fede00;
+  border: 2px solid #000;
+  border-radius: 4px;
+  text-emphasis-color: black;
+  color: black;
+  transition-duration: 0.4s;
+}
+
+.buttonrestrito {
+  outline: inherit;
+  display: inline-block;
+  width: 100%;
+  margin: 0,5px 0;
+  font-family: Garamond;
+  color: #fff;
+  background-color: #000;
+  border: 2px solid #000;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.buttonrestrito[type="button"]:hover {
+  background-color: #fe0000;
+  border: 2px solid #000;
+  border-radius: 4px;
+  text-emphasis-color: #fff;
+  color: rgb(255, 255, 255);
+  transition-duration: 0.4s;
+}
+
+input, {
+  width: 100%; 
 	outline: inherit;
 	border: 2px solid #000;
-    font-family: Garamond;
-    font-size: 15px;
-    font-weight: bold;
-    color: black;
+  font-family: Garamond;
+  font-size: 15px;
+  font-weight: bold;
+  color: black;
 }
 
 input[type=text], [type=email] {
@@ -86,6 +129,7 @@ textarea {
   outline: none;
   border: none;
   resize: none;
+  background-color: #fff;
 }
     
 textarea:focus, input:focus {

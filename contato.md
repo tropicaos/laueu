@@ -19,8 +19,8 @@ Tenho pra mim que **a melhor newsletter é aquela que você esquece que existe**
 <center>Se faz teu tipo ter em mãos conteúdos exclusivíssimos,<br/> <strong>assine O Boletim Errante</strong> 💌🏃🏿‍♀️ colocando seu email abaixo:</center>
 
 <div>
-    <form style="text-align:center;" action="https://tinyletter.com/laureanoeu" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/laureanoeu', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-        <input type="text" name="email" id="tlemail" placeholder="Seu email" style="text-align: center" />
+    <form style="text-align:center;" action="https://tinyletter.com/OBoletimErrante" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/OBoletimErrante', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+        <input type="text" name="email" id="tlemail" placeholder="Insira seu email aqui e receba O BOLETIM ERRANTE 💌🏃🏿‍♀️" style="text-align: center" />
         <input type="hidden" value="1" name="embed"/>
         <input type="submit" value="QUERO RECEBER!"  />
     </form>
@@ -44,7 +44,7 @@ A forma mais imediata de entrar em contato comigo é usando esse formulário aqu
             <option value="42"><strong>O significado da Vida, o Universo e Tudo Mais 👩🏿‍🚀🪐</strong></option>
             <option value="ofensa"><strong>Ofensa 🤬</strong></option>
         </select></strong>
-        <input class="button" type="text" name="Caixa de Texto" placeholder="Escreva aqui um texto bonitão! (Exceto se for ofensa)" required>
+        <input class="text" type="text" name="Caixa de Texto" placeholder="Escreva aqui um texto bonitão! (Exceto se for ofensa)" required>
         <input type="submit" value="DALE!">
     </form>
 </div>
