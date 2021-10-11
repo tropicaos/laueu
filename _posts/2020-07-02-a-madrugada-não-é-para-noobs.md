@@ -3,7 +3,7 @@ layout: post
 title: A Madrugada não é para Noobs
 categories:
   - textos
-tags: contos, suspense
+tags: conto suspense
 permalink: /Textos/AMadrugadaNaoEParaNoobs
 date: 2016-10-18T12:18:09.446Z
 ---

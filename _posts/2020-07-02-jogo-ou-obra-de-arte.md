@@ -4,7 +4,7 @@ title: Jogo ou Obra de Arte?
 categories:
   - textos
   - jogos
-tags: arte, jogos, devaneios
+tag: devaneio
 permalink: /Textos/JogArte
 date: 2014-10-23T03:10:03.231Z
 ---

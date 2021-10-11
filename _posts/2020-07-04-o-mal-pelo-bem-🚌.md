@@ -3,7 +3,7 @@ layout: post
 title: O Mal Pelo Bem 🚌
 categories:
   - textos
-tags: contos
+tag: conto
 permalink: /Textos/OMalPeloBem
 date: 2018-01-02T17:29:07.826Z
 ---

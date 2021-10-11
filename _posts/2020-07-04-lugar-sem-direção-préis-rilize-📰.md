@@ -3,7 +3,7 @@ layout: post
 title: Lugar Sem Direção | PRÉIS RILIZE 📰
 categories:
   - textos
-tags: videoclipe, press release
+tags: videoclipe press-release
 permalink: /Textos/LugarSemDirecao-PRESS-RELEASE
 date: 2017-11-09T17:10:56.910Z
 ---

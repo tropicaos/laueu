@@ -4,7 +4,7 @@ title: Zé Silva — Abelha, abelhinha 🐝
 categories:
   - trampos
   - videos
-tags: videoclipe
+tags: videoclipe bucólico
 vimeoId: 224962688
 permalink: /Trampos/ZeSilvaAbelhaAbelhinha
 date: 2017-08-10T15:43:14.107Z

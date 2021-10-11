@@ -4,7 +4,7 @@ title: 🌱 Flores Baldias no Meio do Mato
 categories:
   - fotos
   - trampos
-tags: natureza
+tag: natureza
 permalink: /Trampos/FloresBaldiasNoMeioDoMato
 date: 2018-02-19T18:02:04.132Z
 ---

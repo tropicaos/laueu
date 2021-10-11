@@ -3,7 +3,7 @@ layout: post
 title: Conto das Contas 🏧
 categories:
   - textos
-tags: crônicas, humor, devaneios
+tags: crônica humor devaneio
 permalink: /Textos/ContodasContas
 date: 2016-03-02T11:49:59.703Z
 ---

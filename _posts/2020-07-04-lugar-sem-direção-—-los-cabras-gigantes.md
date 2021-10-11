@@ -5,7 +5,7 @@ categories:
   - trampos
   - videos
 vimeoId: 254650419
-tags: videoclipe
+tags: videoclipe comédia lombra
 permalink: /Trampos/LugarSemDirecao-LosCabrasGigantes
 date: 2018-02-09T17:52:08.094Z
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Tic. Tac. Tic. 🕘
 categories:
   - textos
-tags: contos, drama
+tags: conto drama
 permalink: /Textos/TicTacTic
 date: 2016-09-09T12:02:51.589Z
 ---

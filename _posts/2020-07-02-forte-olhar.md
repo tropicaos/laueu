@@ -3,7 +3,7 @@ layout: post
 title: FORTE OLHAR 🏰
 categories:
   - fotos
-tags: arquitetônico, turístico, histórico
+tags: arquitetônico turístico histórico paisagem
 permalink: /Fotos/FORTEOLHAR
 date: 2017-08-09T12:26:17.492Z
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Game Design Comportamental
-tags: game design, jogos, behaviorismo, psicologia, games
+tags: game-design behaviorismo psicologia
 categories: [textos, jogos]
 permalink: /Textos/GameDesignComportamental
 date: 2014-10-06T17:09:19.000Z

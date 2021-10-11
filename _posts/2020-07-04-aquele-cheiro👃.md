@@ -3,7 +3,7 @@ layout: post
 title: Aquele Cheiro 👃
 categories:
   - textos
-tags: lírico, romances, contos
+tags: lírico romance conto
 permalink: /Textos/AqueleCheiro
 date: 2017-08-16T16:55:39.805Z
 ---

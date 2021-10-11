@@ -3,7 +3,7 @@ layout: post
 title: OndeComerEmJP 🍨
 categories:
   - trampos
-tags: gastronomia, mídias
+tags: gastronomia mídia
 permalink: /Trampos/OndeComerEmJP
 date: 2017-08-10T19:30:39.224Z
 ---

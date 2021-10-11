@@ -3,7 +3,7 @@ layout: post
 title: Entre Quasares & Supernovas. 🌌👩‍🚀
 categories:
   - textos
-tags: crônicas, romances, scifi, lírico
+tags: crônica romance scifi lírico
 permalink: /Textos/EntreQuasares&Supernovas
 date: 2016-08-19T11:58:18.209Z
 ---

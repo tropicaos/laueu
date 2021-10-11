@@ -4,7 +4,7 @@ title: "JOGUINDIE "
 categories:
   - trampos
   - jogos
-tags: conteúdos, jogos, mídias
+tag: mídia
 permalink: /Trampos/JOGUINDIE
 date: 2017-08-10T19:22:03.492Z
 ---

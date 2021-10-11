@@ -5,7 +5,7 @@ categories:
   - videos
   - trampos
 vimeoId: 256395382
-tags: videoclipe, natureza
+tags: videoclipe natureza
 permalink: /Trampos/FloresBaldiasVentoVendaval
 date: 2018-02-20T18:10:08.584Z
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Rolê ✝️ Religioso
 categories:
   - fotos
-tags: registro de viagem, arquitetura, turístico, histórico
+tags: diário-de-bordo arquitetura turístico histórico paisagem
 permalink: /Fotos/RoleReligioso
 date: 2017-08-13T15:58:47.174Z
 ---

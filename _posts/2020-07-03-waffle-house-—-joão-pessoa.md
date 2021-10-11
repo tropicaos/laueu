@@ -4,7 +4,7 @@ title: Waffle House 🥝 — João Pessoa
 categories:
   - trampos
   - videos
-tags: gastronomia, publicidade
+tags: gastronomia publicidade
 vimeoId: 230738870
 permalink: /Trampos/wafflehousejpa
 date: 2017-08-10T10:03:11.681Z

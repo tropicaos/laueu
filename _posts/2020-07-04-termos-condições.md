@@ -3,7 +3,7 @@ layout: post
 title: "TERMOS & CONDIÇÕES"
 categories:
   - textos
-tags: argumentos, contos
+tags: argumento conto comédia suspense
 spotifyplaylist: 0MMS0CWIcIF02UCBmac4EU
 permalink: /Textos/Termos&Condicoes
 date: 2019-01-01T18:34:28.857Z

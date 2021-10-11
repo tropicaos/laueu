@@ -4,7 +4,7 @@ title: SÍSTOLE 🖤 — Vídeo poema
 categories:
   - videos
   - trampos
-tags: lírico, poema/poesia, videopoema
+tags: lírico poemia videopoema ufpb
 vimeoId: 251818155
 permalink: /Trampos/SISTOLEvideopoema
 date: 2018-03-20T18:30:39.054Z

@@ -3,7 +3,7 @@ layout: post
 title: João Pessoa Sustentável no AR 📻
 categories:
   - trampos
-tags: rádio, podcasts, ufpb
+tags: rádio podcast ufpb
 permalink: /Trampos/JoaoPessoaSustentavelNoAr
 date: 2017-10-31T17:04:54.504Z
 ---

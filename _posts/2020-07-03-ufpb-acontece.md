@@ -4,7 +4,7 @@ title: UFPB Acontece 📺📰
 categories:
   - trampos
   - videos
-tags: jornalismo
+tag: jornalismo
 permalink: /Trampos/UFPB-Acontece
 youtubeId: videoseries?list=PLgFWXTZM16pDin9oI1VPTtMpw_3IptBBH
 date: 2017-08-10T19:59:27.027Z

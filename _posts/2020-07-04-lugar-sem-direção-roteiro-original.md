@@ -3,7 +3,7 @@ layout: post
 title: Lugar Sem Direção [Roteiro Original 📓]
 categories:
   - textos
-tags: roteiros, shooting script
+tag: roteiro
 permalink: /Textos/LugarSemDirecao-RoteiroOriginal
 date: 2017-11-13T17:17:35.373Z
 ---

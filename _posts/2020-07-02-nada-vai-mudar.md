@@ -3,7 +3,7 @@ layout: post
 title: Nada Vai Mudar
 categories:
   - textos
-tags: contos, romances
+tags: conto romance
 permalink: /Textos/NadaVaiMudar
 permalink: /Textos/AMaiorMentiraDeTodas
 date: 2016-03-01T03:58:23.231Z
@@ -11,7 +11,7 @@ date: 2016-03-01T03:58:23.231Z
 
 {% include image.html
             img="/images/uploads/mentimosparanosmesmos.png"
-            title="b1du"
+            title="b1doo"
             caption="&#34;No ônibus ela sorri.&#34;"
 %}
 
