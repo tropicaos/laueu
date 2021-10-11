@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Game Design Comportamental
+subtitle: Como a psicologia behaviorista é utilizada em jogos eletrônicos.
 tags: game-design behaviorismo psicologia
 categories: [textos, jogos]
 permalink: /Textos/GameDesignComportamental
 date: 2014-10-06T17:09:19.000Z
 ---
-<h4><p style="text-align:center">Como a psicologia behaviorista é utilizada em jogos eletrônicos.</p></h4>
-<!--more-->
 ![imagem de capa - fundo sóbrio de um mar calmo em preto e branco](/images/uploads/comportamental.jpg)
 
 > ##### *John Hopson é o Chefe do Departamento de Pesquisa de Usuário da Bungie e foi o pesquisador chefe de jogos como Halo e Age of Empires. O artigo a seguir foi escrito por ele e postado no >>[Gamasutra.com](http://www.gamasutra.com/view/feature/3085/behavioral_game_design.php?page=1) em 21 de Abril de 2001, disponível agora em português numa tradução livre feita por mim sob a revisão de Larissa Brito. Este texto serve como conteúdo extra para o meu artigo “[Como Games Viciam Você](http://jogazera.com.br/como-os-games-viciam-voce/)”, postado no site [Jogazera](http://jogazera.com.br/).*

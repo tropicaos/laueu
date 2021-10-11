@@ -14,6 +14,16 @@ comments: true
     <h1 itemprop="name headline" class="post-title divided p-name">
      {{ page.title }}</h1>
     {% endif %}
+    {% if page.subtitle != "" %}
+    <h4><p style="text-align:center"><strong>{{ page.subtitle }}
+    </strong></p></h4>
+    {% endif %}
+    <h6><span style="text-align:center">etiquetas:
+      {% for tag in page.tags %}
+        {% capture tag_name %}{{ tag }}{% endcapture %}
+        <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+      {% endfor %}
+    </span></h6>
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>

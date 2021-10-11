@@ -1,16 +1,13 @@
 ---
 layout: post
 title: O Mal Pelo Bem 🚌
+subtitle: Vocês não tem moral pra reclamar de porra nenhuma.
 categories:
   - textos
 tag: conto
 permalink: /Textos/OMalPeloBem
 date: 2018-01-02T17:29:07.826Z
 ---
-
-<h4><p style="text-align:center"><strong>Vocês não tem moral pra reclamar de porra nenhuma.
-</strong></p></h4>
-
 ![](/images/uploads/omalpelobem01.jpeg)
 
 O fato d’eu estar jogado no chão com esse enorme buraco no braço jorrando sangue só me fez me lembrar como isso tudo começou.
