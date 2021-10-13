@@ -4,14 +4,14 @@ email:
   title: 'Email'
   fa-icon: 'fa-envelope-square'
 
-twitter:
-  id: 'laureanoeu'
-  href: 'https://www.twitter.com/laureanoeu'
-  title: 'Twitter'
-  fa-icon: 'fa-twitter-square'
-
 instagram:
   id: 'laureanoeu'
   href: 'https://instagram.com/laureanoeu'
   title: 'Instagram'
   fa-icon: 'fa-instagram-square'
+
+  vimeo:
+  id: 'laureanoeu'
+  href: 'https://vimeo.com/laureanoeu'
+  title: 'Vimeo'
+  fa-icon: 'fa-vimeo-square'

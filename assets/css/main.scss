@@ -31,7 +31,9 @@ $asset_url: '{{ '/assets' | absolute_url }}';
   border-radius: 4px;
   text-align: center;
 }
-
+.etiquetas {
+   columns: 200px;
+ }
 .button[type="button"]:hover {
   background-color: #fede00;
   border: 2px solid #000;

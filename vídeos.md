@@ -3,6 +3,7 @@ layout: page
 permalink: /Videos
 title: Vídeos.
 ---
+
 <figure>
   <img alt="Laureano." src="/images/VIDEOS.png"/>
 </figure>

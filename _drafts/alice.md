@@ -3,7 +3,7 @@ layout: post
 title: Alice ✒
 categories:
   - textos
-tags: argumentos, terror, suspense
+tags: argumento terror suspense
 permalink: /Textos/Alice
 ---
 

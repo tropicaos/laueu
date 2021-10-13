@@ -18,10 +18,10 @@ comments: true
     <h4><p style="text-align:center"><strong>{{ page.subtitle }}
     </strong></p></h4>
     {% endif %}
-    <h6><span style="text-align:center">etiquetas:
-      {% for tag in page.tags %}
-        {% capture tag_name %}{{ tag }}{% endcapture %}
-        <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+    <h6><span style="text-align:center"><a href="{{ site.baseurl }}/etiquetas.html">
+      <i class="fa fa-tag"></i> {% for tag in page.tags %}
+      {% capture tag_name %}{{ tag }}{% endcapture %}
+       <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
       {% endfor %}
     </span></h6>
   <div class="post-content e-content" itemprop="articleBody">
