@@ -2,9 +2,12 @@
 layout: post
 title: Alice ✒
 categories:
-  - textos
-tags: argumentos, terror, suspense
-permalink: /Textos/Alice
+- textos
+tags:
+- suspense
+- argumento
+- terror
+permalink: "/Textos/Alice"
 ---
 
 Após descansar a agulha na música que queria no disco de seu SS 9000, BERNADETE, 78 anos, vai em direção a sua poltrona preferida na sala de estar. Pega sua revistinha preferida e simultaneamente ao sentar em sua confortável poltrona surrada, a campainha toca. Ela coloca seus criptogramas cheios de enigmas para resolver ao lado de um lápis na mesinha de centro e vai atender. Já em cima da escadaria da entrada uma bela moça de cabelos negros brilhantes acena para ela. A música do toca discos escapa pra rua.
