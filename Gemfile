@@ -24,6 +24,7 @@ group :jekyll_plugins do
   gem "jekyll-font-awesome-sass"
   gem "kramdown-parser-gfm"
   gem "jekyll-seo-tag"
+  gem "jekyll-manager"
     end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
