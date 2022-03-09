@@ -13,7 +13,7 @@ date: 2016-10-18T12:18:09.446Z
 
 Fecho o portão atrás de mim. Olho para os dois lados. Penduro a coisa nos lábios e caminho pelas ruas escuras. Os problemas me invadem a mente mas entre um trago e outro se esvaem momentaneamente. A noite é fria do jeito que gosto.
 
-Numa encruzilhada o cachorro enrola-se sob paralelepípedos glaciais. Não preocupado para se mover para longe de um estranho como eu, mas não calmo o bastante para tirar os olhos de mim. Simpatizo. Meus coturnos param perto de suas patas marrons. Estico minha mão calmamente, cães de rua são maltratados diariamente e vivem com medo. Não foi esse o caso. Logo fechou os olhos para um sutil carinho no cocuruto. Resolvi agachar-me, mas meu companheiro canino assustou-se e bateu em calma retirada, com a cautela de vez ou outra olhar para trás serenamente.
+Numa encruzilhada o cachorro enrola-se sobre paralelepípedos glaciais. Não preocupado para se mover para longe de um estranho como eu, mas não calmo o bastante para tirar os olhos de mim. Simpatizo. Meus coturnos param perto de suas patas marrons. Estico minha mão calmamente, cães de rua são maltratados diariamente e vivem com medo. Não foi esse o caso. Logo fechou os olhos para um sutil carinho no cocuruto. Resolvi agachar-me, mas meu companheiro canino assustou-se e bateu em calma retirada, com a cautela de vez ou outra olhar para trás serenamente.
 
 Foi esse o caso sim.
 
