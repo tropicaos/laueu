@@ -10,13 +10,13 @@ layout: page
 
 ### ⚫ **O BOLETIM ERRANTE 💌🏃🏿‍♀️**
 
-Este site (e todo o meu trabalho autoral) faz parte do **Movimento SLOW WEB** [(leia o manifesto do movimento aqui)](https://manualdousuario.net/a-slow-web/){:target="_blank"}. As obras  serão postadas aqui [quando estiverem realmente prontas](https://i.imgur.com/YsfZ2Tq.png){:target="_blank"}. Nada de desespero semanal para alimentar algoritmos que não pagam meus boletos. Isso garante que os conteúdos chegarão o mais orgânico e lapidado possível; Por outro lado não tem como saber quando um novo conteúdo sair. Pensando nisso criei **O Boletim Errante 💌🏃🏿‍♀️**, algo muito parecido com [as cartas que escrevia para meus seguidores](https://i.imgur.com/OG2RpNl.png){:target="_blank"} quando meu site ainda era no [Medium](http://medium.com/@laureanoeu){:target="_blank"} (2014-2019). 
+Este site (e todo o meu trabalho autoral) faz parte do **Movimento SLOW WEB** [(leia o manifesto do movimento aqui)](https://manualdousuario.net/a-slow-web/){:target="_blank"}. As obras  serão postadas aqui [quando estiverem realmente prontas](https://i.imgur.com/YsfZ2Tq.png){:target="_blank"}. Nada de desespero semanal para alimentar algoritmos que não pagam meus boletos. Isso garante que os conteúdos chegarão o mais orgânicos e lapidados possível. Por outro lado, não tem como saber quando um novo conteúdo sair. Pensando nisso, criei O Boletim Errante 💌🏃🏿‍♀️, algo muito parecido com [as cartas que escrevia pr'os meus seguidores](https://i.imgur.com/OG2RpNl.png){:target="_blank"} quando meu site ainda era no [Medium](http://medium.com/@laureanoeu){:target="_blank"} (2014-2019). 
 
 **O Boletim** é um conteúdo original por si só que aglutina as últimas postagens do site *y otras cositas más* como anedotas sobre meu processo criativo, bastidores de produção de obras mais robustas e anúncios extremamente prematuros de conteúdos em construção que nunca falo em canto algum, [nem pros mais próximos](https://twitter.com/laureatorio){:target="_blank"}.
 
-Tenho pra mim que **a melhor newsletter é aquela que você esquece que existe**. Minhas cartas no Medium tinham em média mais de um ano entre seus lançamentos, então se teu medo é spam, relaxa. Muito provavelmente detesto mais spam do que você. Sério, ódio mortal mesmo.
+Tenho pra mim que a melhor newsletter é aquela que tu esquece que existe. Minhas cartas no Medium tinham em média mais de um ano entre lançamentos, então se teu medo é spam, relaxa. Muito provavelmente detesto mais spam do que tu. Sério, ódio mortal mesmo.
 
-<center>Se faz teu tipo ter em mãos conteúdos exclusivíssimos,<br/> <strong>assine O Boletim Errante</strong> 💌🏃🏿‍♀️ colocando seu email abaixo:</center>
+<center>Se faz teu tipo ter em mãos conteúdos exclusivíssimos,<br/> <strong>assine O Boletim Errante</strong> 💌🏃🏿‍♀️ colocando teu email abaixo:</center>
 
 <div>
     <form style="text-align:center;" action="https://tinyletter.com/OBoletimErrante" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/OBoletimErrante', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
