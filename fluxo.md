@@ -7,6 +7,8 @@ permalink: /fluxo
 <a href="https://www.youtube.com/watch?v=DcHKOC64KnE&ab_channel=QueensStoneAgeVEVO" target="_blank"><img alt="Laureano." src="images/FLUXO.png" /></a>
 </figure>
 
+<h1 itemprop="name headline" class="post-title divided p-name" text-align="center"></h1>
+
 <a href="/Textos/Alice" class="button" type="button"><strong>ALICE 🖋️</strong><br />.argumento cinematográfico</a>
 
 <a href="https://laureano.eu/" class="button" type="button"><strong>SITE 🌐</strong><br />.portfólio /.blog / .currículo</a>
