@@ -1,0 +1,69 @@
+---
+layout: default
+---
+{% if site.data.menu and site.paginate and site.paginate_path and paginator.page > 1 %}
+  {% include menu.html %}
+{% elsif site.paginate and site.paginate_path and paginator.page > 1 %}
+  {% include back-link.html %}
+{% else %}
+  <header class="site-masthead">
+    {% include menu.html %}
+          <h1>
+        Lau.
+      </h1>
+          <h2>
+         Valsando com o caos entre quasares e supernovas.
+      </h2>
+  </header>
+{% endif %}
+<main class="home" id="main" role="main" aria-label="Content">
+    
+  <h1 class="content-title divided">
+    {% if site.paginate and site.paginate_path and paginator.page > 1 %}
+      Página {{ paginator.page }}
+    {% else %}
+      Postagens
+    {% endif %}
+  </h1>
+  {% if site.paginate and site.paginate_path %}
+    <ul class="post-list">
+      {% for post in paginator.posts %}
+        {% include post-list-item.html %}
+      {% endfor %}
+    </ul>
+
+    {% if paginator.total_pages > 1 %}
+
+      <div class="post-pagination">
+        {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="pagination-previous btn">&bull;&bull;&bull;</a>
+        {% else %}
+          <span>&nbsp;</span>
+        {% endif %}
+            
+          {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em>{{ page }}</em>
+    {% elsif page == 1 %}
+      <a href="{{ '/' | relative_url }}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+        {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl  }}" class="pagination-next btn">&bull;&bull;&bull;</a>
+        {% else %}
+
+          <span>&nbsp;</span>
+        {% endif %}
+      </div>
+    {% endif %}
+  {% else %}
+    <ul class="post-list">
+      {% for post in site.posts %}
+      { if post.category=="blog" %}
+        {% include post-list-item.html %}
+      {% endfor %}
+    </ul>
+  {% endif %}
+</main>
