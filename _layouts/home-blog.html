@@ -63,6 +63,7 @@ layout: default
       {% for post in site.posts %}
       {% if post.category=="blog" %}
         {% include post-list-item.html %}
+        {% endif %}
       {% endfor %}
     </ul>
   {% endif %}
