@@ -61,7 +61,7 @@ layout: default
   {% else %}
     <ul class="post-list">
       {% for post in site.posts %}
-      { if post.category=="blog" %}
+      {% if post.category=="blog" %}
         {% include post-list-item.html %}
       {% endfor %}
     </ul>
