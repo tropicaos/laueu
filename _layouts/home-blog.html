@@ -27,8 +27,10 @@ layout: default
   </h1>
   {% if site.paginate and site.paginate_path %}
     <ul class="post-list">
-      {% for post in paginator.posts %}
-        {% include post-list-item.html %}
+      {% for post in site.posts %}
+        {% if post.category=="blog" %}
+          {% include post-list-item.html %}
+        {% endif %}
       {% endfor %}
     </ul>
 
