@@ -8,9 +8,9 @@ permalink: /fluxo
 </figure>
 
 <h1 itemprop="name headline" class="post-title divided p-name" text-align="center"></h1>
-
+<!-- 
 <a href="/Textos/Alice" class="button" type="button"><strong>ALICE 🖋️</strong><br />.argumento cinematográfico</a>
-
+-->
 <a href="https://laureano.eu/" class="button" type="button"><strong>SITE 🌐</strong><br />.portfólio /.blog / .currículo</a>
 
 <a href="https://vimeo.com/laureanoeu" target="_blank" class="button" type="button"><strong>FILMOGRAFIA 🎥</strong><br />.canal no vimeo</a>
