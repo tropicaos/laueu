@@ -11,11 +11,11 @@ permalink: /fluxo
 <!-- 
 <a href="/Textos/Alice" class="button" type="button"><strong>ALICE 🖋️</strong><br />.argumento cinematográfico</a>
 -->
-<a href="https://laureano.eu/" class="button" type="button"><strong>SITE 🌐</strong><br />.portfólio /.blog / .currículo</a>
+<a href="https://laureator.io/" class="button" type="button"><strong>SITE 🌐</strong><br />.portfólio /.blog / .currículo</a>
 
 <a href="https://vimeo.com/laureanoeu" target="_blank" class="button" type="button"><strong>FILMOGRAFIA 🎥</strong><br />.canal no vimeo</a>
 
-<a href="https://www.instagram.com/laureanoeu/" target="_blank" class="button" type="button"><strong>INSTAGRAM 📸</strong><br />@laureanoeu</a>
+<a href="https://www.instagram.com/laureatorio/" target="_blank" class="button" type="button"><strong>INSTAGRAM 📸</strong><br />@laureanoeu</a>
 
 <a href="https://www.youtube.com/channel/UCLxikqFye9D-UFPlS4bLVcQ/featured" target="_blank" class="button" type="button"><strong>TV 📺</strong><br />.canal no youtube</a>
 
