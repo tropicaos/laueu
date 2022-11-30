@@ -15,7 +15,7 @@ permalink: /fluxo
 
 <a href="https://vimeo.com/laureanoeu" target="_blank" class="button" type="button"><strong>FILMOGRAFIA 🎥</strong><br />.canal no vimeo</a>
 
-<a href="https://www.instagram.com/laureatorio/" target="_blank" class="button" type="button"><strong>INSTAGRAM 📸</strong><br />@laureanoeu</a>
+<a href="https://www.instagram.com/laureatorio/" target="_blank" class="button" type="button"><strong>INSTAGRAM 📸</strong><br />@laureatorio</a>
 
 <a href="https://www.youtube.com/channel/UCLxikqFye9D-UFPlS4bLVcQ/featured" target="_blank" class="button" type="button"><strong>TV 📺</strong><br />.canal no youtube</a>
 
