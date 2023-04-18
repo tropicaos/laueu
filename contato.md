@@ -56,6 +56,6 @@ A forma mais imediata de entrar em contato comigo é usando esse formulário aqu
 Se imediatismo não é tanto tua vibe há outras formas de me contatar também.
 
 - Se preferir, aqui está <a href="https://api.whatsapp.com/send?phone=+55-83991647494" target="_blank"><i class="fa fa-whatsapp"></i><strong>meu zip zop! 💬</strong></a>
-- Zap é informal demais? [**Me manda um email ✉**](mailto:contato@laureano.eu){:target="_blank"}
-- Também tô na [**rede super séria 🧐**](https://linkedin.com/in/laureanoeu){:target="_blank"}.
+- Zap é informal demais? [**Me manda um email ✉**](mailto:laureatorio@gmail.com){:target="_blank"}
+- Também tô na [**rede super séria 🧐**](https://linkedin.com/in/laureatorio){:target="_blank"}.
 - Já deve ter dado pra notar que amo [montar playlists](https://open.spotify.com/playlist/5sHfoKeDuKWXFZOxIOYrzy){:target="_blank"} para [minhas histórias](/Textos/Termos&Condicoes){:target="_blank"}. [**Dá uma colada também lá no Spotify**](https://open.spotify.com/user/8p7m6aps2kw1fius7edvoiu68){:target="_blank"}, caso queira 🎶.
